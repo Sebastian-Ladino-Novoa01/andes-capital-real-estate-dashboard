@@ -4,6 +4,7 @@ Three-page Tableau dashboard analysing 8,500 property sales (2023–2024) in Bog
 
 **[View the interactive dashboard on Tableau Public →](https://public.tableau.com/views/AndesCapital-Proyecto10/AnlisisComercial)**
 
+![Executive Overview](dashboard-overview.png)
 
 ## Business Question
 
@@ -81,6 +82,7 @@ Field names are in Spanish, as they appear in the dashboard.
 
 ### Each property type wins at something different
 
+![Commercial Analysis](dashboard-commercial.png)
 
 | Type | Revenue | Sales | Average ticket |
 |---|---|---|---|
@@ -104,6 +106,7 @@ Revenue peaks in March–April and September–November and dips in January and 
 
 ### Customers return, but fewer new ones arrive
 
+![Cohort Analysis](dashboard-cohorts.png)
 
 - **61% of all sales are repeat purchases.** 77% of buyers purchased more than once.
 - The March and April 2023 cohorts generated the most repeat activity (829 and 720 purchases after their first month).
@@ -142,6 +145,9 @@ The 11% growth is real, but it is driven by retention, not acquisition. That is 
 
 ## Files
 
+- [`dashboard-overview.png`](dashboard-overview.png) — Executive Overview
+- [`dashboard-commercial.png`](dashboard-commercial.png) — Commercial Analysis
+- [`dashboard-cohorts.png`](dashboard-cohorts.png) — Cohort Analysis
 - [`data/`](data/) — source CSV files
 
 ## Tools
