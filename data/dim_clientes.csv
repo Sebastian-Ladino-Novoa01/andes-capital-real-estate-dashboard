@@ -1,0 +1,3501 @@
+id_cliente,segmento_comprador,pais,ciudad
+CUST00001,Primera vez,Colombia,Bogotá
+CUST00002,Alto patrimonio,Mexico,Ciudad de México
+CUST00003,Inversionista,Mexico,Ciudad de México
+CUST00004,Inversionista,Colombia,Bogotá
+CUST00005,Primera vez,Mexico,Ciudad de México
+CUST00006,Primera vez,Mexico,Ciudad de México
+CUST00007,Primera vez,Mexico,Ciudad de México
+CUST00008,Alto patrimonio,Colombia,Bogotá
+CUST00009,Inversionista,Mexico,Ciudad de México
+CUST00010,Inversionista,Colombia,Bogotá
+CUST00011,Primera vez,Colombia,Bogotá
+CUST00012,Alto patrimonio,Colombia,Bogotá
+CUST00013,Inversionista,Mexico,Ciudad de México
+CUST00014,Primera vez,Mexico,Ciudad de México
+CUST00015,Primera vez,Mexico,Ciudad de México
+CUST00016,Primera vez,Mexico,Ciudad de México
+CUST00017,Primera vez,Colombia,Bogotá
+CUST00018,Primera vez,Colombia,Bogotá
+CUST00019,Primera vez,Colombia,Bogotá
+CUST00020,Primera vez,Colombia,Bogotá
+CUST00021,Inversionista,Colombia,Bogotá
+CUST00022,Primera vez,Colombia,Bogotá
+CUST00023,Primera vez,Colombia,Bogotá
+CUST00024,Primera vez,Colombia,Bogotá
+CUST00025,Primera vez,Colombia,Bogotá
+CUST00026,Inversionista,Colombia,Bogotá
+CUST00027,Primera vez,Mexico,Ciudad de México
+CUST00028,Primera vez,Mexico,Ciudad de México
+CUST00029,Inversionista,Mexico,Ciudad de México
+CUST00030,Primera vez,Colombia,Bogotá
+CUST00031,Inversionista,Colombia,Bogotá
+CUST00032,Primera vez,Mexico,Ciudad de México
+CUST00033,Primera vez,Colombia,Bogotá
+CUST00034,Alto patrimonio,Colombia,Bogotá
+CUST00035,Alto patrimonio,Colombia,Bogotá
+CUST00036,Inversionista,Colombia,Bogotá
+CUST00037,Primera vez,Colombia,Bogotá
+CUST00038,Primera vez,Colombia,Bogotá
+CUST00039,Inversionista,Mexico,Ciudad de México
+CUST00040,Primera vez,Colombia,Bogotá
+CUST00041,Primera vez,Colombia,Bogotá
+CUST00042,Primera vez,Mexico,Ciudad de México
+CUST00043,Primera vez,Colombia,Bogotá
+CUST00044,Alto patrimonio,Colombia,Bogotá
+CUST00045,Primera vez,Mexico,Ciudad de México
+CUST00046,Inversionista,Colombia,Bogotá
+CUST00047,Primera vez,Colombia,Bogotá
+CUST00048,Primera vez,Colombia,Bogotá
+CUST00049,Primera vez,Colombia,Bogotá
+CUST00050,Primera vez,Mexico,Ciudad de México
+CUST00051,Alto patrimonio,Mexico,Ciudad de México
+CUST00052,Inversionista,Colombia,Bogotá
+CUST00053,Alto patrimonio,Mexico,Ciudad de México
+CUST00054,Alto patrimonio,Colombia,Bogotá
+CUST00055,Inversionista,Colombia,Bogotá
+CUST00056,Alto patrimonio,Mexico,Ciudad de México
+CUST00057,Primera vez,Colombia,Bogotá
+CUST00058,Primera vez,Colombia,Bogotá
+CUST00059,Primera vez,Colombia,Bogotá
+CUST00060,Primera vez,Colombia,Bogotá
+CUST00061,Primera vez,Colombia,Bogotá
+CUST00062,Primera vez,Mexico,Ciudad de México
+CUST00063,Inversionista,Colombia,Bogotá
+CUST00064,Primera vez,Colombia,Bogotá
+CUST00065,Primera vez,Colombia,Bogotá
+CUST00066,Primera vez,Mexico,Ciudad de México
+CUST00067,Primera vez,Mexico,Ciudad de México
+CUST00068,Inversionista,Mexico,Ciudad de México
+CUST00069,Primera vez,Mexico,Ciudad de México
+CUST00070,Alto patrimonio,Mexico,Ciudad de México
+CUST00071,Inversionista,Colombia,Bogotá
+CUST00072,Primera vez,Mexico,Ciudad de México
+CUST00073,Primera vez,Mexico,Ciudad de México
+CUST00074,Inversionista,Mexico,Ciudad de México
+CUST00075,Inversionista,Mexico,Ciudad de México
+CUST00076,Inversionista,Colombia,Bogotá
+CUST00077,Inversionista,Colombia,Bogotá
+CUST00078,Primera vez,Colombia,Bogotá
+CUST00079,Primera vez,Mexico,Ciudad de México
+CUST00080,Primera vez,Colombia,Bogotá
+CUST00081,Alto patrimonio,Colombia,Bogotá
+CUST00082,Inversionista,Mexico,Ciudad de México
+CUST00083,Primera vez,Colombia,Bogotá
+CUST00084,Primera vez,Mexico,Ciudad de México
+CUST00085,Primera vez,Colombia,Bogotá
+CUST00086,Primera vez,Colombia,Bogotá
+CUST00087,Inversionista,Colombia,Bogotá
+CUST00088,Inversionista,Mexico,Ciudad de México
+CUST00089,Alto patrimonio,Colombia,Bogotá
+CUST00090,Primera vez,Colombia,Bogotá
+CUST00091,Primera vez,Mexico,Ciudad de México
+CUST00092,Inversionista,Colombia,Bogotá
+CUST00093,Inversionista,Mexico,Ciudad de México
+CUST00094,Inversionista,Mexico,Ciudad de México
+CUST00095,Inversionista,Colombia,Bogotá
+CUST00096,Primera vez,Mexico,Ciudad de México
+CUST00097,Primera vez,Colombia,Bogotá
+CUST00098,Primera vez,Mexico,Ciudad de México
+CUST00099,Primera vez,Colombia,Bogotá
+CUST00100,Primera vez,Mexico,Ciudad de México
+CUST00101,Primera vez,Colombia,Bogotá
+CUST00102,Inversionista,Mexico,Ciudad de México
+CUST00103,Primera vez,Colombia,Bogotá
+CUST00104,Primera vez,Colombia,Bogotá
+CUST00105,Alto patrimonio,Colombia,Bogotá
+CUST00106,Primera vez,Colombia,Bogotá
+CUST00107,Primera vez,Mexico,Ciudad de México
+CUST00108,Inversionista,Colombia,Bogotá
+CUST00109,Primera vez,Mexico,Ciudad de México
+CUST00110,Primera vez,Mexico,Ciudad de México
+CUST00111,Primera vez,Mexico,Ciudad de México
+CUST00112,Primera vez,Colombia,Bogotá
+CUST00113,Alto patrimonio,Colombia,Bogotá
+CUST00114,Inversionista,Mexico,Ciudad de México
+CUST00115,Inversionista,Colombia,Bogotá
+CUST00116,Alto patrimonio,Colombia,Bogotá
+CUST00117,Inversionista,Mexico,Ciudad de México
+CUST00118,Primera vez,Mexico,Ciudad de México
+CUST00119,Alto patrimonio,Mexico,Ciudad de México
+CUST00120,Primera vez,Colombia,Bogotá
+CUST00121,Inversionista,Mexico,Ciudad de México
+CUST00122,Alto patrimonio,Colombia,Bogotá
+CUST00123,Primera vez,Colombia,Bogotá
+CUST00124,Primera vez,Mexico,Ciudad de México
+CUST00125,Primera vez,Colombia,Bogotá
+CUST00126,Primera vez,Colombia,Bogotá
+CUST00127,Inversionista,Colombia,Bogotá
+CUST00128,Alto patrimonio,Mexico,Ciudad de México
+CUST00129,Primera vez,Mexico,Ciudad de México
+CUST00130,Primera vez,Mexico,Ciudad de México
+CUST00131,Primera vez,Mexico,Ciudad de México
+CUST00132,Primera vez,Colombia,Bogotá
+CUST00133,Primera vez,Colombia,Bogotá
+CUST00134,Primera vez,Colombia,Bogotá
+CUST00135,Alto patrimonio,Colombia,Bogotá
+CUST00136,Primera vez,Colombia,Bogotá
+CUST00137,Primera vez,Mexico,Ciudad de México
+CUST00138,Inversionista,Colombia,Bogotá
+CUST00139,Primera vez,Colombia,Bogotá
+CUST00140,Alto patrimonio,Colombia,Bogotá
+CUST00141,Alto patrimonio,Colombia,Bogotá
+CUST00142,Primera vez,Mexico,Ciudad de México
+CUST00143,Primera vez,Colombia,Bogotá
+CUST00144,Primera vez,Colombia,Bogotá
+CUST00145,Primera vez,Mexico,Ciudad de México
+CUST00146,Primera vez,Colombia,Bogotá
+CUST00147,Inversionista,Colombia,Bogotá
+CUST00148,Primera vez,Colombia,Bogotá
+CUST00149,Primera vez,Mexico,Ciudad de México
+CUST00150,Primera vez,Mexico,Ciudad de México
+CUST00151,Alto patrimonio,Mexico,Ciudad de México
+CUST00152,Primera vez,Colombia,Bogotá
+CUST00153,Primera vez,Mexico,Ciudad de México
+CUST00154,Primera vez,Colombia,Bogotá
+CUST00155,Alto patrimonio,Colombia,Bogotá
+CUST00156,Primera vez,Colombia,Bogotá
+CUST00157,Inversionista,Colombia,Bogotá
+CUST00158,Inversionista,Colombia,Bogotá
+CUST00159,Primera vez,Mexico,Ciudad de México
+CUST00160,Inversionista,Mexico,Ciudad de México
+CUST00161,Primera vez,Colombia,Bogotá
+CUST00162,Inversionista,Colombia,Bogotá
+CUST00163,Inversionista,Colombia,Bogotá
+CUST00164,Primera vez,Colombia,Bogotá
+CUST00165,Primera vez,Mexico,Ciudad de México
+CUST00166,Inversionista,Colombia,Bogotá
+CUST00167,Primera vez,Mexico,Ciudad de México
+CUST00168,Primera vez,Colombia,Bogotá
+CUST00169,Primera vez,Colombia,Bogotá
+CUST00170,Inversionista,Colombia,Bogotá
+CUST00171,Inversionista,Colombia,Bogotá
+CUST00172,Primera vez,Colombia,Bogotá
+CUST00173,Primera vez,Mexico,Ciudad de México
+CUST00174,Primera vez,Colombia,Bogotá
+CUST00175,Inversionista,Mexico,Ciudad de México
+CUST00176,Primera vez,Colombia,Bogotá
+CUST00177,Inversionista,Colombia,Bogotá
+CUST00178,Primera vez,Colombia,Bogotá
+CUST00179,Alto patrimonio,Mexico,Ciudad de México
+CUST00180,Primera vez,Colombia,Bogotá
+CUST00181,Primera vez,Mexico,Ciudad de México
+CUST00182,Primera vez,Colombia,Bogotá
+CUST00183,Alto patrimonio,Mexico,Ciudad de México
+CUST00184,Alto patrimonio,Colombia,Bogotá
+CUST00185,Primera vez,Mexico,Ciudad de México
+CUST00186,Inversionista,Mexico,Ciudad de México
+CUST00187,Inversionista,Mexico,Ciudad de México
+CUST00188,Inversionista,Colombia,Bogotá
+CUST00189,Primera vez,Colombia,Bogotá
+CUST00190,Primera vez,Colombia,Bogotá
+CUST00191,Primera vez,Mexico,Ciudad de México
+CUST00192,Alto patrimonio,Mexico,Ciudad de México
+CUST00193,Alto patrimonio,Mexico,Ciudad de México
+CUST00194,Inversionista,Colombia,Bogotá
+CUST00195,Primera vez,Colombia,Bogotá
+CUST00196,Primera vez,Colombia,Bogotá
+CUST00197,Inversionista,Mexico,Ciudad de México
+CUST00198,Alto patrimonio,Mexico,Ciudad de México
+CUST00199,Alto patrimonio,Mexico,Ciudad de México
+CUST00200,Inversionista,Colombia,Bogotá
+CUST00201,Inversionista,Mexico,Ciudad de México
+CUST00202,Primera vez,Mexico,Ciudad de México
+CUST00203,Primera vez,Colombia,Bogotá
+CUST00204,Alto patrimonio,Mexico,Ciudad de México
+CUST00205,Inversionista,Mexico,Ciudad de México
+CUST00206,Primera vez,Mexico,Ciudad de México
+CUST00207,Primera vez,Mexico,Ciudad de México
+CUST00208,Inversionista,Colombia,Bogotá
+CUST00209,Primera vez,Colombia,Bogotá
+CUST00210,Primera vez,Mexico,Ciudad de México
+CUST00211,Primera vez,Colombia,Bogotá
+CUST00212,Inversionista,Mexico,Ciudad de México
+CUST00213,Inversionista,Mexico,Ciudad de México
+CUST00214,Primera vez,Mexico,Ciudad de México
+CUST00215,Inversionista,Mexico,Ciudad de México
+CUST00216,Primera vez,Colombia,Bogotá
+CUST00217,Primera vez,Colombia,Bogotá
+CUST00218,Inversionista,Colombia,Bogotá
+CUST00219,Inversionista,Colombia,Bogotá
+CUST00220,Inversionista,Colombia,Bogotá
+CUST00221,Inversionista,Colombia,Bogotá
+CUST00222,Inversionista,Mexico,Ciudad de México
+CUST00223,Primera vez,Mexico,Ciudad de México
+CUST00224,Primera vez,Colombia,Bogotá
+CUST00225,Primera vez,Colombia,Bogotá
+CUST00226,Primera vez,Mexico,Ciudad de México
+CUST00227,Alto patrimonio,Colombia,Bogotá
+CUST00228,Primera vez,Colombia,Bogotá
+CUST00229,Alto patrimonio,Colombia,Bogotá
+CUST00230,Inversionista,Mexico,Ciudad de México
+CUST00231,Inversionista,Colombia,Bogotá
+CUST00232,Primera vez,Mexico,Ciudad de México
+CUST00233,Inversionista,Colombia,Bogotá
+CUST00234,Primera vez,Colombia,Bogotá
+CUST00235,Primera vez,Colombia,Bogotá
+CUST00236,Inversionista,Colombia,Bogotá
+CUST00237,Primera vez,Mexico,Ciudad de México
+CUST00238,Primera vez,Mexico,Ciudad de México
+CUST00239,Inversionista,Mexico,Ciudad de México
+CUST00240,Primera vez,Mexico,Ciudad de México
+CUST00241,Alto patrimonio,Mexico,Ciudad de México
+CUST00242,Alto patrimonio,Mexico,Ciudad de México
+CUST00243,Alto patrimonio,Mexico,Ciudad de México
+CUST00244,Primera vez,Colombia,Bogotá
+CUST00245,Primera vez,Colombia,Bogotá
+CUST00246,Alto patrimonio,Colombia,Bogotá
+CUST00247,Primera vez,Mexico,Ciudad de México
+CUST00248,Alto patrimonio,Colombia,Bogotá
+CUST00249,Alto patrimonio,Colombia,Bogotá
+CUST00250,Alto patrimonio,Mexico,Ciudad de México
+CUST00251,Primera vez,Mexico,Ciudad de México
+CUST00252,Primera vez,Mexico,Ciudad de México
+CUST00253,Alto patrimonio,Colombia,Bogotá
+CUST00254,Primera vez,Mexico,Ciudad de México
+CUST00255,Primera vez,Colombia,Bogotá
+CUST00256,Inversionista,Colombia,Bogotá
+CUST00257,Alto patrimonio,Colombia,Bogotá
+CUST00258,Inversionista,Colombia,Bogotá
+CUST00259,Inversionista,Colombia,Bogotá
+CUST00260,Primera vez,Mexico,Ciudad de México
+CUST00261,Inversionista,Colombia,Bogotá
+CUST00262,Alto patrimonio,Mexico,Ciudad de México
+CUST00263,Primera vez,Mexico,Ciudad de México
+CUST00264,Primera vez,Colombia,Bogotá
+CUST00265,Alto patrimonio,Colombia,Bogotá
+CUST00266,Inversionista,Colombia,Bogotá
+CUST00267,Inversionista,Mexico,Ciudad de México
+CUST00268,Inversionista,Colombia,Bogotá
+CUST00269,Primera vez,Colombia,Bogotá
+CUST00270,Primera vez,Colombia,Bogotá
+CUST00271,Inversionista,Mexico,Ciudad de México
+CUST00272,Inversionista,Mexico,Ciudad de México
+CUST00273,Alto patrimonio,Colombia,Bogotá
+CUST00274,Alto patrimonio,Mexico,Ciudad de México
+CUST00275,Primera vez,Mexico,Ciudad de México
+CUST00276,Primera vez,Mexico,Ciudad de México
+CUST00277,Inversionista,Mexico,Ciudad de México
+CUST00278,Inversionista,Mexico,Ciudad de México
+CUST00279,Inversionista,Mexico,Ciudad de México
+CUST00280,Inversionista,Mexico,Ciudad de México
+CUST00281,Alto patrimonio,Colombia,Bogotá
+CUST00282,Primera vez,Colombia,Bogotá
+CUST00283,Primera vez,Colombia,Bogotá
+CUST00284,Primera vez,Mexico,Ciudad de México
+CUST00285,Inversionista,Mexico,Ciudad de México
+CUST00286,Primera vez,Colombia,Bogotá
+CUST00287,Primera vez,Mexico,Ciudad de México
+CUST00288,Primera vez,Colombia,Bogotá
+CUST00289,Primera vez,Colombia,Bogotá
+CUST00290,Inversionista,Mexico,Ciudad de México
+CUST00291,Primera vez,Colombia,Bogotá
+CUST00292,Primera vez,Colombia,Bogotá
+CUST00293,Inversionista,Mexico,Ciudad de México
+CUST00294,Primera vez,Mexico,Ciudad de México
+CUST00295,Primera vez,Colombia,Bogotá
+CUST00296,Primera vez,Mexico,Ciudad de México
+CUST00297,Inversionista,Mexico,Ciudad de México
+CUST00298,Primera vez,Colombia,Bogotá
+CUST00299,Inversionista,Colombia,Bogotá
+CUST00300,Primera vez,Mexico,Ciudad de México
+CUST00301,Primera vez,Colombia,Bogotá
+CUST00302,Primera vez,Mexico,Ciudad de México
+CUST00303,Primera vez,Mexico,Ciudad de México
+CUST00304,Inversionista,Mexico,Ciudad de México
+CUST00305,Inversionista,Colombia,Bogotá
+CUST00306,Alto patrimonio,Mexico,Ciudad de México
+CUST00307,Primera vez,Colombia,Bogotá
+CUST00308,Primera vez,Colombia,Bogotá
+CUST00309,Inversionista,Colombia,Bogotá
+CUST00310,Primera vez,Colombia,Bogotá
+CUST00311,Primera vez,Mexico,Ciudad de México
+CUST00312,Primera vez,Colombia,Bogotá
+CUST00313,Primera vez,Colombia,Bogotá
+CUST00314,Alto patrimonio,Mexico,Ciudad de México
+CUST00315,Inversionista,Colombia,Bogotá
+CUST00316,Inversionista,Mexico,Ciudad de México
+CUST00317,Primera vez,Colombia,Bogotá
+CUST00318,Primera vez,Mexico,Ciudad de México
+CUST00319,Primera vez,Mexico,Ciudad de México
+CUST00320,Primera vez,Colombia,Bogotá
+CUST00321,Primera vez,Colombia,Bogotá
+CUST00322,Inversionista,Colombia,Bogotá
+CUST00323,Inversionista,Mexico,Ciudad de México
+CUST00324,Primera vez,Colombia,Bogotá
+CUST00325,Alto patrimonio,Colombia,Bogotá
+CUST00326,Inversionista,Colombia,Bogotá
+CUST00327,Inversionista,Colombia,Bogotá
+CUST00328,Inversionista,Colombia,Bogotá
+CUST00329,Primera vez,Mexico,Ciudad de México
+CUST00330,Primera vez,Colombia,Bogotá
+CUST00331,Primera vez,Colombia,Bogotá
+CUST00332,Inversionista,Mexico,Ciudad de México
+CUST00333,Primera vez,Mexico,Ciudad de México
+CUST00334,Primera vez,Colombia,Bogotá
+CUST00335,Primera vez,Colombia,Bogotá
+CUST00336,Primera vez,Colombia,Bogotá
+CUST00337,Alto patrimonio,Mexico,Ciudad de México
+CUST00338,Inversionista,Colombia,Bogotá
+CUST00339,Primera vez,Mexico,Ciudad de México
+CUST00340,Primera vez,Mexico,Ciudad de México
+CUST00341,Primera vez,Mexico,Ciudad de México
+CUST00342,Primera vez,Colombia,Bogotá
+CUST00343,Primera vez,Colombia,Bogotá
+CUST00344,Primera vez,Colombia,Bogotá
+CUST00345,Primera vez,Colombia,Bogotá
+CUST00346,Inversionista,Mexico,Ciudad de México
+CUST00347,Inversionista,Mexico,Ciudad de México
+CUST00348,Primera vez,Mexico,Ciudad de México
+CUST00349,Primera vez,Mexico,Ciudad de México
+CUST00350,Inversionista,Colombia,Bogotá
+CUST00351,Primera vez,Colombia,Bogotá
+CUST00352,Alto patrimonio,Colombia,Bogotá
+CUST00353,Inversionista,Mexico,Ciudad de México
+CUST00354,Primera vez,Mexico,Ciudad de México
+CUST00355,Primera vez,Mexico,Ciudad de México
+CUST00356,Inversionista,Colombia,Bogotá
+CUST00357,Primera vez,Colombia,Bogotá
+CUST00358,Inversionista,Mexico,Ciudad de México
+CUST00359,Alto patrimonio,Colombia,Bogotá
+CUST00360,Inversionista,Mexico,Ciudad de México
+CUST00361,Primera vez,Mexico,Ciudad de México
+CUST00362,Inversionista,Mexico,Ciudad de México
+CUST00363,Primera vez,Colombia,Bogotá
+CUST00364,Primera vez,Colombia,Bogotá
+CUST00365,Alto patrimonio,Colombia,Bogotá
+CUST00366,Primera vez,Colombia,Bogotá
+CUST00367,Alto patrimonio,Colombia,Bogotá
+CUST00368,Alto patrimonio,Mexico,Ciudad de México
+CUST00369,Primera vez,Mexico,Ciudad de México
+CUST00370,Primera vez,Colombia,Bogotá
+CUST00371,Primera vez,Colombia,Bogotá
+CUST00372,Primera vez,Colombia,Bogotá
+CUST00373,Primera vez,Colombia,Bogotá
+CUST00374,Inversionista,Mexico,Ciudad de México
+CUST00375,Primera vez,Colombia,Bogotá
+CUST00376,Primera vez,Colombia,Bogotá
+CUST00377,Inversionista,Colombia,Bogotá
+CUST00378,Primera vez,Mexico,Ciudad de México
+CUST00379,Inversionista,Mexico,Ciudad de México
+CUST00380,Primera vez,Colombia,Bogotá
+CUST00381,Primera vez,Colombia,Bogotá
+CUST00382,Inversionista,Mexico,Ciudad de México
+CUST00383,Inversionista,Mexico,Ciudad de México
+CUST00384,Alto patrimonio,Colombia,Bogotá
+CUST00385,Inversionista,Mexico,Ciudad de México
+CUST00386,Inversionista,Mexico,Ciudad de México
+CUST00387,Primera vez,Mexico,Ciudad de México
+CUST00388,Primera vez,Mexico,Ciudad de México
+CUST00389,Inversionista,Mexico,Ciudad de México
+CUST00390,Inversionista,Colombia,Bogotá
+CUST00391,Alto patrimonio,Mexico,Ciudad de México
+CUST00392,Primera vez,Mexico,Ciudad de México
+CUST00393,Primera vez,Mexico,Ciudad de México
+CUST00394,Inversionista,Colombia,Bogotá
+CUST00395,Primera vez,Mexico,Ciudad de México
+CUST00396,Alto patrimonio,Mexico,Ciudad de México
+CUST00397,Alto patrimonio,Colombia,Bogotá
+CUST00398,Primera vez,Mexico,Ciudad de México
+CUST00399,Inversionista,Mexico,Ciudad de México
+CUST00400,Inversionista,Mexico,Ciudad de México
+CUST00401,Primera vez,Colombia,Bogotá
+CUST00402,Alto patrimonio,Colombia,Bogotá
+CUST00403,Primera vez,Mexico,Ciudad de México
+CUST00404,Inversionista,Colombia,Bogotá
+CUST00405,Primera vez,Mexico,Ciudad de México
+CUST00406,Alto patrimonio,Colombia,Bogotá
+CUST00407,Primera vez,Colombia,Bogotá
+CUST00408,Primera vez,Colombia,Bogotá
+CUST00409,Alto patrimonio,Mexico,Ciudad de México
+CUST00410,Primera vez,Colombia,Bogotá
+CUST00411,Primera vez,Colombia,Bogotá
+CUST00412,Alto patrimonio,Colombia,Bogotá
+CUST00413,Alto patrimonio,Colombia,Bogotá
+CUST00414,Inversionista,Mexico,Ciudad de México
+CUST00415,Inversionista,Mexico,Ciudad de México
+CUST00416,Primera vez,Colombia,Bogotá
+CUST00417,Primera vez,Mexico,Ciudad de México
+CUST00418,Primera vez,Colombia,Bogotá
+CUST00419,Inversionista,Mexico,Ciudad de México
+CUST00420,Inversionista,Mexico,Ciudad de México
+CUST00421,Inversionista,Mexico,Ciudad de México
+CUST00422,Inversionista,Colombia,Bogotá
+CUST00423,Primera vez,Mexico,Ciudad de México
+CUST00424,Primera vez,Colombia,Bogotá
+CUST00425,Primera vez,Mexico,Ciudad de México
+CUST00426,Primera vez,Colombia,Bogotá
+CUST00427,Primera vez,Mexico,Ciudad de México
+CUST00428,Alto patrimonio,Mexico,Ciudad de México
+CUST00429,Primera vez,Mexico,Ciudad de México
+CUST00430,Primera vez,Colombia,Bogotá
+CUST00431,Primera vez,Mexico,Ciudad de México
+CUST00432,Inversionista,Colombia,Bogotá
+CUST00433,Inversionista,Mexico,Ciudad de México
+CUST00434,Primera vez,Colombia,Bogotá
+CUST00435,Primera vez,Colombia,Bogotá
+CUST00436,Inversionista,Mexico,Ciudad de México
+CUST00437,Primera vez,Colombia,Bogotá
+CUST00438,Inversionista,Colombia,Bogotá
+CUST00439,Inversionista,Colombia,Bogotá
+CUST00440,Primera vez,Colombia,Bogotá
+CUST00441,Primera vez,Mexico,Ciudad de México
+CUST00442,Alto patrimonio,Mexico,Ciudad de México
+CUST00443,Primera vez,Colombia,Bogotá
+CUST00444,Primera vez,Colombia,Bogotá
+CUST00445,Inversionista,Colombia,Bogotá
+CUST00446,Alto patrimonio,Colombia,Bogotá
+CUST00447,Alto patrimonio,Mexico,Ciudad de México
+CUST00448,Inversionista,Mexico,Ciudad de México
+CUST00449,Primera vez,Colombia,Bogotá
+CUST00450,Primera vez,Colombia,Bogotá
+CUST00451,Inversionista,Colombia,Bogotá
+CUST00452,Inversionista,Mexico,Ciudad de México
+CUST00453,Primera vez,Mexico,Ciudad de México
+CUST00454,Alto patrimonio,Colombia,Bogotá
+CUST00455,Primera vez,Colombia,Bogotá
+CUST00456,Primera vez,Mexico,Ciudad de México
+CUST00457,Primera vez,Mexico,Ciudad de México
+CUST00458,Primera vez,Colombia,Bogotá
+CUST00459,Primera vez,Colombia,Bogotá
+CUST00460,Primera vez,Colombia,Bogotá
+CUST00461,Primera vez,Mexico,Ciudad de México
+CUST00462,Inversionista,Colombia,Bogotá
+CUST00463,Inversionista,Colombia,Bogotá
+CUST00464,Inversionista,Mexico,Ciudad de México
+CUST00465,Alto patrimonio,Colombia,Bogotá
+CUST00466,Primera vez,Mexico,Ciudad de México
+CUST00467,Primera vez,Colombia,Bogotá
+CUST00468,Alto patrimonio,Colombia,Bogotá
+CUST00469,Primera vez,Mexico,Ciudad de México
+CUST00470,Alto patrimonio,Colombia,Bogotá
+CUST00471,Primera vez,Mexico,Ciudad de México
+CUST00472,Alto patrimonio,Mexico,Ciudad de México
+CUST00473,Primera vez,Colombia,Bogotá
+CUST00474,Alto patrimonio,Mexico,Ciudad de México
+CUST00475,Primera vez,Colombia,Bogotá
+CUST00476,Alto patrimonio,Mexico,Ciudad de México
+CUST00477,Primera vez,Colombia,Bogotá
+CUST00478,Inversionista,Mexico,Ciudad de México
+CUST00479,Alto patrimonio,Colombia,Bogotá
+CUST00480,Primera vez,Colombia,Bogotá
+CUST00481,Inversionista,Mexico,Ciudad de México
+CUST00482,Inversionista,Mexico,Ciudad de México
+CUST00483,Primera vez,Colombia,Bogotá
+CUST00484,Inversionista,Colombia,Bogotá
+CUST00485,Inversionista,Mexico,Ciudad de México
+CUST00486,Alto patrimonio,Mexico,Ciudad de México
+CUST00487,Primera vez,Colombia,Bogotá
+CUST00488,Primera vez,Colombia,Bogotá
+CUST00489,Alto patrimonio,Colombia,Bogotá
+CUST00490,Alto patrimonio,Mexico,Ciudad de México
+CUST00491,Primera vez,Colombia,Bogotá
+CUST00492,Inversionista,Colombia,Bogotá
+CUST00493,Primera vez,Mexico,Ciudad de México
+CUST00494,Primera vez,Colombia,Bogotá
+CUST00495,Primera vez,Colombia,Bogotá
+CUST00496,Primera vez,Colombia,Bogotá
+CUST00497,Inversionista,Colombia,Bogotá
+CUST00498,Primera vez,Colombia,Bogotá
+CUST00499,Alto patrimonio,Mexico,Ciudad de México
+CUST00500,Alto patrimonio,Colombia,Bogotá
+CUST00501,Inversionista,Mexico,Ciudad de México
+CUST00502,Primera vez,Mexico,Ciudad de México
+CUST00503,Primera vez,Mexico,Ciudad de México
+CUST00504,Inversionista,Colombia,Bogotá
+CUST00505,Inversionista,Colombia,Bogotá
+CUST00506,Primera vez,Colombia,Bogotá
+CUST00507,Alto patrimonio,Colombia,Bogotá
+CUST00508,Inversionista,Colombia,Bogotá
+CUST00509,Alto patrimonio,Mexico,Ciudad de México
+CUST00510,Inversionista,Colombia,Bogotá
+CUST00511,Inversionista,Colombia,Bogotá
+CUST00512,Primera vez,Colombia,Bogotá
+CUST00513,Alto patrimonio,Mexico,Ciudad de México
+CUST00514,Alto patrimonio,Colombia,Bogotá
+CUST00515,Primera vez,Mexico,Ciudad de México
+CUST00516,Primera vez,Colombia,Bogotá
+CUST00517,Primera vez,Mexico,Ciudad de México
+CUST00518,Inversionista,Mexico,Ciudad de México
+CUST00519,Alto patrimonio,Colombia,Bogotá
+CUST00520,Primera vez,Colombia,Bogotá
+CUST00521,Inversionista,Colombia,Bogotá
+CUST00522,Primera vez,Colombia,Bogotá
+CUST00523,Alto patrimonio,Mexico,Ciudad de México
+CUST00524,Inversionista,Mexico,Ciudad de México
+CUST00525,Inversionista,Mexico,Ciudad de México
+CUST00526,Primera vez,Mexico,Ciudad de México
+CUST00527,Primera vez,Colombia,Bogotá
+CUST00528,Primera vez,Colombia,Bogotá
+CUST00529,Primera vez,Mexico,Ciudad de México
+CUST00530,Alto patrimonio,Colombia,Bogotá
+CUST00531,Inversionista,Mexico,Ciudad de México
+CUST00532,Alto patrimonio,Colombia,Bogotá
+CUST00533,Alto patrimonio,Colombia,Bogotá
+CUST00534,Inversionista,Mexico,Ciudad de México
+CUST00535,Inversionista,Colombia,Bogotá
+CUST00536,Alto patrimonio,Mexico,Ciudad de México
+CUST00537,Inversionista,Mexico,Ciudad de México
+CUST00538,Primera vez,Mexico,Ciudad de México
+CUST00539,Primera vez,Mexico,Ciudad de México
+CUST00540,Primera vez,Mexico,Ciudad de México
+CUST00541,Alto patrimonio,Mexico,Ciudad de México
+CUST00542,Inversionista,Colombia,Bogotá
+CUST00543,Primera vez,Colombia,Bogotá
+CUST00544,Inversionista,Mexico,Ciudad de México
+CUST00545,Inversionista,Colombia,Bogotá
+CUST00546,Primera vez,Colombia,Bogotá
+CUST00547,Primera vez,Colombia,Bogotá
+CUST00548,Inversionista,Mexico,Ciudad de México
+CUST00549,Primera vez,Mexico,Ciudad de México
+CUST00550,Inversionista,Colombia,Bogotá
+CUST00551,Primera vez,Mexico,Ciudad de México
+CUST00552,Alto patrimonio,Mexico,Ciudad de México
+CUST00553,Inversionista,Mexico,Ciudad de México
+CUST00554,Inversionista,Mexico,Ciudad de México
+CUST00555,Alto patrimonio,Mexico,Ciudad de México
+CUST00556,Primera vez,Colombia,Bogotá
+CUST00557,Primera vez,Mexico,Ciudad de México
+CUST00558,Primera vez,Colombia,Bogotá
+CUST00559,Inversionista,Mexico,Ciudad de México
+CUST00560,Inversionista,Mexico,Ciudad de México
+CUST00561,Inversionista,Colombia,Bogotá
+CUST00562,Primera vez,Colombia,Bogotá
+CUST00563,Primera vez,Mexico,Ciudad de México
+CUST00564,Primera vez,Colombia,Bogotá
+CUST00565,Primera vez,Mexico,Ciudad de México
+CUST00566,Inversionista,Colombia,Bogotá
+CUST00567,Primera vez,Colombia,Bogotá
+CUST00568,Primera vez,Mexico,Ciudad de México
+CUST00569,Alto patrimonio,Mexico,Ciudad de México
+CUST00570,Primera vez,Mexico,Ciudad de México
+CUST00571,Primera vez,Colombia,Bogotá
+CUST00572,Inversionista,Mexico,Ciudad de México
+CUST00573,Primera vez,Mexico,Ciudad de México
+CUST00574,Inversionista,Mexico,Ciudad de México
+CUST00575,Alto patrimonio,Mexico,Ciudad de México
+CUST00576,Alto patrimonio,Mexico,Ciudad de México
+CUST00577,Primera vez,Colombia,Bogotá
+CUST00578,Alto patrimonio,Colombia,Bogotá
+CUST00579,Primera vez,Mexico,Ciudad de México
+CUST00580,Primera vez,Colombia,Bogotá
+CUST00581,Primera vez,Mexico,Ciudad de México
+CUST00582,Alto patrimonio,Colombia,Bogotá
+CUST00583,Primera vez,Mexico,Ciudad de México
+CUST00584,Primera vez,Mexico,Ciudad de México
+CUST00585,Inversionista,Colombia,Bogotá
+CUST00586,Primera vez,Colombia,Bogotá
+CUST00587,Primera vez,Colombia,Bogotá
+CUST00588,Primera vez,Mexico,Ciudad de México
+CUST00589,Primera vez,Mexico,Ciudad de México
+CUST00590,Primera vez,Colombia,Bogotá
+CUST00591,Primera vez,Mexico,Ciudad de México
+CUST00592,Inversionista,Colombia,Bogotá
+CUST00593,Primera vez,Colombia,Bogotá
+CUST00594,Primera vez,Mexico,Ciudad de México
+CUST00595,Alto patrimonio,Colombia,Bogotá
+CUST00596,Primera vez,Colombia,Bogotá
+CUST00597,Inversionista,Colombia,Bogotá
+CUST00598,Primera vez,Colombia,Bogotá
+CUST00599,Primera vez,Colombia,Bogotá
+CUST00600,Primera vez,Colombia,Bogotá
+CUST00601,Primera vez,Mexico,Ciudad de México
+CUST00602,Primera vez,Colombia,Bogotá
+CUST00603,Primera vez,Mexico,Ciudad de México
+CUST00604,Primera vez,Colombia,Bogotá
+CUST00605,Primera vez,Colombia,Bogotá
+CUST00606,Primera vez,Mexico,Ciudad de México
+CUST00607,Primera vez,Mexico,Ciudad de México
+CUST00608,Primera vez,Colombia,Bogotá
+CUST00609,Primera vez,Mexico,Ciudad de México
+CUST00610,Inversionista,Mexico,Ciudad de México
+CUST00611,Primera vez,Mexico,Ciudad de México
+CUST00612,Inversionista,Colombia,Bogotá
+CUST00613,Inversionista,Colombia,Bogotá
+CUST00614,Primera vez,Colombia,Bogotá
+CUST00615,Alto patrimonio,Mexico,Ciudad de México
+CUST00616,Alto patrimonio,Colombia,Bogotá
+CUST00617,Primera vez,Mexico,Ciudad de México
+CUST00618,Primera vez,Colombia,Bogotá
+CUST00619,Inversionista,Colombia,Bogotá
+CUST00620,Inversionista,Mexico,Ciudad de México
+CUST00621,Primera vez,Colombia,Bogotá
+CUST00622,Primera vez,Mexico,Ciudad de México
+CUST00623,Primera vez,Mexico,Ciudad de México
+CUST00624,Primera vez,Mexico,Ciudad de México
+CUST00625,Inversionista,Mexico,Ciudad de México
+CUST00626,Primera vez,Mexico,Ciudad de México
+CUST00627,Primera vez,Mexico,Ciudad de México
+CUST00628,Inversionista,Mexico,Ciudad de México
+CUST00629,Primera vez,Colombia,Bogotá
+CUST00630,Primera vez,Colombia,Bogotá
+CUST00631,Inversionista,Colombia,Bogotá
+CUST00632,Alto patrimonio,Colombia,Bogotá
+CUST00633,Primera vez,Mexico,Ciudad de México
+CUST00634,Primera vez,Mexico,Ciudad de México
+CUST00635,Primera vez,Mexico,Ciudad de México
+CUST00636,Primera vez,Colombia,Bogotá
+CUST00637,Primera vez,Mexico,Ciudad de México
+CUST00638,Primera vez,Colombia,Bogotá
+CUST00639,Primera vez,Mexico,Ciudad de México
+CUST00640,Primera vez,Mexico,Ciudad de México
+CUST00641,Primera vez,Colombia,Bogotá
+CUST00642,Primera vez,Colombia,Bogotá
+CUST00643,Primera vez,Colombia,Bogotá
+CUST00644,Primera vez,Mexico,Ciudad de México
+CUST00645,Primera vez,Mexico,Ciudad de México
+CUST00646,Alto patrimonio,Mexico,Ciudad de México
+CUST00647,Inversionista,Colombia,Bogotá
+CUST00648,Inversionista,Colombia,Bogotá
+CUST00649,Inversionista,Mexico,Ciudad de México
+CUST00650,Primera vez,Mexico,Ciudad de México
+CUST00651,Primera vez,Colombia,Bogotá
+CUST00652,Primera vez,Colombia,Bogotá
+CUST00653,Inversionista,Mexico,Ciudad de México
+CUST00654,Inversionista,Colombia,Bogotá
+CUST00655,Primera vez,Colombia,Bogotá
+CUST00656,Primera vez,Colombia,Bogotá
+CUST00657,Primera vez,Mexico,Ciudad de México
+CUST00658,Primera vez,Mexico,Ciudad de México
+CUST00659,Inversionista,Mexico,Ciudad de México
+CUST00660,Inversionista,Mexico,Ciudad de México
+CUST00661,Primera vez,Colombia,Bogotá
+CUST00662,Alto patrimonio,Colombia,Bogotá
+CUST00663,Inversionista,Mexico,Ciudad de México
+CUST00664,Primera vez,Colombia,Bogotá
+CUST00665,Primera vez,Mexico,Ciudad de México
+CUST00666,Primera vez,Colombia,Bogotá
+CUST00667,Primera vez,Colombia,Bogotá
+CUST00668,Primera vez,Colombia,Bogotá
+CUST00669,Primera vez,Colombia,Bogotá
+CUST00670,Primera vez,Colombia,Bogotá
+CUST00671,Primera vez,Colombia,Bogotá
+CUST00672,Alto patrimonio,Mexico,Ciudad de México
+CUST00673,Primera vez,Colombia,Bogotá
+CUST00674,Primera vez,Mexico,Ciudad de México
+CUST00675,Primera vez,Mexico,Ciudad de México
+CUST00676,Alto patrimonio,Mexico,Ciudad de México
+CUST00677,Primera vez,Mexico,Ciudad de México
+CUST00678,Primera vez,Mexico,Ciudad de México
+CUST00679,Alto patrimonio,Colombia,Bogotá
+CUST00680,Alto patrimonio,Colombia,Bogotá
+CUST00681,Inversionista,Colombia,Bogotá
+CUST00682,Primera vez,Mexico,Ciudad de México
+CUST00683,Primera vez,Mexico,Ciudad de México
+CUST00684,Inversionista,Colombia,Bogotá
+CUST00685,Alto patrimonio,Colombia,Bogotá
+CUST00686,Inversionista,Mexico,Ciudad de México
+CUST00687,Inversionista,Colombia,Bogotá
+CUST00688,Primera vez,Mexico,Ciudad de México
+CUST00689,Inversionista,Mexico,Ciudad de México
+CUST00690,Primera vez,Mexico,Ciudad de México
+CUST00691,Primera vez,Mexico,Ciudad de México
+CUST00692,Primera vez,Mexico,Ciudad de México
+CUST00693,Primera vez,Colombia,Bogotá
+CUST00694,Primera vez,Mexico,Ciudad de México
+CUST00695,Primera vez,Mexico,Ciudad de México
+CUST00696,Inversionista,Colombia,Bogotá
+CUST00697,Primera vez,Colombia,Bogotá
+CUST00698,Inversionista,Colombia,Bogotá
+CUST00699,Primera vez,Colombia,Bogotá
+CUST00700,Primera vez,Mexico,Ciudad de México
+CUST00701,Primera vez,Mexico,Ciudad de México
+CUST00702,Primera vez,Colombia,Bogotá
+CUST00703,Primera vez,Colombia,Bogotá
+CUST00704,Primera vez,Mexico,Ciudad de México
+CUST00705,Primera vez,Colombia,Bogotá
+CUST00706,Alto patrimonio,Colombia,Bogotá
+CUST00707,Primera vez,Mexico,Ciudad de México
+CUST00708,Inversionista,Mexico,Ciudad de México
+CUST00709,Primera vez,Colombia,Bogotá
+CUST00710,Inversionista,Colombia,Bogotá
+CUST00711,Inversionista,Colombia,Bogotá
+CUST00712,Inversionista,Mexico,Ciudad de México
+CUST00713,Primera vez,Mexico,Ciudad de México
+CUST00714,Primera vez,Colombia,Bogotá
+CUST00715,Primera vez,Mexico,Ciudad de México
+CUST00716,Alto patrimonio,Mexico,Ciudad de México
+CUST00717,Inversionista,Colombia,Bogotá
+CUST00718,Alto patrimonio,Colombia,Bogotá
+CUST00719,Primera vez,Mexico,Ciudad de México
+CUST00720,Inversionista,Colombia,Bogotá
+CUST00721,Alto patrimonio,Colombia,Bogotá
+CUST00722,Primera vez,Mexico,Ciudad de México
+CUST00723,Primera vez,Mexico,Ciudad de México
+CUST00724,Inversionista,Mexico,Ciudad de México
+CUST00725,Inversionista,Mexico,Ciudad de México
+CUST00726,Inversionista,Mexico,Ciudad de México
+CUST00727,Primera vez,Colombia,Bogotá
+CUST00728,Inversionista,Mexico,Ciudad de México
+CUST00729,Primera vez,Colombia,Bogotá
+CUST00730,Primera vez,Colombia,Bogotá
+CUST00731,Primera vez,Mexico,Ciudad de México
+CUST00732,Inversionista,Mexico,Ciudad de México
+CUST00733,Inversionista,Colombia,Bogotá
+CUST00734,Primera vez,Mexico,Ciudad de México
+CUST00735,Primera vez,Colombia,Bogotá
+CUST00736,Alto patrimonio,Colombia,Bogotá
+CUST00737,Primera vez,Colombia,Bogotá
+CUST00738,Inversionista,Mexico,Ciudad de México
+CUST00739,Primera vez,Mexico,Ciudad de México
+CUST00740,Primera vez,Colombia,Bogotá
+CUST00741,Primera vez,Mexico,Ciudad de México
+CUST00742,Primera vez,Colombia,Bogotá
+CUST00743,Inversionista,Mexico,Ciudad de México
+CUST00744,Primera vez,Colombia,Bogotá
+CUST00745,Primera vez,Colombia,Bogotá
+CUST00746,Alto patrimonio,Mexico,Ciudad de México
+CUST00747,Primera vez,Colombia,Bogotá
+CUST00748,Primera vez,Colombia,Bogotá
+CUST00749,Alto patrimonio,Mexico,Ciudad de México
+CUST00750,Inversionista,Mexico,Ciudad de México
+CUST00751,Primera vez,Colombia,Bogotá
+CUST00752,Alto patrimonio,Colombia,Bogotá
+CUST00753,Inversionista,Colombia,Bogotá
+CUST00754,Primera vez,Colombia,Bogotá
+CUST00755,Primera vez,Colombia,Bogotá
+CUST00756,Inversionista,Mexico,Ciudad de México
+CUST00757,Inversionista,Mexico,Ciudad de México
+CUST00758,Primera vez,Colombia,Bogotá
+CUST00759,Alto patrimonio,Colombia,Bogotá
+CUST00760,Inversionista,Colombia,Bogotá
+CUST00761,Primera vez,Colombia,Bogotá
+CUST00762,Primera vez,Mexico,Ciudad de México
+CUST00763,Primera vez,Colombia,Bogotá
+CUST00764,Inversionista,Colombia,Bogotá
+CUST00765,Primera vez,Mexico,Ciudad de México
+CUST00766,Inversionista,Colombia,Bogotá
+CUST00767,Inversionista,Mexico,Ciudad de México
+CUST00768,Alto patrimonio,Colombia,Bogotá
+CUST00769,Primera vez,Mexico,Ciudad de México
+CUST00770,Inversionista,Mexico,Ciudad de México
+CUST00771,Primera vez,Mexico,Ciudad de México
+CUST00772,Inversionista,Mexico,Ciudad de México
+CUST00773,Primera vez,Colombia,Bogotá
+CUST00774,Primera vez,Colombia,Bogotá
+CUST00775,Inversionista,Mexico,Ciudad de México
+CUST00776,Primera vez,Mexico,Ciudad de México
+CUST00777,Primera vez,Colombia,Bogotá
+CUST00778,Inversionista,Colombia,Bogotá
+CUST00779,Inversionista,Colombia,Bogotá
+CUST00780,Inversionista,Colombia,Bogotá
+CUST00781,Inversionista,Colombia,Bogotá
+CUST00782,Primera vez,Mexico,Ciudad de México
+CUST00783,Primera vez,Colombia,Bogotá
+CUST00784,Primera vez,Colombia,Bogotá
+CUST00785,Primera vez,Mexico,Ciudad de México
+CUST00786,Alto patrimonio,Mexico,Ciudad de México
+CUST00787,Inversionista,Mexico,Ciudad de México
+CUST00788,Primera vez,Mexico,Ciudad de México
+CUST00789,Primera vez,Colombia,Bogotá
+CUST00790,Alto patrimonio,Mexico,Ciudad de México
+CUST00791,Primera vez,Mexico,Ciudad de México
+CUST00792,Inversionista,Colombia,Bogotá
+CUST00793,Primera vez,Mexico,Ciudad de México
+CUST00794,Inversionista,Mexico,Ciudad de México
+CUST00795,Primera vez,Colombia,Bogotá
+CUST00796,Alto patrimonio,Colombia,Bogotá
+CUST00797,Alto patrimonio,Colombia,Bogotá
+CUST00798,Inversionista,Colombia,Bogotá
+CUST00799,Inversionista,Colombia,Bogotá
+CUST00800,Alto patrimonio,Mexico,Ciudad de México
+CUST00801,Inversionista,Colombia,Bogotá
+CUST00802,Primera vez,Mexico,Ciudad de México
+CUST00803,Inversionista,Mexico,Ciudad de México
+CUST00804,Inversionista,Mexico,Ciudad de México
+CUST00805,Primera vez,Mexico,Ciudad de México
+CUST00806,Inversionista,Colombia,Bogotá
+CUST00807,Alto patrimonio,Colombia,Bogotá
+CUST00808,Alto patrimonio,Mexico,Ciudad de México
+CUST00809,Primera vez,Mexico,Ciudad de México
+CUST00810,Primera vez,Mexico,Ciudad de México
+CUST00811,Alto patrimonio,Colombia,Bogotá
+CUST00812,Inversionista,Mexico,Ciudad de México
+CUST00813,Primera vez,Colombia,Bogotá
+CUST00814,Alto patrimonio,Mexico,Ciudad de México
+CUST00815,Alto patrimonio,Mexico,Ciudad de México
+CUST00816,Primera vez,Colombia,Bogotá
+CUST00817,Inversionista,Mexico,Ciudad de México
+CUST00818,Primera vez,Colombia,Bogotá
+CUST00819,Primera vez,Colombia,Bogotá
+CUST00820,Primera vez,Colombia,Bogotá
+CUST00821,Inversionista,Mexico,Ciudad de México
+CUST00822,Primera vez,Mexico,Ciudad de México
+CUST00823,Primera vez,Mexico,Ciudad de México
+CUST00824,Primera vez,Colombia,Bogotá
+CUST00825,Primera vez,Mexico,Ciudad de México
+CUST00826,Alto patrimonio,Mexico,Ciudad de México
+CUST00827,Primera vez,Colombia,Bogotá
+CUST00828,Primera vez,Mexico,Ciudad de México
+CUST00829,Inversionista,Colombia,Bogotá
+CUST00830,Primera vez,Mexico,Ciudad de México
+CUST00831,Primera vez,Colombia,Bogotá
+CUST00832,Primera vez,Colombia,Bogotá
+CUST00833,Primera vez,Colombia,Bogotá
+CUST00834,Primera vez,Mexico,Ciudad de México
+CUST00835,Primera vez,Colombia,Bogotá
+CUST00836,Primera vez,Colombia,Bogotá
+CUST00837,Alto patrimonio,Mexico,Ciudad de México
+CUST00838,Primera vez,Mexico,Ciudad de México
+CUST00839,Inversionista,Colombia,Bogotá
+CUST00840,Inversionista,Colombia,Bogotá
+CUST00841,Primera vez,Colombia,Bogotá
+CUST00842,Inversionista,Colombia,Bogotá
+CUST00843,Primera vez,Mexico,Ciudad de México
+CUST00844,Alto patrimonio,Mexico,Ciudad de México
+CUST00845,Primera vez,Mexico,Ciudad de México
+CUST00846,Primera vez,Colombia,Bogotá
+CUST00847,Primera vez,Mexico,Ciudad de México
+CUST00848,Alto patrimonio,Mexico,Ciudad de México
+CUST00849,Primera vez,Mexico,Ciudad de México
+CUST00850,Inversionista,Mexico,Ciudad de México
+CUST00851,Primera vez,Mexico,Ciudad de México
+CUST00852,Inversionista,Mexico,Ciudad de México
+CUST00853,Primera vez,Colombia,Bogotá
+CUST00854,Alto patrimonio,Mexico,Ciudad de México
+CUST00855,Primera vez,Mexico,Ciudad de México
+CUST00856,Primera vez,Mexico,Ciudad de México
+CUST00857,Primera vez,Colombia,Bogotá
+CUST00858,Primera vez,Mexico,Ciudad de México
+CUST00859,Inversionista,Mexico,Ciudad de México
+CUST00860,Primera vez,Colombia,Bogotá
+CUST00861,Inversionista,Colombia,Bogotá
+CUST00862,Primera vez,Mexico,Ciudad de México
+CUST00863,Primera vez,Mexico,Ciudad de México
+CUST00864,Primera vez,Mexico,Ciudad de México
+CUST00865,Primera vez,Colombia,Bogotá
+CUST00866,Inversionista,Mexico,Ciudad de México
+CUST00867,Primera vez,Colombia,Bogotá
+CUST00868,Primera vez,Colombia,Bogotá
+CUST00869,Alto patrimonio,Colombia,Bogotá
+CUST00870,Alto patrimonio,Colombia,Bogotá
+CUST00871,Primera vez,Colombia,Bogotá
+CUST00872,Primera vez,Colombia,Bogotá
+CUST00873,Inversionista,Colombia,Bogotá
+CUST00874,Primera vez,Colombia,Bogotá
+CUST00875,Primera vez,Colombia,Bogotá
+CUST00876,Primera vez,Colombia,Bogotá
+CUST00877,Inversionista,Colombia,Bogotá
+CUST00878,Inversionista,Mexico,Ciudad de México
+CUST00879,Primera vez,Colombia,Bogotá
+CUST00880,Primera vez,Colombia,Bogotá
+CUST00881,Primera vez,Colombia,Bogotá
+CUST00882,Inversionista,Colombia,Bogotá
+CUST00883,Primera vez,Mexico,Ciudad de México
+CUST00884,Primera vez,Mexico,Ciudad de México
+CUST00885,Inversionista,Mexico,Ciudad de México
+CUST00886,Primera vez,Mexico,Ciudad de México
+CUST00887,Inversionista,Mexico,Ciudad de México
+CUST00888,Primera vez,Colombia,Bogotá
+CUST00889,Primera vez,Colombia,Bogotá
+CUST00890,Primera vez,Colombia,Bogotá
+CUST00891,Inversionista,Colombia,Bogotá
+CUST00892,Alto patrimonio,Mexico,Ciudad de México
+CUST00893,Inversionista,Mexico,Ciudad de México
+CUST00894,Primera vez,Colombia,Bogotá
+CUST00895,Inversionista,Mexico,Ciudad de México
+CUST00896,Primera vez,Mexico,Ciudad de México
+CUST00897,Primera vez,Colombia,Bogotá
+CUST00898,Alto patrimonio,Colombia,Bogotá
+CUST00899,Primera vez,Colombia,Bogotá
+CUST00900,Primera vez,Colombia,Bogotá
+CUST00901,Primera vez,Colombia,Bogotá
+CUST00902,Primera vez,Colombia,Bogotá
+CUST00903,Primera vez,Colombia,Bogotá
+CUST00904,Inversionista,Colombia,Bogotá
+CUST00905,Primera vez,Mexico,Ciudad de México
+CUST00906,Alto patrimonio,Mexico,Ciudad de México
+CUST00907,Inversionista,Mexico,Ciudad de México
+CUST00908,Primera vez,Colombia,Bogotá
+CUST00909,Primera vez,Colombia,Bogotá
+CUST00910,Primera vez,Mexico,Ciudad de México
+CUST00911,Inversionista,Colombia,Bogotá
+CUST00912,Primera vez,Colombia,Bogotá
+CUST00913,Inversionista,Mexico,Ciudad de México
+CUST00914,Primera vez,Mexico,Ciudad de México
+CUST00915,Inversionista,Colombia,Bogotá
+CUST00916,Primera vez,Colombia,Bogotá
+CUST00917,Primera vez,Colombia,Bogotá
+CUST00918,Alto patrimonio,Colombia,Bogotá
+CUST00919,Inversionista,Colombia,Bogotá
+CUST00920,Primera vez,Colombia,Bogotá
+CUST00921,Alto patrimonio,Colombia,Bogotá
+CUST00922,Primera vez,Mexico,Ciudad de México
+CUST00923,Alto patrimonio,Mexico,Ciudad de México
+CUST00924,Inversionista,Mexico,Ciudad de México
+CUST00925,Primera vez,Colombia,Bogotá
+CUST00926,Primera vez,Colombia,Bogotá
+CUST00927,Primera vez,Colombia,Bogotá
+CUST00928,Primera vez,Colombia,Bogotá
+CUST00929,Inversionista,Colombia,Bogotá
+CUST00930,Primera vez,Mexico,Ciudad de México
+CUST00931,Primera vez,Mexico,Ciudad de México
+CUST00932,Inversionista,Mexico,Ciudad de México
+CUST00933,Alto patrimonio,Colombia,Bogotá
+CUST00934,Primera vez,Mexico,Ciudad de México
+CUST00935,Primera vez,Colombia,Bogotá
+CUST00936,Primera vez,Colombia,Bogotá
+CUST00937,Primera vez,Colombia,Bogotá
+CUST00938,Alto patrimonio,Mexico,Ciudad de México
+CUST00939,Primera vez,Mexico,Ciudad de México
+CUST00940,Inversionista,Colombia,Bogotá
+CUST00941,Primera vez,Mexico,Ciudad de México
+CUST00942,Inversionista,Mexico,Ciudad de México
+CUST00943,Inversionista,Colombia,Bogotá
+CUST00944,Inversionista,Colombia,Bogotá
+CUST00945,Primera vez,Colombia,Bogotá
+CUST00946,Primera vez,Mexico,Ciudad de México
+CUST00947,Primera vez,Colombia,Bogotá
+CUST00948,Alto patrimonio,Mexico,Ciudad de México
+CUST00949,Alto patrimonio,Colombia,Bogotá
+CUST00950,Inversionista,Mexico,Ciudad de México
+CUST00951,Inversionista,Colombia,Bogotá
+CUST00952,Inversionista,Mexico,Ciudad de México
+CUST00953,Primera vez,Mexico,Ciudad de México
+CUST00954,Alto patrimonio,Mexico,Ciudad de México
+CUST00955,Primera vez,Mexico,Ciudad de México
+CUST00956,Primera vez,Colombia,Bogotá
+CUST00957,Primera vez,Mexico,Ciudad de México
+CUST00958,Primera vez,Colombia,Bogotá
+CUST00959,Primera vez,Colombia,Bogotá
+CUST00960,Inversionista,Mexico,Ciudad de México
+CUST00961,Primera vez,Colombia,Bogotá
+CUST00962,Inversionista,Colombia,Bogotá
+CUST00963,Primera vez,Mexico,Ciudad de México
+CUST00964,Primera vez,Colombia,Bogotá
+CUST00965,Primera vez,Mexico,Ciudad de México
+CUST00966,Primera vez,Colombia,Bogotá
+CUST00967,Inversionista,Colombia,Bogotá
+CUST00968,Primera vez,Colombia,Bogotá
+CUST00969,Inversionista,Mexico,Ciudad de México
+CUST00970,Primera vez,Mexico,Ciudad de México
+CUST00971,Inversionista,Mexico,Ciudad de México
+CUST00972,Alto patrimonio,Mexico,Ciudad de México
+CUST00973,Inversionista,Colombia,Bogotá
+CUST00974,Primera vez,Colombia,Bogotá
+CUST00975,Primera vez,Mexico,Ciudad de México
+CUST00976,Primera vez,Colombia,Bogotá
+CUST00977,Inversionista,Colombia,Bogotá
+CUST00978,Primera vez,Colombia,Bogotá
+CUST00979,Primera vez,Mexico,Ciudad de México
+CUST00980,Inversionista,Mexico,Ciudad de México
+CUST00981,Primera vez,Colombia,Bogotá
+CUST00982,Inversionista,Colombia,Bogotá
+CUST00983,Primera vez,Mexico,Ciudad de México
+CUST00984,Primera vez,Mexico,Ciudad de México
+CUST00985,Inversionista,Colombia,Bogotá
+CUST00986,Primera vez,Mexico,Ciudad de México
+CUST00987,Inversionista,Colombia,Bogotá
+CUST00988,Primera vez,Colombia,Bogotá
+CUST00989,Primera vez,Mexico,Ciudad de México
+CUST00990,Inversionista,Mexico,Ciudad de México
+CUST00991,Inversionista,Colombia,Bogotá
+CUST00992,Inversionista,Mexico,Ciudad de México
+CUST00993,Primera vez,Mexico,Ciudad de México
+CUST00994,Inversionista,Mexico,Ciudad de México
+CUST00995,Primera vez,Mexico,Ciudad de México
+CUST00996,Primera vez,Mexico,Ciudad de México
+CUST00997,Alto patrimonio,Colombia,Bogotá
+CUST00998,Primera vez,Colombia,Bogotá
+CUST00999,Alto patrimonio,Colombia,Bogotá
+CUST01000,Primera vez,Colombia,Bogotá
+CUST01001,Primera vez,Mexico,Ciudad de México
+CUST01002,Primera vez,Colombia,Bogotá
+CUST01003,Alto patrimonio,Colombia,Bogotá
+CUST01004,Inversionista,Colombia,Bogotá
+CUST01005,Inversionista,Colombia,Bogotá
+CUST01006,Inversionista,Colombia,Bogotá
+CUST01007,Inversionista,Mexico,Ciudad de México
+CUST01008,Inversionista,Colombia,Bogotá
+CUST01009,Primera vez,Mexico,Ciudad de México
+CUST01010,Primera vez,Mexico,Ciudad de México
+CUST01011,Primera vez,Colombia,Bogotá
+CUST01012,Alto patrimonio,Colombia,Bogotá
+CUST01013,Alto patrimonio,Colombia,Bogotá
+CUST01014,Primera vez,Mexico,Ciudad de México
+CUST01015,Inversionista,Mexico,Ciudad de México
+CUST01016,Alto patrimonio,Colombia,Bogotá
+CUST01017,Primera vez,Mexico,Ciudad de México
+CUST01018,Inversionista,Mexico,Ciudad de México
+CUST01019,Alto patrimonio,Colombia,Bogotá
+CUST01020,Primera vez,Colombia,Bogotá
+CUST01021,Inversionista,Mexico,Ciudad de México
+CUST01022,Primera vez,Mexico,Ciudad de México
+CUST01023,Alto patrimonio,Mexico,Ciudad de México
+CUST01024,Alto patrimonio,Mexico,Ciudad de México
+CUST01025,Alto patrimonio,Mexico,Ciudad de México
+CUST01026,Primera vez,Colombia,Bogotá
+CUST01027,Alto patrimonio,Mexico,Ciudad de México
+CUST01028,Inversionista,Mexico,Ciudad de México
+CUST01029,Primera vez,Mexico,Ciudad de México
+CUST01030,Inversionista,Colombia,Bogotá
+CUST01031,Primera vez,Colombia,Bogotá
+CUST01032,Inversionista,Colombia,Bogotá
+CUST01033,Primera vez,Colombia,Bogotá
+CUST01034,Primera vez,Colombia,Bogotá
+CUST01035,Primera vez,Mexico,Ciudad de México
+CUST01036,Inversionista,Mexico,Ciudad de México
+CUST01037,Primera vez,Colombia,Bogotá
+CUST01038,Inversionista,Mexico,Ciudad de México
+CUST01039,Primera vez,Colombia,Bogotá
+CUST01040,Primera vez,Colombia,Bogotá
+CUST01041,Primera vez,Colombia,Bogotá
+CUST01042,Inversionista,Colombia,Bogotá
+CUST01043,Primera vez,Colombia,Bogotá
+CUST01044,Inversionista,Colombia,Bogotá
+CUST01045,Alto patrimonio,Colombia,Bogotá
+CUST01046,Inversionista,Mexico,Ciudad de México
+CUST01047,Primera vez,Colombia,Bogotá
+CUST01048,Primera vez,Mexico,Ciudad de México
+CUST01049,Alto patrimonio,Mexico,Ciudad de México
+CUST01050,Primera vez,Mexico,Ciudad de México
+CUST01051,Alto patrimonio,Mexico,Ciudad de México
+CUST01052,Primera vez,Colombia,Bogotá
+CUST01053,Alto patrimonio,Colombia,Bogotá
+CUST01054,Inversionista,Mexico,Ciudad de México
+CUST01055,Alto patrimonio,Colombia,Bogotá
+CUST01056,Primera vez,Mexico,Ciudad de México
+CUST01057,Inversionista,Mexico,Ciudad de México
+CUST01058,Primera vez,Mexico,Ciudad de México
+CUST01059,Primera vez,Mexico,Ciudad de México
+CUST01060,Inversionista,Mexico,Ciudad de México
+CUST01061,Alto patrimonio,Mexico,Ciudad de México
+CUST01062,Alto patrimonio,Colombia,Bogotá
+CUST01063,Inversionista,Mexico,Ciudad de México
+CUST01064,Primera vez,Colombia,Bogotá
+CUST01065,Primera vez,Colombia,Bogotá
+CUST01066,Inversionista,Mexico,Ciudad de México
+CUST01067,Primera vez,Colombia,Bogotá
+CUST01068,Primera vez,Colombia,Bogotá
+CUST01069,Primera vez,Colombia,Bogotá
+CUST01070,Primera vez,Mexico,Ciudad de México
+CUST01071,Primera vez,Colombia,Bogotá
+CUST01072,Primera vez,Mexico,Ciudad de México
+CUST01073,Primera vez,Colombia,Bogotá
+CUST01074,Primera vez,Mexico,Ciudad de México
+CUST01075,Alto patrimonio,Mexico,Ciudad de México
+CUST01076,Primera vez,Colombia,Bogotá
+CUST01077,Primera vez,Colombia,Bogotá
+CUST01078,Inversionista,Colombia,Bogotá
+CUST01079,Primera vez,Mexico,Ciudad de México
+CUST01080,Alto patrimonio,Mexico,Ciudad de México
+CUST01081,Inversionista,Mexico,Ciudad de México
+CUST01082,Primera vez,Colombia,Bogotá
+CUST01083,Primera vez,Mexico,Ciudad de México
+CUST01084,Alto patrimonio,Mexico,Ciudad de México
+CUST01085,Alto patrimonio,Mexico,Ciudad de México
+CUST01086,Primera vez,Mexico,Ciudad de México
+CUST01087,Inversionista,Colombia,Bogotá
+CUST01088,Primera vez,Colombia,Bogotá
+CUST01089,Alto patrimonio,Mexico,Ciudad de México
+CUST01090,Primera vez,Mexico,Ciudad de México
+CUST01091,Alto patrimonio,Mexico,Ciudad de México
+CUST01092,Inversionista,Colombia,Bogotá
+CUST01093,Inversionista,Colombia,Bogotá
+CUST01094,Primera vez,Colombia,Bogotá
+CUST01095,Primera vez,Colombia,Bogotá
+CUST01096,Primera vez,Mexico,Ciudad de México
+CUST01097,Primera vez,Mexico,Ciudad de México
+CUST01098,Primera vez,Colombia,Bogotá
+CUST01099,Inversionista,Colombia,Bogotá
+CUST01100,Primera vez,Colombia,Bogotá
+CUST01101,Primera vez,Colombia,Bogotá
+CUST01102,Alto patrimonio,Mexico,Ciudad de México
+CUST01103,Alto patrimonio,Mexico,Ciudad de México
+CUST01104,Alto patrimonio,Colombia,Bogotá
+CUST01105,Alto patrimonio,Mexico,Ciudad de México
+CUST01106,Primera vez,Mexico,Ciudad de México
+CUST01107,Primera vez,Mexico,Ciudad de México
+CUST01108,Inversionista,Colombia,Bogotá
+CUST01109,Inversionista,Mexico,Ciudad de México
+CUST01110,Primera vez,Colombia,Bogotá
+CUST01111,Inversionista,Colombia,Bogotá
+CUST01112,Primera vez,Colombia,Bogotá
+CUST01113,Primera vez,Colombia,Bogotá
+CUST01114,Primera vez,Colombia,Bogotá
+CUST01115,Inversionista,Colombia,Bogotá
+CUST01116,Inversionista,Colombia,Bogotá
+CUST01117,Primera vez,Mexico,Ciudad de México
+CUST01118,Alto patrimonio,Mexico,Ciudad de México
+CUST01119,Primera vez,Colombia,Bogotá
+CUST01120,Primera vez,Mexico,Ciudad de México
+CUST01121,Alto patrimonio,Mexico,Ciudad de México
+CUST01122,Alto patrimonio,Mexico,Ciudad de México
+CUST01123,Alto patrimonio,Colombia,Bogotá
+CUST01124,Inversionista,Mexico,Ciudad de México
+CUST01125,Inversionista,Mexico,Ciudad de México
+CUST01126,Inversionista,Mexico,Ciudad de México
+CUST01127,Primera vez,Colombia,Bogotá
+CUST01128,Primera vez,Colombia,Bogotá
+CUST01129,Primera vez,Mexico,Ciudad de México
+CUST01130,Primera vez,Colombia,Bogotá
+CUST01131,Inversionista,Colombia,Bogotá
+CUST01132,Primera vez,Colombia,Bogotá
+CUST01133,Primera vez,Mexico,Ciudad de México
+CUST01134,Primera vez,Mexico,Ciudad de México
+CUST01135,Inversionista,Colombia,Bogotá
+CUST01136,Primera vez,Mexico,Ciudad de México
+CUST01137,Alto patrimonio,Colombia,Bogotá
+CUST01138,Primera vez,Mexico,Ciudad de México
+CUST01139,Primera vez,Mexico,Ciudad de México
+CUST01140,Inversionista,Mexico,Ciudad de México
+CUST01141,Inversionista,Mexico,Ciudad de México
+CUST01142,Primera vez,Colombia,Bogotá
+CUST01143,Inversionista,Mexico,Ciudad de México
+CUST01144,Inversionista,Colombia,Bogotá
+CUST01145,Primera vez,Mexico,Ciudad de México
+CUST01146,Alto patrimonio,Mexico,Ciudad de México
+CUST01147,Inversionista,Mexico,Ciudad de México
+CUST01148,Inversionista,Colombia,Bogotá
+CUST01149,Alto patrimonio,Mexico,Ciudad de México
+CUST01150,Alto patrimonio,Colombia,Bogotá
+CUST01151,Inversionista,Colombia,Bogotá
+CUST01152,Inversionista,Mexico,Ciudad de México
+CUST01153,Inversionista,Colombia,Bogotá
+CUST01154,Inversionista,Mexico,Ciudad de México
+CUST01155,Inversionista,Colombia,Bogotá
+CUST01156,Inversionista,Colombia,Bogotá
+CUST01157,Primera vez,Mexico,Ciudad de México
+CUST01158,Alto patrimonio,Mexico,Ciudad de México
+CUST01159,Alto patrimonio,Colombia,Bogotá
+CUST01160,Primera vez,Mexico,Ciudad de México
+CUST01161,Inversionista,Colombia,Bogotá
+CUST01162,Primera vez,Mexico,Ciudad de México
+CUST01163,Primera vez,Colombia,Bogotá
+CUST01164,Inversionista,Mexico,Ciudad de México
+CUST01165,Primera vez,Mexico,Ciudad de México
+CUST01166,Inversionista,Mexico,Ciudad de México
+CUST01167,Inversionista,Colombia,Bogotá
+CUST01168,Primera vez,Mexico,Ciudad de México
+CUST01169,Primera vez,Mexico,Ciudad de México
+CUST01170,Primera vez,Mexico,Ciudad de México
+CUST01171,Inversionista,Colombia,Bogotá
+CUST01172,Alto patrimonio,Mexico,Ciudad de México
+CUST01173,Inversionista,Mexico,Ciudad de México
+CUST01174,Primera vez,Colombia,Bogotá
+CUST01175,Inversionista,Colombia,Bogotá
+CUST01176,Primera vez,Mexico,Ciudad de México
+CUST01177,Inversionista,Colombia,Bogotá
+CUST01178,Primera vez,Mexico,Ciudad de México
+CUST01179,Inversionista,Mexico,Ciudad de México
+CUST01180,Primera vez,Mexico,Ciudad de México
+CUST01181,Alto patrimonio,Colombia,Bogotá
+CUST01182,Primera vez,Colombia,Bogotá
+CUST01183,Inversionista,Mexico,Ciudad de México
+CUST01184,Alto patrimonio,Colombia,Bogotá
+CUST01185,Primera vez,Mexico,Ciudad de México
+CUST01186,Alto patrimonio,Colombia,Bogotá
+CUST01187,Inversionista,Colombia,Bogotá
+CUST01188,Primera vez,Colombia,Bogotá
+CUST01189,Primera vez,Mexico,Ciudad de México
+CUST01190,Inversionista,Mexico,Ciudad de México
+CUST01191,Primera vez,Colombia,Bogotá
+CUST01192,Inversionista,Colombia,Bogotá
+CUST01193,Primera vez,Colombia,Bogotá
+CUST01194,Inversionista,Mexico,Ciudad de México
+CUST01195,Primera vez,Colombia,Bogotá
+CUST01196,Alto patrimonio,Mexico,Ciudad de México
+CUST01197,Alto patrimonio,Colombia,Bogotá
+CUST01198,Alto patrimonio,Colombia,Bogotá
+CUST01199,Inversionista,Colombia,Bogotá
+CUST01200,Primera vez,Mexico,Ciudad de México
+CUST01201,Inversionista,Colombia,Bogotá
+CUST01202,Primera vez,Colombia,Bogotá
+CUST01203,Primera vez,Mexico,Ciudad de México
+CUST01204,Primera vez,Mexico,Ciudad de México
+CUST01205,Primera vez,Colombia,Bogotá
+CUST01206,Inversionista,Colombia,Bogotá
+CUST01207,Inversionista,Mexico,Ciudad de México
+CUST01208,Primera vez,Colombia,Bogotá
+CUST01209,Primera vez,Mexico,Ciudad de México
+CUST01210,Alto patrimonio,Mexico,Ciudad de México
+CUST01211,Primera vez,Colombia,Bogotá
+CUST01212,Primera vez,Colombia,Bogotá
+CUST01213,Primera vez,Colombia,Bogotá
+CUST01214,Inversionista,Mexico,Ciudad de México
+CUST01215,Inversionista,Colombia,Bogotá
+CUST01216,Primera vez,Colombia,Bogotá
+CUST01217,Primera vez,Mexico,Ciudad de México
+CUST01218,Inversionista,Mexico,Ciudad de México
+CUST01219,Inversionista,Colombia,Bogotá
+CUST01220,Primera vez,Mexico,Ciudad de México
+CUST01221,Alto patrimonio,Colombia,Bogotá
+CUST01222,Primera vez,Colombia,Bogotá
+CUST01223,Primera vez,Colombia,Bogotá
+CUST01224,Alto patrimonio,Colombia,Bogotá
+CUST01225,Primera vez,Colombia,Bogotá
+CUST01226,Inversionista,Colombia,Bogotá
+CUST01227,Primera vez,Mexico,Ciudad de México
+CUST01228,Primera vez,Mexico,Ciudad de México
+CUST01229,Alto patrimonio,Mexico,Ciudad de México
+CUST01230,Primera vez,Colombia,Bogotá
+CUST01231,Alto patrimonio,Colombia,Bogotá
+CUST01232,Primera vez,Colombia,Bogotá
+CUST01233,Primera vez,Mexico,Ciudad de México
+CUST01234,Primera vez,Mexico,Ciudad de México
+CUST01235,Inversionista,Colombia,Bogotá
+CUST01236,Primera vez,Colombia,Bogotá
+CUST01237,Alto patrimonio,Colombia,Bogotá
+CUST01238,Primera vez,Colombia,Bogotá
+CUST01239,Alto patrimonio,Colombia,Bogotá
+CUST01240,Primera vez,Mexico,Ciudad de México
+CUST01241,Alto patrimonio,Mexico,Ciudad de México
+CUST01242,Inversionista,Colombia,Bogotá
+CUST01243,Inversionista,Colombia,Bogotá
+CUST01244,Inversionista,Mexico,Ciudad de México
+CUST01245,Inversionista,Colombia,Bogotá
+CUST01246,Inversionista,Colombia,Bogotá
+CUST01247,Primera vez,Colombia,Bogotá
+CUST01248,Primera vez,Colombia,Bogotá
+CUST01249,Alto patrimonio,Colombia,Bogotá
+CUST01250,Inversionista,Mexico,Ciudad de México
+CUST01251,Inversionista,Colombia,Bogotá
+CUST01252,Primera vez,Colombia,Bogotá
+CUST01253,Primera vez,Mexico,Ciudad de México
+CUST01254,Primera vez,Colombia,Bogotá
+CUST01255,Inversionista,Mexico,Ciudad de México
+CUST01256,Primera vez,Mexico,Ciudad de México
+CUST01257,Primera vez,Colombia,Bogotá
+CUST01258,Primera vez,Mexico,Ciudad de México
+CUST01259,Primera vez,Colombia,Bogotá
+CUST01260,Inversionista,Mexico,Ciudad de México
+CUST01261,Primera vez,Colombia,Bogotá
+CUST01262,Inversionista,Mexico,Ciudad de México
+CUST01263,Primera vez,Mexico,Ciudad de México
+CUST01264,Primera vez,Colombia,Bogotá
+CUST01265,Primera vez,Mexico,Ciudad de México
+CUST01266,Primera vez,Mexico,Ciudad de México
+CUST01267,Primera vez,Mexico,Ciudad de México
+CUST01268,Primera vez,Colombia,Bogotá
+CUST01269,Inversionista,Mexico,Ciudad de México
+CUST01270,Primera vez,Colombia,Bogotá
+CUST01271,Inversionista,Colombia,Bogotá
+CUST01272,Alto patrimonio,Colombia,Bogotá
+CUST01273,Inversionista,Colombia,Bogotá
+CUST01274,Primera vez,Mexico,Ciudad de México
+CUST01275,Primera vez,Colombia,Bogotá
+CUST01276,Primera vez,Mexico,Ciudad de México
+CUST01277,Primera vez,Colombia,Bogotá
+CUST01278,Alto patrimonio,Colombia,Bogotá
+CUST01279,Primera vez,Colombia,Bogotá
+CUST01280,Primera vez,Colombia,Bogotá
+CUST01281,Inversionista,Colombia,Bogotá
+CUST01282,Inversionista,Colombia,Bogotá
+CUST01283,Inversionista,Mexico,Ciudad de México
+CUST01284,Primera vez,Colombia,Bogotá
+CUST01285,Primera vez,Colombia,Bogotá
+CUST01286,Primera vez,Colombia,Bogotá
+CUST01287,Primera vez,Mexico,Ciudad de México
+CUST01288,Primera vez,Mexico,Ciudad de México
+CUST01289,Primera vez,Colombia,Bogotá
+CUST01290,Primera vez,Colombia,Bogotá
+CUST01291,Primera vez,Colombia,Bogotá
+CUST01292,Primera vez,Mexico,Ciudad de México
+CUST01293,Inversionista,Colombia,Bogotá
+CUST01294,Inversionista,Colombia,Bogotá
+CUST01295,Inversionista,Colombia,Bogotá
+CUST01296,Primera vez,Colombia,Bogotá
+CUST01297,Primera vez,Colombia,Bogotá
+CUST01298,Primera vez,Mexico,Ciudad de México
+CUST01299,Inversionista,Colombia,Bogotá
+CUST01300,Inversionista,Mexico,Ciudad de México
+CUST01301,Primera vez,Colombia,Bogotá
+CUST01302,Alto patrimonio,Colombia,Bogotá
+CUST01303,Primera vez,Mexico,Ciudad de México
+CUST01304,Primera vez,Colombia,Bogotá
+CUST01305,Inversionista,Mexico,Ciudad de México
+CUST01306,Alto patrimonio,Mexico,Ciudad de México
+CUST01307,Inversionista,Colombia,Bogotá
+CUST01308,Inversionista,Mexico,Ciudad de México
+CUST01309,Primera vez,Colombia,Bogotá
+CUST01310,Inversionista,Mexico,Ciudad de México
+CUST01311,Primera vez,Colombia,Bogotá
+CUST01312,Alto patrimonio,Mexico,Ciudad de México
+CUST01313,Primera vez,Colombia,Bogotá
+CUST01314,Inversionista,Colombia,Bogotá
+CUST01315,Primera vez,Mexico,Ciudad de México
+CUST01316,Inversionista,Mexico,Ciudad de México
+CUST01317,Primera vez,Mexico,Ciudad de México
+CUST01318,Inversionista,Mexico,Ciudad de México
+CUST01319,Primera vez,Mexico,Ciudad de México
+CUST01320,Primera vez,Colombia,Bogotá
+CUST01321,Primera vez,Colombia,Bogotá
+CUST01322,Primera vez,Colombia,Bogotá
+CUST01323,Alto patrimonio,Colombia,Bogotá
+CUST01324,Primera vez,Colombia,Bogotá
+CUST01325,Alto patrimonio,Mexico,Ciudad de México
+CUST01326,Primera vez,Colombia,Bogotá
+CUST01327,Primera vez,Mexico,Ciudad de México
+CUST01328,Inversionista,Colombia,Bogotá
+CUST01329,Inversionista,Colombia,Bogotá
+CUST01330,Primera vez,Colombia,Bogotá
+CUST01331,Inversionista,Mexico,Ciudad de México
+CUST01332,Inversionista,Mexico,Ciudad de México
+CUST01333,Primera vez,Mexico,Ciudad de México
+CUST01334,Alto patrimonio,Colombia,Bogotá
+CUST01335,Alto patrimonio,Mexico,Ciudad de México
+CUST01336,Inversionista,Colombia,Bogotá
+CUST01337,Primera vez,Colombia,Bogotá
+CUST01338,Inversionista,Colombia,Bogotá
+CUST01339,Primera vez,Colombia,Bogotá
+CUST01340,Primera vez,Colombia,Bogotá
+CUST01341,Primera vez,Mexico,Ciudad de México
+CUST01342,Primera vez,Mexico,Ciudad de México
+CUST01343,Alto patrimonio,Colombia,Bogotá
+CUST01344,Inversionista,Colombia,Bogotá
+CUST01345,Inversionista,Colombia,Bogotá
+CUST01346,Primera vez,Colombia,Bogotá
+CUST01347,Primera vez,Mexico,Ciudad de México
+CUST01348,Primera vez,Colombia,Bogotá
+CUST01349,Alto patrimonio,Mexico,Ciudad de México
+CUST01350,Primera vez,Colombia,Bogotá
+CUST01351,Alto patrimonio,Mexico,Ciudad de México
+CUST01352,Inversionista,Colombia,Bogotá
+CUST01353,Primera vez,Mexico,Ciudad de México
+CUST01354,Inversionista,Colombia,Bogotá
+CUST01355,Primera vez,Mexico,Ciudad de México
+CUST01356,Alto patrimonio,Colombia,Bogotá
+CUST01357,Alto patrimonio,Colombia,Bogotá
+CUST01358,Primera vez,Mexico,Ciudad de México
+CUST01359,Primera vez,Mexico,Ciudad de México
+CUST01360,Inversionista,Mexico,Ciudad de México
+CUST01361,Alto patrimonio,Mexico,Ciudad de México
+CUST01362,Primera vez,Mexico,Ciudad de México
+CUST01363,Inversionista,Colombia,Bogotá
+CUST01364,Inversionista,Colombia,Bogotá
+CUST01365,Inversionista,Colombia,Bogotá
+CUST01366,Primera vez,Mexico,Ciudad de México
+CUST01367,Inversionista,Colombia,Bogotá
+CUST01368,Alto patrimonio,Colombia,Bogotá
+CUST01369,Primera vez,Mexico,Ciudad de México
+CUST01370,Primera vez,Mexico,Ciudad de México
+CUST01371,Alto patrimonio,Colombia,Bogotá
+CUST01372,Primera vez,Colombia,Bogotá
+CUST01373,Alto patrimonio,Colombia,Bogotá
+CUST01374,Primera vez,Colombia,Bogotá
+CUST01375,Primera vez,Colombia,Bogotá
+CUST01376,Alto patrimonio,Mexico,Ciudad de México
+CUST01377,Primera vez,Mexico,Ciudad de México
+CUST01378,Primera vez,Mexico,Ciudad de México
+CUST01379,Primera vez,Colombia,Bogotá
+CUST01380,Inversionista,Mexico,Ciudad de México
+CUST01381,Primera vez,Colombia,Bogotá
+CUST01382,Primera vez,Colombia,Bogotá
+CUST01383,Alto patrimonio,Mexico,Ciudad de México
+CUST01384,Primera vez,Colombia,Bogotá
+CUST01385,Inversionista,Colombia,Bogotá
+CUST01386,Primera vez,Mexico,Ciudad de México
+CUST01387,Inversionista,Colombia,Bogotá
+CUST01388,Primera vez,Mexico,Ciudad de México
+CUST01389,Alto patrimonio,Colombia,Bogotá
+CUST01390,Primera vez,Mexico,Ciudad de México
+CUST01391,Primera vez,Colombia,Bogotá
+CUST01392,Primera vez,Colombia,Bogotá
+CUST01393,Primera vez,Mexico,Ciudad de México
+CUST01394,Primera vez,Colombia,Bogotá
+CUST01395,Primera vez,Colombia,Bogotá
+CUST01396,Inversionista,Colombia,Bogotá
+CUST01397,Primera vez,Colombia,Bogotá
+CUST01398,Primera vez,Colombia,Bogotá
+CUST01399,Inversionista,Colombia,Bogotá
+CUST01400,Inversionista,Mexico,Ciudad de México
+CUST01401,Primera vez,Colombia,Bogotá
+CUST01402,Primera vez,Colombia,Bogotá
+CUST01403,Primera vez,Colombia,Bogotá
+CUST01404,Inversionista,Colombia,Bogotá
+CUST01405,Inversionista,Mexico,Ciudad de México
+CUST01406,Primera vez,Colombia,Bogotá
+CUST01407,Inversionista,Mexico,Ciudad de México
+CUST01408,Inversionista,Colombia,Bogotá
+CUST01409,Inversionista,Mexico,Ciudad de México
+CUST01410,Alto patrimonio,Mexico,Ciudad de México
+CUST01411,Primera vez,Mexico,Ciudad de México
+CUST01412,Primera vez,Mexico,Ciudad de México
+CUST01413,Primera vez,Mexico,Ciudad de México
+CUST01414,Primera vez,Colombia,Bogotá
+CUST01415,Primera vez,Colombia,Bogotá
+CUST01416,Alto patrimonio,Mexico,Ciudad de México
+CUST01417,Primera vez,Colombia,Bogotá
+CUST01418,Primera vez,Colombia,Bogotá
+CUST01419,Primera vez,Mexico,Ciudad de México
+CUST01420,Alto patrimonio,Colombia,Bogotá
+CUST01421,Primera vez,Mexico,Ciudad de México
+CUST01422,Primera vez,Mexico,Ciudad de México
+CUST01423,Primera vez,Mexico,Ciudad de México
+CUST01424,Primera vez,Mexico,Ciudad de México
+CUST01425,Alto patrimonio,Colombia,Bogotá
+CUST01426,Alto patrimonio,Colombia,Bogotá
+CUST01427,Primera vez,Colombia,Bogotá
+CUST01428,Alto patrimonio,Colombia,Bogotá
+CUST01429,Inversionista,Mexico,Ciudad de México
+CUST01430,Alto patrimonio,Mexico,Ciudad de México
+CUST01431,Primera vez,Colombia,Bogotá
+CUST01432,Primera vez,Colombia,Bogotá
+CUST01433,Primera vez,Mexico,Ciudad de México
+CUST01434,Inversionista,Colombia,Bogotá
+CUST01435,Primera vez,Colombia,Bogotá
+CUST01436,Primera vez,Colombia,Bogotá
+CUST01437,Primera vez,Mexico,Ciudad de México
+CUST01438,Inversionista,Mexico,Ciudad de México
+CUST01439,Primera vez,Mexico,Ciudad de México
+CUST01440,Inversionista,Mexico,Ciudad de México
+CUST01441,Alto patrimonio,Colombia,Bogotá
+CUST01442,Primera vez,Colombia,Bogotá
+CUST01443,Inversionista,Mexico,Ciudad de México
+CUST01444,Primera vez,Colombia,Bogotá
+CUST01445,Alto patrimonio,Mexico,Ciudad de México
+CUST01446,Primera vez,Mexico,Ciudad de México
+CUST01447,Inversionista,Mexico,Ciudad de México
+CUST01448,Inversionista,Mexico,Ciudad de México
+CUST01449,Alto patrimonio,Mexico,Ciudad de México
+CUST01450,Inversionista,Mexico,Ciudad de México
+CUST01451,Primera vez,Colombia,Bogotá
+CUST01452,Inversionista,Colombia,Bogotá
+CUST01453,Alto patrimonio,Colombia,Bogotá
+CUST01454,Inversionista,Mexico,Ciudad de México
+CUST01455,Primera vez,Colombia,Bogotá
+CUST01456,Alto patrimonio,Mexico,Ciudad de México
+CUST01457,Inversionista,Colombia,Bogotá
+CUST01458,Inversionista,Mexico,Ciudad de México
+CUST01459,Primera vez,Colombia,Bogotá
+CUST01460,Inversionista,Mexico,Ciudad de México
+CUST01461,Primera vez,Mexico,Ciudad de México
+CUST01462,Inversionista,Colombia,Bogotá
+CUST01463,Primera vez,Colombia,Bogotá
+CUST01464,Inversionista,Mexico,Ciudad de México
+CUST01465,Alto patrimonio,Colombia,Bogotá
+CUST01466,Primera vez,Colombia,Bogotá
+CUST01467,Alto patrimonio,Mexico,Ciudad de México
+CUST01468,Primera vez,Mexico,Ciudad de México
+CUST01469,Alto patrimonio,Mexico,Ciudad de México
+CUST01470,Inversionista,Colombia,Bogotá
+CUST01471,Inversionista,Colombia,Bogotá
+CUST01472,Inversionista,Mexico,Ciudad de México
+CUST01473,Alto patrimonio,Mexico,Ciudad de México
+CUST01474,Primera vez,Mexico,Ciudad de México
+CUST01475,Primera vez,Colombia,Bogotá
+CUST01476,Inversionista,Colombia,Bogotá
+CUST01477,Inversionista,Colombia,Bogotá
+CUST01478,Inversionista,Colombia,Bogotá
+CUST01479,Inversionista,Colombia,Bogotá
+CUST01480,Primera vez,Colombia,Bogotá
+CUST01481,Inversionista,Mexico,Ciudad de México
+CUST01482,Primera vez,Colombia,Bogotá
+CUST01483,Primera vez,Mexico,Ciudad de México
+CUST01484,Primera vez,Mexico,Ciudad de México
+CUST01485,Primera vez,Mexico,Ciudad de México
+CUST01486,Primera vez,Colombia,Bogotá
+CUST01487,Primera vez,Mexico,Ciudad de México
+CUST01488,Inversionista,Mexico,Ciudad de México
+CUST01489,Primera vez,Mexico,Ciudad de México
+CUST01490,Primera vez,Mexico,Ciudad de México
+CUST01491,Primera vez,Mexico,Ciudad de México
+CUST01492,Primera vez,Mexico,Ciudad de México
+CUST01493,Primera vez,Colombia,Bogotá
+CUST01494,Primera vez,Mexico,Ciudad de México
+CUST01495,Inversionista,Colombia,Bogotá
+CUST01496,Inversionista,Mexico,Ciudad de México
+CUST01497,Inversionista,Colombia,Bogotá
+CUST01498,Primera vez,Colombia,Bogotá
+CUST01499,Primera vez,Mexico,Ciudad de México
+CUST01500,Alto patrimonio,Mexico,Ciudad de México
+CUST01501,Primera vez,Colombia,Bogotá
+CUST01502,Primera vez,Colombia,Bogotá
+CUST01503,Primera vez,Mexico,Ciudad de México
+CUST01504,Primera vez,Colombia,Bogotá
+CUST01505,Primera vez,Mexico,Ciudad de México
+CUST01506,Primera vez,Colombia,Bogotá
+CUST01507,Inversionista,Mexico,Ciudad de México
+CUST01508,Primera vez,Mexico,Ciudad de México
+CUST01509,Inversionista,Colombia,Bogotá
+CUST01510,Inversionista,Colombia,Bogotá
+CUST01511,Inversionista,Colombia,Bogotá
+CUST01512,Inversionista,Mexico,Ciudad de México
+CUST01513,Alto patrimonio,Mexico,Ciudad de México
+CUST01514,Primera vez,Mexico,Ciudad de México
+CUST01515,Primera vez,Colombia,Bogotá
+CUST01516,Primera vez,Colombia,Bogotá
+CUST01517,Inversionista,Colombia,Bogotá
+CUST01518,Alto patrimonio,Colombia,Bogotá
+CUST01519,Primera vez,Mexico,Ciudad de México
+CUST01520,Alto patrimonio,Mexico,Ciudad de México
+CUST01521,Primera vez,Mexico,Ciudad de México
+CUST01522,Alto patrimonio,Colombia,Bogotá
+CUST01523,Primera vez,Mexico,Ciudad de México
+CUST01524,Primera vez,Mexico,Ciudad de México
+CUST01525,Primera vez,Mexico,Ciudad de México
+CUST01526,Primera vez,Mexico,Ciudad de México
+CUST01527,Primera vez,Colombia,Bogotá
+CUST01528,Primera vez,Colombia,Bogotá
+CUST01529,Inversionista,Mexico,Ciudad de México
+CUST01530,Primera vez,Colombia,Bogotá
+CUST01531,Primera vez,Colombia,Bogotá
+CUST01532,Inversionista,Mexico,Ciudad de México
+CUST01533,Inversionista,Mexico,Ciudad de México
+CUST01534,Primera vez,Mexico,Ciudad de México
+CUST01535,Primera vez,Colombia,Bogotá
+CUST01536,Primera vez,Colombia,Bogotá
+CUST01537,Primera vez,Mexico,Ciudad de México
+CUST01538,Inversionista,Mexico,Ciudad de México
+CUST01539,Primera vez,Mexico,Ciudad de México
+CUST01540,Primera vez,Mexico,Ciudad de México
+CUST01541,Inversionista,Mexico,Ciudad de México
+CUST01542,Primera vez,Mexico,Ciudad de México
+CUST01543,Inversionista,Colombia,Bogotá
+CUST01544,Primera vez,Mexico,Ciudad de México
+CUST01545,Alto patrimonio,Mexico,Ciudad de México
+CUST01546,Primera vez,Mexico,Ciudad de México
+CUST01547,Inversionista,Colombia,Bogotá
+CUST01548,Inversionista,Mexico,Ciudad de México
+CUST01549,Primera vez,Colombia,Bogotá
+CUST01550,Inversionista,Colombia,Bogotá
+CUST01551,Alto patrimonio,Colombia,Bogotá
+CUST01552,Inversionista,Mexico,Ciudad de México
+CUST01553,Inversionista,Colombia,Bogotá
+CUST01554,Alto patrimonio,Colombia,Bogotá
+CUST01555,Primera vez,Colombia,Bogotá
+CUST01556,Primera vez,Mexico,Ciudad de México
+CUST01557,Inversionista,Colombia,Bogotá
+CUST01558,Primera vez,Colombia,Bogotá
+CUST01559,Inversionista,Mexico,Ciudad de México
+CUST01560,Alto patrimonio,Colombia,Bogotá
+CUST01561,Primera vez,Mexico,Ciudad de México
+CUST01562,Primera vez,Mexico,Ciudad de México
+CUST01563,Inversionista,Colombia,Bogotá
+CUST01564,Primera vez,Colombia,Bogotá
+CUST01565,Inversionista,Mexico,Ciudad de México
+CUST01566,Primera vez,Colombia,Bogotá
+CUST01567,Inversionista,Colombia,Bogotá
+CUST01568,Primera vez,Colombia,Bogotá
+CUST01569,Inversionista,Mexico,Ciudad de México
+CUST01570,Primera vez,Colombia,Bogotá
+CUST01571,Inversionista,Mexico,Ciudad de México
+CUST01572,Primera vez,Mexico,Ciudad de México
+CUST01573,Inversionista,Colombia,Bogotá
+CUST01574,Alto patrimonio,Colombia,Bogotá
+CUST01575,Primera vez,Mexico,Ciudad de México
+CUST01576,Primera vez,Colombia,Bogotá
+CUST01577,Primera vez,Mexico,Ciudad de México
+CUST01578,Inversionista,Colombia,Bogotá
+CUST01579,Inversionista,Colombia,Bogotá
+CUST01580,Primera vez,Colombia,Bogotá
+CUST01581,Primera vez,Colombia,Bogotá
+CUST01582,Primera vez,Colombia,Bogotá
+CUST01583,Inversionista,Mexico,Ciudad de México
+CUST01584,Primera vez,Colombia,Bogotá
+CUST01585,Alto patrimonio,Colombia,Bogotá
+CUST01586,Primera vez,Colombia,Bogotá
+CUST01587,Inversionista,Mexico,Ciudad de México
+CUST01588,Primera vez,Colombia,Bogotá
+CUST01589,Primera vez,Mexico,Ciudad de México
+CUST01590,Inversionista,Colombia,Bogotá
+CUST01591,Inversionista,Colombia,Bogotá
+CUST01592,Alto patrimonio,Colombia,Bogotá
+CUST01593,Primera vez,Mexico,Ciudad de México
+CUST01594,Primera vez,Colombia,Bogotá
+CUST01595,Inversionista,Colombia,Bogotá
+CUST01596,Inversionista,Colombia,Bogotá
+CUST01597,Primera vez,Mexico,Ciudad de México
+CUST01598,Primera vez,Colombia,Bogotá
+CUST01599,Primera vez,Colombia,Bogotá
+CUST01600,Alto patrimonio,Colombia,Bogotá
+CUST01601,Primera vez,Colombia,Bogotá
+CUST01602,Primera vez,Mexico,Ciudad de México
+CUST01603,Primera vez,Mexico,Ciudad de México
+CUST01604,Primera vez,Colombia,Bogotá
+CUST01605,Primera vez,Colombia,Bogotá
+CUST01606,Primera vez,Colombia,Bogotá
+CUST01607,Primera vez,Colombia,Bogotá
+CUST01608,Inversionista,Colombia,Bogotá
+CUST01609,Primera vez,Mexico,Ciudad de México
+CUST01610,Primera vez,Mexico,Ciudad de México
+CUST01611,Alto patrimonio,Mexico,Ciudad de México
+CUST01612,Inversionista,Mexico,Ciudad de México
+CUST01613,Primera vez,Mexico,Ciudad de México
+CUST01614,Primera vez,Mexico,Ciudad de México
+CUST01615,Primera vez,Colombia,Bogotá
+CUST01616,Inversionista,Mexico,Ciudad de México
+CUST01617,Alto patrimonio,Colombia,Bogotá
+CUST01618,Inversionista,Colombia,Bogotá
+CUST01619,Inversionista,Mexico,Ciudad de México
+CUST01620,Inversionista,Colombia,Bogotá
+CUST01621,Primera vez,Colombia,Bogotá
+CUST01622,Primera vez,Mexico,Ciudad de México
+CUST01623,Inversionista,Colombia,Bogotá
+CUST01624,Alto patrimonio,Colombia,Bogotá
+CUST01625,Primera vez,Mexico,Ciudad de México
+CUST01626,Inversionista,Mexico,Ciudad de México
+CUST01627,Primera vez,Mexico,Ciudad de México
+CUST01628,Primera vez,Colombia,Bogotá
+CUST01629,Primera vez,Colombia,Bogotá
+CUST01630,Primera vez,Mexico,Ciudad de México
+CUST01631,Inversionista,Mexico,Ciudad de México
+CUST01632,Primera vez,Colombia,Bogotá
+CUST01633,Inversionista,Colombia,Bogotá
+CUST01634,Inversionista,Colombia,Bogotá
+CUST01635,Alto patrimonio,Mexico,Ciudad de México
+CUST01636,Primera vez,Colombia,Bogotá
+CUST01637,Primera vez,Mexico,Ciudad de México
+CUST01638,Primera vez,Colombia,Bogotá
+CUST01639,Alto patrimonio,Mexico,Ciudad de México
+CUST01640,Alto patrimonio,Mexico,Ciudad de México
+CUST01641,Primera vez,Mexico,Ciudad de México
+CUST01642,Inversionista,Colombia,Bogotá
+CUST01643,Primera vez,Mexico,Ciudad de México
+CUST01644,Inversionista,Mexico,Ciudad de México
+CUST01645,Primera vez,Colombia,Bogotá
+CUST01646,Inversionista,Mexico,Ciudad de México
+CUST01647,Primera vez,Mexico,Ciudad de México
+CUST01648,Inversionista,Mexico,Ciudad de México
+CUST01649,Inversionista,Mexico,Ciudad de México
+CUST01650,Inversionista,Colombia,Bogotá
+CUST01651,Primera vez,Colombia,Bogotá
+CUST01652,Primera vez,Colombia,Bogotá
+CUST01653,Primera vez,Mexico,Ciudad de México
+CUST01654,Primera vez,Mexico,Ciudad de México
+CUST01655,Primera vez,Mexico,Ciudad de México
+CUST01656,Alto patrimonio,Colombia,Bogotá
+CUST01657,Inversionista,Colombia,Bogotá
+CUST01658,Primera vez,Mexico,Ciudad de México
+CUST01659,Primera vez,Colombia,Bogotá
+CUST01660,Primera vez,Colombia,Bogotá
+CUST01661,Inversionista,Mexico,Ciudad de México
+CUST01662,Primera vez,Colombia,Bogotá
+CUST01663,Alto patrimonio,Colombia,Bogotá
+CUST01664,Primera vez,Colombia,Bogotá
+CUST01665,Alto patrimonio,Colombia,Bogotá
+CUST01666,Alto patrimonio,Mexico,Ciudad de México
+CUST01667,Primera vez,Colombia,Bogotá
+CUST01668,Alto patrimonio,Colombia,Bogotá
+CUST01669,Primera vez,Colombia,Bogotá
+CUST01670,Inversionista,Mexico,Ciudad de México
+CUST01671,Primera vez,Colombia,Bogotá
+CUST01672,Alto patrimonio,Mexico,Ciudad de México
+CUST01673,Alto patrimonio,Colombia,Bogotá
+CUST01674,Inversionista,Colombia,Bogotá
+CUST01675,Inversionista,Colombia,Bogotá
+CUST01676,Primera vez,Mexico,Ciudad de México
+CUST01677,Primera vez,Mexico,Ciudad de México
+CUST01678,Primera vez,Colombia,Bogotá
+CUST01679,Primera vez,Mexico,Ciudad de México
+CUST01680,Inversionista,Mexico,Ciudad de México
+CUST01681,Primera vez,Colombia,Bogotá
+CUST01682,Alto patrimonio,Mexico,Ciudad de México
+CUST01683,Inversionista,Colombia,Bogotá
+CUST01684,Inversionista,Mexico,Ciudad de México
+CUST01685,Primera vez,Mexico,Ciudad de México
+CUST01686,Alto patrimonio,Mexico,Ciudad de México
+CUST01687,Alto patrimonio,Mexico,Ciudad de México
+CUST01688,Primera vez,Colombia,Bogotá
+CUST01689,Inversionista,Mexico,Ciudad de México
+CUST01690,Inversionista,Colombia,Bogotá
+CUST01691,Primera vez,Colombia,Bogotá
+CUST01692,Primera vez,Mexico,Ciudad de México
+CUST01693,Primera vez,Mexico,Ciudad de México
+CUST01694,Primera vez,Mexico,Ciudad de México
+CUST01695,Primera vez,Colombia,Bogotá
+CUST01696,Primera vez,Mexico,Ciudad de México
+CUST01697,Primera vez,Mexico,Ciudad de México
+CUST01698,Primera vez,Colombia,Bogotá
+CUST01699,Alto patrimonio,Colombia,Bogotá
+CUST01700,Primera vez,Colombia,Bogotá
+CUST01701,Alto patrimonio,Colombia,Bogotá
+CUST01702,Primera vez,Mexico,Ciudad de México
+CUST01703,Primera vez,Mexico,Ciudad de México
+CUST01704,Primera vez,Mexico,Ciudad de México
+CUST01705,Primera vez,Mexico,Ciudad de México
+CUST01706,Primera vez,Colombia,Bogotá
+CUST01707,Inversionista,Mexico,Ciudad de México
+CUST01708,Primera vez,Colombia,Bogotá
+CUST01709,Inversionista,Mexico,Ciudad de México
+CUST01710,Inversionista,Colombia,Bogotá
+CUST01711,Primera vez,Mexico,Ciudad de México
+CUST01712,Primera vez,Colombia,Bogotá
+CUST01713,Inversionista,Colombia,Bogotá
+CUST01714,Primera vez,Mexico,Ciudad de México
+CUST01715,Primera vez,Colombia,Bogotá
+CUST01716,Alto patrimonio,Mexico,Ciudad de México
+CUST01717,Primera vez,Colombia,Bogotá
+CUST01718,Inversionista,Mexico,Ciudad de México
+CUST01719,Alto patrimonio,Colombia,Bogotá
+CUST01720,Primera vez,Colombia,Bogotá
+CUST01721,Primera vez,Colombia,Bogotá
+CUST01722,Primera vez,Colombia,Bogotá
+CUST01723,Primera vez,Colombia,Bogotá
+CUST01724,Primera vez,Colombia,Bogotá
+CUST01725,Inversionista,Colombia,Bogotá
+CUST01726,Primera vez,Colombia,Bogotá
+CUST01727,Primera vez,Mexico,Ciudad de México
+CUST01728,Alto patrimonio,Mexico,Ciudad de México
+CUST01729,Inversionista,Colombia,Bogotá
+CUST01730,Inversionista,Mexico,Ciudad de México
+CUST01731,Primera vez,Mexico,Ciudad de México
+CUST01732,Inversionista,Colombia,Bogotá
+CUST01733,Primera vez,Mexico,Ciudad de México
+CUST01734,Primera vez,Colombia,Bogotá
+CUST01735,Primera vez,Colombia,Bogotá
+CUST01736,Alto patrimonio,Colombia,Bogotá
+CUST01737,Primera vez,Mexico,Ciudad de México
+CUST01738,Primera vez,Mexico,Ciudad de México
+CUST01739,Primera vez,Colombia,Bogotá
+CUST01740,Primera vez,Colombia,Bogotá
+CUST01741,Inversionista,Mexico,Ciudad de México
+CUST01742,Inversionista,Colombia,Bogotá
+CUST01743,Inversionista,Colombia,Bogotá
+CUST01744,Primera vez,Mexico,Ciudad de México
+CUST01745,Primera vez,Mexico,Ciudad de México
+CUST01746,Primera vez,Mexico,Ciudad de México
+CUST01747,Primera vez,Mexico,Ciudad de México
+CUST01748,Primera vez,Mexico,Ciudad de México
+CUST01749,Inversionista,Colombia,Bogotá
+CUST01750,Primera vez,Colombia,Bogotá
+CUST01751,Primera vez,Colombia,Bogotá
+CUST01752,Primera vez,Mexico,Ciudad de México
+CUST01753,Primera vez,Mexico,Ciudad de México
+CUST01754,Primera vez,Colombia,Bogotá
+CUST01755,Alto patrimonio,Mexico,Ciudad de México
+CUST01756,Inversionista,Colombia,Bogotá
+CUST01757,Alto patrimonio,Colombia,Bogotá
+CUST01758,Primera vez,Mexico,Ciudad de México
+CUST01759,Primera vez,Colombia,Bogotá
+CUST01760,Primera vez,Mexico,Ciudad de México
+CUST01761,Primera vez,Colombia,Bogotá
+CUST01762,Inversionista,Mexico,Ciudad de México
+CUST01763,Primera vez,Mexico,Ciudad de México
+CUST01764,Primera vez,Colombia,Bogotá
+CUST01765,Primera vez,Mexico,Ciudad de México
+CUST01766,Primera vez,Colombia,Bogotá
+CUST01767,Inversionista,Colombia,Bogotá
+CUST01768,Primera vez,Colombia,Bogotá
+CUST01769,Primera vez,Mexico,Ciudad de México
+CUST01770,Primera vez,Colombia,Bogotá
+CUST01771,Primera vez,Colombia,Bogotá
+CUST01772,Inversionista,Colombia,Bogotá
+CUST01773,Alto patrimonio,Colombia,Bogotá
+CUST01774,Alto patrimonio,Mexico,Ciudad de México
+CUST01775,Inversionista,Colombia,Bogotá
+CUST01776,Primera vez,Colombia,Bogotá
+CUST01777,Inversionista,Colombia,Bogotá
+CUST01778,Primera vez,Colombia,Bogotá
+CUST01779,Primera vez,Mexico,Ciudad de México
+CUST01780,Inversionista,Colombia,Bogotá
+CUST01781,Primera vez,Mexico,Ciudad de México
+CUST01782,Alto patrimonio,Colombia,Bogotá
+CUST01783,Primera vez,Colombia,Bogotá
+CUST01784,Inversionista,Mexico,Ciudad de México
+CUST01785,Inversionista,Colombia,Bogotá
+CUST01786,Alto patrimonio,Mexico,Ciudad de México
+CUST01787,Inversionista,Mexico,Ciudad de México
+CUST01788,Inversionista,Colombia,Bogotá
+CUST01789,Primera vez,Colombia,Bogotá
+CUST01790,Primera vez,Mexico,Ciudad de México
+CUST01791,Primera vez,Colombia,Bogotá
+CUST01792,Inversionista,Colombia,Bogotá
+CUST01793,Primera vez,Colombia,Bogotá
+CUST01794,Inversionista,Colombia,Bogotá
+CUST01795,Primera vez,Mexico,Ciudad de México
+CUST01796,Primera vez,Colombia,Bogotá
+CUST01797,Inversionista,Colombia,Bogotá
+CUST01798,Primera vez,Mexico,Ciudad de México
+CUST01799,Primera vez,Colombia,Bogotá
+CUST01800,Primera vez,Colombia,Bogotá
+CUST01801,Alto patrimonio,Mexico,Ciudad de México
+CUST01802,Inversionista,Colombia,Bogotá
+CUST01803,Primera vez,Mexico,Ciudad de México
+CUST01804,Primera vez,Mexico,Ciudad de México
+CUST01805,Primera vez,Colombia,Bogotá
+CUST01806,Inversionista,Mexico,Ciudad de México
+CUST01807,Inversionista,Colombia,Bogotá
+CUST01808,Primera vez,Colombia,Bogotá
+CUST01809,Primera vez,Mexico,Ciudad de México
+CUST01810,Primera vez,Mexico,Ciudad de México
+CUST01811,Inversionista,Colombia,Bogotá
+CUST01812,Inversionista,Mexico,Ciudad de México
+CUST01813,Primera vez,Mexico,Ciudad de México
+CUST01814,Primera vez,Mexico,Ciudad de México
+CUST01815,Primera vez,Colombia,Bogotá
+CUST01816,Alto patrimonio,Colombia,Bogotá
+CUST01817,Primera vez,Colombia,Bogotá
+CUST01818,Inversionista,Mexico,Ciudad de México
+CUST01819,Inversionista,Colombia,Bogotá
+CUST01820,Primera vez,Mexico,Ciudad de México
+CUST01821,Primera vez,Colombia,Bogotá
+CUST01822,Primera vez,Colombia,Bogotá
+CUST01823,Inversionista,Colombia,Bogotá
+CUST01824,Inversionista,Mexico,Ciudad de México
+CUST01825,Inversionista,Colombia,Bogotá
+CUST01826,Primera vez,Mexico,Ciudad de México
+CUST01827,Primera vez,Colombia,Bogotá
+CUST01828,Alto patrimonio,Colombia,Bogotá
+CUST01829,Inversionista,Colombia,Bogotá
+CUST01830,Primera vez,Colombia,Bogotá
+CUST01831,Alto patrimonio,Colombia,Bogotá
+CUST01832,Inversionista,Colombia,Bogotá
+CUST01833,Inversionista,Colombia,Bogotá
+CUST01834,Inversionista,Colombia,Bogotá
+CUST01835,Inversionista,Mexico,Ciudad de México
+CUST01836,Inversionista,Mexico,Ciudad de México
+CUST01837,Primera vez,Colombia,Bogotá
+CUST01838,Primera vez,Mexico,Ciudad de México
+CUST01839,Alto patrimonio,Mexico,Ciudad de México
+CUST01840,Primera vez,Colombia,Bogotá
+CUST01841,Primera vez,Mexico,Ciudad de México
+CUST01842,Primera vez,Mexico,Ciudad de México
+CUST01843,Primera vez,Colombia,Bogotá
+CUST01844,Inversionista,Colombia,Bogotá
+CUST01845,Alto patrimonio,Mexico,Ciudad de México
+CUST01846,Primera vez,Mexico,Ciudad de México
+CUST01847,Primera vez,Colombia,Bogotá
+CUST01848,Primera vez,Colombia,Bogotá
+CUST01849,Alto patrimonio,Colombia,Bogotá
+CUST01850,Inversionista,Mexico,Ciudad de México
+CUST01851,Primera vez,Mexico,Ciudad de México
+CUST01852,Inversionista,Mexico,Ciudad de México
+CUST01853,Alto patrimonio,Colombia,Bogotá
+CUST01854,Inversionista,Mexico,Ciudad de México
+CUST01855,Alto patrimonio,Mexico,Ciudad de México
+CUST01856,Primera vez,Colombia,Bogotá
+CUST01857,Inversionista,Colombia,Bogotá
+CUST01858,Primera vez,Mexico,Ciudad de México
+CUST01859,Inversionista,Mexico,Ciudad de México
+CUST01860,Inversionista,Colombia,Bogotá
+CUST01861,Inversionista,Mexico,Ciudad de México
+CUST01862,Inversionista,Colombia,Bogotá
+CUST01863,Primera vez,Mexico,Ciudad de México
+CUST01864,Primera vez,Mexico,Ciudad de México
+CUST01865,Alto patrimonio,Colombia,Bogotá
+CUST01866,Alto patrimonio,Mexico,Ciudad de México
+CUST01867,Primera vez,Mexico,Ciudad de México
+CUST01868,Primera vez,Colombia,Bogotá
+CUST01869,Primera vez,Mexico,Ciudad de México
+CUST01870,Inversionista,Colombia,Bogotá
+CUST01871,Inversionista,Colombia,Bogotá
+CUST01872,Primera vez,Colombia,Bogotá
+CUST01873,Primera vez,Colombia,Bogotá
+CUST01874,Inversionista,Mexico,Ciudad de México
+CUST01875,Inversionista,Colombia,Bogotá
+CUST01876,Primera vez,Mexico,Ciudad de México
+CUST01877,Inversionista,Mexico,Ciudad de México
+CUST01878,Primera vez,Colombia,Bogotá
+CUST01879,Primera vez,Mexico,Ciudad de México
+CUST01880,Inversionista,Colombia,Bogotá
+CUST01881,Inversionista,Colombia,Bogotá
+CUST01882,Alto patrimonio,Colombia,Bogotá
+CUST01883,Inversionista,Colombia,Bogotá
+CUST01884,Inversionista,Colombia,Bogotá
+CUST01885,Primera vez,Mexico,Ciudad de México
+CUST01886,Primera vez,Colombia,Bogotá
+CUST01887,Primera vez,Colombia,Bogotá
+CUST01888,Primera vez,Mexico,Ciudad de México
+CUST01889,Inversionista,Mexico,Ciudad de México
+CUST01890,Alto patrimonio,Mexico,Ciudad de México
+CUST01891,Primera vez,Colombia,Bogotá
+CUST01892,Primera vez,Mexico,Ciudad de México
+CUST01893,Inversionista,Mexico,Ciudad de México
+CUST01894,Primera vez,Mexico,Ciudad de México
+CUST01895,Inversionista,Mexico,Ciudad de México
+CUST01896,Inversionista,Colombia,Bogotá
+CUST01897,Inversionista,Colombia,Bogotá
+CUST01898,Primera vez,Colombia,Bogotá
+CUST01899,Primera vez,Colombia,Bogotá
+CUST01900,Inversionista,Mexico,Ciudad de México
+CUST01901,Inversionista,Colombia,Bogotá
+CUST01902,Primera vez,Mexico,Ciudad de México
+CUST01903,Inversionista,Mexico,Ciudad de México
+CUST01904,Primera vez,Colombia,Bogotá
+CUST01905,Inversionista,Colombia,Bogotá
+CUST01906,Primera vez,Mexico,Ciudad de México
+CUST01907,Alto patrimonio,Mexico,Ciudad de México
+CUST01908,Primera vez,Colombia,Bogotá
+CUST01909,Primera vez,Colombia,Bogotá
+CUST01910,Primera vez,Mexico,Ciudad de México
+CUST01911,Primera vez,Mexico,Ciudad de México
+CUST01912,Alto patrimonio,Colombia,Bogotá
+CUST01913,Alto patrimonio,Mexico,Ciudad de México
+CUST01914,Primera vez,Colombia,Bogotá
+CUST01915,Primera vez,Colombia,Bogotá
+CUST01916,Inversionista,Colombia,Bogotá
+CUST01917,Alto patrimonio,Colombia,Bogotá
+CUST01918,Inversionista,Colombia,Bogotá
+CUST01919,Primera vez,Colombia,Bogotá
+CUST01920,Primera vez,Colombia,Bogotá
+CUST01921,Inversionista,Colombia,Bogotá
+CUST01922,Primera vez,Colombia,Bogotá
+CUST01923,Inversionista,Mexico,Ciudad de México
+CUST01924,Primera vez,Colombia,Bogotá
+CUST01925,Inversionista,Colombia,Bogotá
+CUST01926,Primera vez,Mexico,Ciudad de México
+CUST01927,Inversionista,Mexico,Ciudad de México
+CUST01928,Primera vez,Colombia,Bogotá
+CUST01929,Inversionista,Mexico,Ciudad de México
+CUST01930,Primera vez,Mexico,Ciudad de México
+CUST01931,Inversionista,Mexico,Ciudad de México
+CUST01932,Inversionista,Colombia,Bogotá
+CUST01933,Inversionista,Mexico,Ciudad de México
+CUST01934,Inversionista,Colombia,Bogotá
+CUST01935,Inversionista,Mexico,Ciudad de México
+CUST01936,Inversionista,Mexico,Ciudad de México
+CUST01937,Primera vez,Colombia,Bogotá
+CUST01938,Inversionista,Mexico,Ciudad de México
+CUST01939,Primera vez,Colombia,Bogotá
+CUST01940,Primera vez,Mexico,Ciudad de México
+CUST01941,Primera vez,Colombia,Bogotá
+CUST01942,Primera vez,Colombia,Bogotá
+CUST01943,Inversionista,Colombia,Bogotá
+CUST01944,Inversionista,Mexico,Ciudad de México
+CUST01945,Inversionista,Colombia,Bogotá
+CUST01946,Primera vez,Colombia,Bogotá
+CUST01947,Primera vez,Colombia,Bogotá
+CUST01948,Primera vez,Mexico,Ciudad de México
+CUST01949,Primera vez,Mexico,Ciudad de México
+CUST01950,Primera vez,Colombia,Bogotá
+CUST01951,Primera vez,Colombia,Bogotá
+CUST01952,Primera vez,Colombia,Bogotá
+CUST01953,Inversionista,Colombia,Bogotá
+CUST01954,Inversionista,Colombia,Bogotá
+CUST01955,Alto patrimonio,Mexico,Ciudad de México
+CUST01956,Alto patrimonio,Colombia,Bogotá
+CUST01957,Inversionista,Colombia,Bogotá
+CUST01958,Primera vez,Colombia,Bogotá
+CUST01959,Inversionista,Mexico,Ciudad de México
+CUST01960,Inversionista,Mexico,Ciudad de México
+CUST01961,Primera vez,Mexico,Ciudad de México
+CUST01962,Primera vez,Colombia,Bogotá
+CUST01963,Inversionista,Colombia,Bogotá
+CUST01964,Primera vez,Colombia,Bogotá
+CUST01965,Inversionista,Colombia,Bogotá
+CUST01966,Inversionista,Colombia,Bogotá
+CUST01967,Primera vez,Mexico,Ciudad de México
+CUST01968,Primera vez,Mexico,Ciudad de México
+CUST01969,Primera vez,Mexico,Ciudad de México
+CUST01970,Primera vez,Colombia,Bogotá
+CUST01971,Primera vez,Mexico,Ciudad de México
+CUST01972,Inversionista,Colombia,Bogotá
+CUST01973,Primera vez,Colombia,Bogotá
+CUST01974,Primera vez,Mexico,Ciudad de México
+CUST01975,Primera vez,Colombia,Bogotá
+CUST01976,Alto patrimonio,Colombia,Bogotá
+CUST01977,Primera vez,Colombia,Bogotá
+CUST01978,Primera vez,Mexico,Ciudad de México
+CUST01979,Alto patrimonio,Mexico,Ciudad de México
+CUST01980,Inversionista,Colombia,Bogotá
+CUST01981,Primera vez,Mexico,Ciudad de México
+CUST01982,Inversionista,Colombia,Bogotá
+CUST01983,Primera vez,Colombia,Bogotá
+CUST01984,Primera vez,Mexico,Ciudad de México
+CUST01985,Primera vez,Mexico,Ciudad de México
+CUST01986,Primera vez,Mexico,Ciudad de México
+CUST01987,Inversionista,Colombia,Bogotá
+CUST01988,Primera vez,Mexico,Ciudad de México
+CUST01989,Primera vez,Mexico,Ciudad de México
+CUST01990,Inversionista,Mexico,Ciudad de México
+CUST01991,Inversionista,Colombia,Bogotá
+CUST01992,Primera vez,Mexico,Ciudad de México
+CUST01993,Inversionista,Mexico,Ciudad de México
+CUST01994,Primera vez,Colombia,Bogotá
+CUST01995,Inversionista,Colombia,Bogotá
+CUST01996,Inversionista,Colombia,Bogotá
+CUST01997,Alto patrimonio,Mexico,Ciudad de México
+CUST01998,Primera vez,Mexico,Ciudad de México
+CUST01999,Primera vez,Mexico,Ciudad de México
+CUST02000,Primera vez,Mexico,Ciudad de México
+CUST02001,Primera vez,Colombia,Bogotá
+CUST02002,Primera vez,Colombia,Bogotá
+CUST02003,Alto patrimonio,Colombia,Bogotá
+CUST02004,Primera vez,Colombia,Bogotá
+CUST02005,Primera vez,Colombia,Bogotá
+CUST02006,Inversionista,Colombia,Bogotá
+CUST02007,Primera vez,Colombia,Bogotá
+CUST02008,Inversionista,Colombia,Bogotá
+CUST02009,Primera vez,Colombia,Bogotá
+CUST02010,Primera vez,Colombia,Bogotá
+CUST02011,Primera vez,Colombia,Bogotá
+CUST02012,Primera vez,Mexico,Ciudad de México
+CUST02013,Alto patrimonio,Mexico,Ciudad de México
+CUST02014,Primera vez,Mexico,Ciudad de México
+CUST02015,Primera vez,Colombia,Bogotá
+CUST02016,Primera vez,Mexico,Ciudad de México
+CUST02017,Primera vez,Mexico,Ciudad de México
+CUST02018,Alto patrimonio,Mexico,Ciudad de México
+CUST02019,Primera vez,Colombia,Bogotá
+CUST02020,Inversionista,Mexico,Ciudad de México
+CUST02021,Alto patrimonio,Mexico,Ciudad de México
+CUST02022,Inversionista,Mexico,Ciudad de México
+CUST02023,Alto patrimonio,Mexico,Ciudad de México
+CUST02024,Primera vez,Colombia,Bogotá
+CUST02025,Primera vez,Mexico,Ciudad de México
+CUST02026,Primera vez,Colombia,Bogotá
+CUST02027,Inversionista,Mexico,Ciudad de México
+CUST02028,Alto patrimonio,Colombia,Bogotá
+CUST02029,Primera vez,Colombia,Bogotá
+CUST02030,Inversionista,Colombia,Bogotá
+CUST02031,Primera vez,Mexico,Ciudad de México
+CUST02032,Inversionista,Colombia,Bogotá
+CUST02033,Primera vez,Mexico,Ciudad de México
+CUST02034,Alto patrimonio,Mexico,Ciudad de México
+CUST02035,Inversionista,Colombia,Bogotá
+CUST02036,Primera vez,Colombia,Bogotá
+CUST02037,Primera vez,Colombia,Bogotá
+CUST02038,Primera vez,Mexico,Ciudad de México
+CUST02039,Primera vez,Mexico,Ciudad de México
+CUST02040,Primera vez,Colombia,Bogotá
+CUST02041,Alto patrimonio,Colombia,Bogotá
+CUST02042,Inversionista,Mexico,Ciudad de México
+CUST02043,Primera vez,Mexico,Ciudad de México
+CUST02044,Primera vez,Mexico,Ciudad de México
+CUST02045,Alto patrimonio,Mexico,Ciudad de México
+CUST02046,Inversionista,Colombia,Bogotá
+CUST02047,Primera vez,Colombia,Bogotá
+CUST02048,Inversionista,Colombia,Bogotá
+CUST02049,Primera vez,Colombia,Bogotá
+CUST02050,Primera vez,Colombia,Bogotá
+CUST02051,Primera vez,Colombia,Bogotá
+CUST02052,Primera vez,Colombia,Bogotá
+CUST02053,Primera vez,Mexico,Ciudad de México
+CUST02054,Alto patrimonio,Mexico,Ciudad de México
+CUST02055,Inversionista,Mexico,Ciudad de México
+CUST02056,Inversionista,Mexico,Ciudad de México
+CUST02057,Primera vez,Colombia,Bogotá
+CUST02058,Primera vez,Mexico,Ciudad de México
+CUST02059,Inversionista,Colombia,Bogotá
+CUST02060,Primera vez,Mexico,Ciudad de México
+CUST02061,Primera vez,Colombia,Bogotá
+CUST02062,Primera vez,Mexico,Ciudad de México
+CUST02063,Inversionista,Colombia,Bogotá
+CUST02064,Primera vez,Colombia,Bogotá
+CUST02065,Primera vez,Mexico,Ciudad de México
+CUST02066,Inversionista,Colombia,Bogotá
+CUST02067,Primera vez,Mexico,Ciudad de México
+CUST02068,Primera vez,Mexico,Ciudad de México
+CUST02069,Primera vez,Mexico,Ciudad de México
+CUST02070,Primera vez,Mexico,Ciudad de México
+CUST02071,Inversionista,Mexico,Ciudad de México
+CUST02072,Primera vez,Colombia,Bogotá
+CUST02073,Primera vez,Mexico,Ciudad de México
+CUST02074,Alto patrimonio,Mexico,Ciudad de México
+CUST02075,Alto patrimonio,Mexico,Ciudad de México
+CUST02076,Alto patrimonio,Colombia,Bogotá
+CUST02077,Primera vez,Mexico,Ciudad de México
+CUST02078,Primera vez,Mexico,Ciudad de México
+CUST02079,Alto patrimonio,Mexico,Ciudad de México
+CUST02080,Inversionista,Colombia,Bogotá
+CUST02081,Primera vez,Colombia,Bogotá
+CUST02082,Primera vez,Colombia,Bogotá
+CUST02083,Primera vez,Mexico,Ciudad de México
+CUST02084,Alto patrimonio,Mexico,Ciudad de México
+CUST02085,Primera vez,Colombia,Bogotá
+CUST02086,Primera vez,Colombia,Bogotá
+CUST02087,Primera vez,Colombia,Bogotá
+CUST02088,Inversionista,Colombia,Bogotá
+CUST02089,Inversionista,Mexico,Ciudad de México
+CUST02090,Primera vez,Mexico,Ciudad de México
+CUST02091,Inversionista,Colombia,Bogotá
+CUST02092,Alto patrimonio,Mexico,Ciudad de México
+CUST02093,Primera vez,Colombia,Bogotá
+CUST02094,Primera vez,Mexico,Ciudad de México
+CUST02095,Primera vez,Colombia,Bogotá
+CUST02096,Inversionista,Colombia,Bogotá
+CUST02097,Inversionista,Colombia,Bogotá
+CUST02098,Inversionista,Mexico,Ciudad de México
+CUST02099,Inversionista,Mexico,Ciudad de México
+CUST02100,Primera vez,Mexico,Ciudad de México
+CUST02101,Alto patrimonio,Colombia,Bogotá
+CUST02102,Primera vez,Colombia,Bogotá
+CUST02103,Primera vez,Colombia,Bogotá
+CUST02104,Inversionista,Mexico,Ciudad de México
+CUST02105,Inversionista,Colombia,Bogotá
+CUST02106,Primera vez,Mexico,Ciudad de México
+CUST02107,Alto patrimonio,Mexico,Ciudad de México
+CUST02108,Alto patrimonio,Mexico,Ciudad de México
+CUST02109,Primera vez,Colombia,Bogotá
+CUST02110,Alto patrimonio,Colombia,Bogotá
+CUST02111,Primera vez,Colombia,Bogotá
+CUST02112,Primera vez,Mexico,Ciudad de México
+CUST02113,Primera vez,Mexico,Ciudad de México
+CUST02114,Alto patrimonio,Colombia,Bogotá
+CUST02115,Inversionista,Colombia,Bogotá
+CUST02116,Primera vez,Mexico,Ciudad de México
+CUST02117,Primera vez,Mexico,Ciudad de México
+CUST02118,Inversionista,Colombia,Bogotá
+CUST02119,Primera vez,Mexico,Ciudad de México
+CUST02120,Alto patrimonio,Colombia,Bogotá
+CUST02121,Inversionista,Colombia,Bogotá
+CUST02122,Primera vez,Mexico,Ciudad de México
+CUST02123,Alto patrimonio,Mexico,Ciudad de México
+CUST02124,Primera vez,Mexico,Ciudad de México
+CUST02125,Alto patrimonio,Colombia,Bogotá
+CUST02126,Inversionista,Mexico,Ciudad de México
+CUST02127,Inversionista,Colombia,Bogotá
+CUST02128,Primera vez,Colombia,Bogotá
+CUST02129,Alto patrimonio,Mexico,Ciudad de México
+CUST02130,Primera vez,Colombia,Bogotá
+CUST02131,Primera vez,Mexico,Ciudad de México
+CUST02132,Primera vez,Mexico,Ciudad de México
+CUST02133,Inversionista,Colombia,Bogotá
+CUST02134,Primera vez,Colombia,Bogotá
+CUST02135,Inversionista,Colombia,Bogotá
+CUST02136,Alto patrimonio,Colombia,Bogotá
+CUST02137,Primera vez,Mexico,Ciudad de México
+CUST02138,Inversionista,Mexico,Ciudad de México
+CUST02139,Primera vez,Colombia,Bogotá
+CUST02140,Alto patrimonio,Colombia,Bogotá
+CUST02141,Inversionista,Mexico,Ciudad de México
+CUST02142,Primera vez,Mexico,Ciudad de México
+CUST02143,Inversionista,Colombia,Bogotá
+CUST02144,Primera vez,Colombia,Bogotá
+CUST02145,Primera vez,Mexico,Ciudad de México
+CUST02146,Inversionista,Colombia,Bogotá
+CUST02147,Primera vez,Colombia,Bogotá
+CUST02148,Primera vez,Mexico,Ciudad de México
+CUST02149,Primera vez,Mexico,Ciudad de México
+CUST02150,Inversionista,Mexico,Ciudad de México
+CUST02151,Primera vez,Mexico,Ciudad de México
+CUST02152,Primera vez,Mexico,Ciudad de México
+CUST02153,Inversionista,Colombia,Bogotá
+CUST02154,Inversionista,Colombia,Bogotá
+CUST02155,Primera vez,Colombia,Bogotá
+CUST02156,Primera vez,Colombia,Bogotá
+CUST02157,Primera vez,Mexico,Ciudad de México
+CUST02158,Primera vez,Mexico,Ciudad de México
+CUST02159,Primera vez,Mexico,Ciudad de México
+CUST02160,Inversionista,Mexico,Ciudad de México
+CUST02161,Inversionista,Colombia,Bogotá
+CUST02162,Inversionista,Colombia,Bogotá
+CUST02163,Primera vez,Mexico,Ciudad de México
+CUST02164,Inversionista,Mexico,Ciudad de México
+CUST02165,Primera vez,Mexico,Ciudad de México
+CUST02166,Alto patrimonio,Mexico,Ciudad de México
+CUST02167,Inversionista,Mexico,Ciudad de México
+CUST02168,Primera vez,Mexico,Ciudad de México
+CUST02169,Inversionista,Colombia,Bogotá
+CUST02170,Primera vez,Mexico,Ciudad de México
+CUST02171,Inversionista,Mexico,Ciudad de México
+CUST02172,Primera vez,Colombia,Bogotá
+CUST02173,Primera vez,Mexico,Ciudad de México
+CUST02174,Alto patrimonio,Colombia,Bogotá
+CUST02175,Primera vez,Mexico,Ciudad de México
+CUST02176,Inversionista,Colombia,Bogotá
+CUST02177,Primera vez,Mexico,Ciudad de México
+CUST02178,Inversionista,Colombia,Bogotá
+CUST02179,Inversionista,Mexico,Ciudad de México
+CUST02180,Primera vez,Colombia,Bogotá
+CUST02181,Primera vez,Colombia,Bogotá
+CUST02182,Primera vez,Colombia,Bogotá
+CUST02183,Primera vez,Mexico,Ciudad de México
+CUST02184,Primera vez,Colombia,Bogotá
+CUST02185,Inversionista,Colombia,Bogotá
+CUST02186,Alto patrimonio,Mexico,Ciudad de México
+CUST02187,Alto patrimonio,Colombia,Bogotá
+CUST02188,Inversionista,Mexico,Ciudad de México
+CUST02189,Inversionista,Colombia,Bogotá
+CUST02190,Inversionista,Mexico,Ciudad de México
+CUST02191,Primera vez,Colombia,Bogotá
+CUST02192,Alto patrimonio,Colombia,Bogotá
+CUST02193,Inversionista,Mexico,Ciudad de México
+CUST02194,Inversionista,Mexico,Ciudad de México
+CUST02195,Primera vez,Mexico,Ciudad de México
+CUST02196,Primera vez,Colombia,Bogotá
+CUST02197,Primera vez,Colombia,Bogotá
+CUST02198,Alto patrimonio,Colombia,Bogotá
+CUST02199,Primera vez,Mexico,Ciudad de México
+CUST02200,Primera vez,Colombia,Bogotá
+CUST02201,Alto patrimonio,Colombia,Bogotá
+CUST02202,Primera vez,Colombia,Bogotá
+CUST02203,Primera vez,Mexico,Ciudad de México
+CUST02204,Primera vez,Colombia,Bogotá
+CUST02205,Inversionista,Mexico,Ciudad de México
+CUST02206,Alto patrimonio,Colombia,Bogotá
+CUST02207,Primera vez,Mexico,Ciudad de México
+CUST02208,Alto patrimonio,Colombia,Bogotá
+CUST02209,Primera vez,Mexico,Ciudad de México
+CUST02210,Alto patrimonio,Mexico,Ciudad de México
+CUST02211,Inversionista,Colombia,Bogotá
+CUST02212,Inversionista,Mexico,Ciudad de México
+CUST02213,Primera vez,Colombia,Bogotá
+CUST02214,Alto patrimonio,Mexico,Ciudad de México
+CUST02215,Inversionista,Mexico,Ciudad de México
+CUST02216,Primera vez,Colombia,Bogotá
+CUST02217,Inversionista,Colombia,Bogotá
+CUST02218,Primera vez,Colombia,Bogotá
+CUST02219,Alto patrimonio,Colombia,Bogotá
+CUST02220,Primera vez,Colombia,Bogotá
+CUST02221,Inversionista,Colombia,Bogotá
+CUST02222,Primera vez,Colombia,Bogotá
+CUST02223,Primera vez,Mexico,Ciudad de México
+CUST02224,Primera vez,Colombia,Bogotá
+CUST02225,Primera vez,Colombia,Bogotá
+CUST02226,Primera vez,Mexico,Ciudad de México
+CUST02227,Primera vez,Colombia,Bogotá
+CUST02228,Inversionista,Colombia,Bogotá
+CUST02229,Primera vez,Colombia,Bogotá
+CUST02230,Primera vez,Mexico,Ciudad de México
+CUST02231,Inversionista,Mexico,Ciudad de México
+CUST02232,Primera vez,Colombia,Bogotá
+CUST02233,Alto patrimonio,Mexico,Ciudad de México
+CUST02234,Alto patrimonio,Mexico,Ciudad de México
+CUST02235,Inversionista,Mexico,Ciudad de México
+CUST02236,Inversionista,Mexico,Ciudad de México
+CUST02237,Alto patrimonio,Mexico,Ciudad de México
+CUST02238,Primera vez,Colombia,Bogotá
+CUST02239,Primera vez,Colombia,Bogotá
+CUST02240,Primera vez,Colombia,Bogotá
+CUST02241,Inversionista,Mexico,Ciudad de México
+CUST02242,Primera vez,Mexico,Ciudad de México
+CUST02243,Inversionista,Mexico,Ciudad de México
+CUST02244,Alto patrimonio,Mexico,Ciudad de México
+CUST02245,Alto patrimonio,Colombia,Bogotá
+CUST02246,Primera vez,Mexico,Ciudad de México
+CUST02247,Primera vez,Mexico,Ciudad de México
+CUST02248,Inversionista,Mexico,Ciudad de México
+CUST02249,Inversionista,Mexico,Ciudad de México
+CUST02250,Primera vez,Mexico,Ciudad de México
+CUST02251,Primera vez,Colombia,Bogotá
+CUST02252,Alto patrimonio,Mexico,Ciudad de México
+CUST02253,Inversionista,Colombia,Bogotá
+CUST02254,Inversionista,Mexico,Ciudad de México
+CUST02255,Alto patrimonio,Mexico,Ciudad de México
+CUST02256,Inversionista,Colombia,Bogotá
+CUST02257,Primera vez,Mexico,Ciudad de México
+CUST02258,Primera vez,Colombia,Bogotá
+CUST02259,Primera vez,Colombia,Bogotá
+CUST02260,Primera vez,Colombia,Bogotá
+CUST02261,Inversionista,Mexico,Ciudad de México
+CUST02262,Inversionista,Mexico,Ciudad de México
+CUST02263,Alto patrimonio,Mexico,Ciudad de México
+CUST02264,Primera vez,Colombia,Bogotá
+CUST02265,Inversionista,Mexico,Ciudad de México
+CUST02266,Inversionista,Mexico,Ciudad de México
+CUST02267,Inversionista,Colombia,Bogotá
+CUST02268,Inversionista,Colombia,Bogotá
+CUST02269,Primera vez,Colombia,Bogotá
+CUST02270,Primera vez,Mexico,Ciudad de México
+CUST02271,Primera vez,Mexico,Ciudad de México
+CUST02272,Primera vez,Mexico,Ciudad de México
+CUST02273,Primera vez,Colombia,Bogotá
+CUST02274,Inversionista,Mexico,Ciudad de México
+CUST02275,Alto patrimonio,Colombia,Bogotá
+CUST02276,Inversionista,Colombia,Bogotá
+CUST02277,Inversionista,Mexico,Ciudad de México
+CUST02278,Primera vez,Colombia,Bogotá
+CUST02279,Inversionista,Mexico,Ciudad de México
+CUST02280,Primera vez,Colombia,Bogotá
+CUST02281,Primera vez,Mexico,Ciudad de México
+CUST02282,Primera vez,Colombia,Bogotá
+CUST02283,Primera vez,Mexico,Ciudad de México
+CUST02284,Primera vez,Colombia,Bogotá
+CUST02285,Primera vez,Colombia,Bogotá
+CUST02286,Primera vez,Mexico,Ciudad de México
+CUST02287,Alto patrimonio,Colombia,Bogotá
+CUST02288,Primera vez,Mexico,Ciudad de México
+CUST02289,Primera vez,Mexico,Ciudad de México
+CUST02290,Primera vez,Colombia,Bogotá
+CUST02291,Inversionista,Colombia,Bogotá
+CUST02292,Primera vez,Mexico,Ciudad de México
+CUST02293,Primera vez,Mexico,Ciudad de México
+CUST02294,Primera vez,Mexico,Ciudad de México
+CUST02295,Primera vez,Colombia,Bogotá
+CUST02296,Primera vez,Mexico,Ciudad de México
+CUST02297,Primera vez,Colombia,Bogotá
+CUST02298,Primera vez,Mexico,Ciudad de México
+CUST02299,Primera vez,Mexico,Ciudad de México
+CUST02300,Primera vez,Colombia,Bogotá
+CUST02301,Inversionista,Colombia,Bogotá
+CUST02302,Inversionista,Colombia,Bogotá
+CUST02303,Primera vez,Colombia,Bogotá
+CUST02304,Primera vez,Mexico,Ciudad de México
+CUST02305,Alto patrimonio,Colombia,Bogotá
+CUST02306,Primera vez,Colombia,Bogotá
+CUST02307,Primera vez,Colombia,Bogotá
+CUST02308,Inversionista,Mexico,Ciudad de México
+CUST02309,Primera vez,Mexico,Ciudad de México
+CUST02310,Primera vez,Colombia,Bogotá
+CUST02311,Primera vez,Colombia,Bogotá
+CUST02312,Alto patrimonio,Mexico,Ciudad de México
+CUST02313,Primera vez,Mexico,Ciudad de México
+CUST02314,Inversionista,Colombia,Bogotá
+CUST02315,Alto patrimonio,Colombia,Bogotá
+CUST02316,Primera vez,Colombia,Bogotá
+CUST02317,Primera vez,Colombia,Bogotá
+CUST02318,Primera vez,Mexico,Ciudad de México
+CUST02319,Primera vez,Mexico,Ciudad de México
+CUST02320,Primera vez,Colombia,Bogotá
+CUST02321,Alto patrimonio,Mexico,Ciudad de México
+CUST02322,Inversionista,Colombia,Bogotá
+CUST02323,Inversionista,Mexico,Ciudad de México
+CUST02324,Primera vez,Mexico,Ciudad de México
+CUST02325,Inversionista,Colombia,Bogotá
+CUST02326,Alto patrimonio,Colombia,Bogotá
+CUST02327,Inversionista,Mexico,Ciudad de México
+CUST02328,Primera vez,Colombia,Bogotá
+CUST02329,Inversionista,Colombia,Bogotá
+CUST02330,Primera vez,Mexico,Ciudad de México
+CUST02331,Primera vez,Mexico,Ciudad de México
+CUST02332,Primera vez,Colombia,Bogotá
+CUST02333,Inversionista,Mexico,Ciudad de México
+CUST02334,Inversionista,Colombia,Bogotá
+CUST02335,Primera vez,Mexico,Ciudad de México
+CUST02336,Primera vez,Mexico,Ciudad de México
+CUST02337,Primera vez,Mexico,Ciudad de México
+CUST02338,Primera vez,Colombia,Bogotá
+CUST02339,Primera vez,Mexico,Ciudad de México
+CUST02340,Primera vez,Mexico,Ciudad de México
+CUST02341,Inversionista,Colombia,Bogotá
+CUST02342,Primera vez,Colombia,Bogotá
+CUST02343,Primera vez,Colombia,Bogotá
+CUST02344,Primera vez,Colombia,Bogotá
+CUST02345,Alto patrimonio,Mexico,Ciudad de México
+CUST02346,Inversionista,Colombia,Bogotá
+CUST02347,Inversionista,Colombia,Bogotá
+CUST02348,Primera vez,Mexico,Ciudad de México
+CUST02349,Inversionista,Colombia,Bogotá
+CUST02350,Primera vez,Colombia,Bogotá
+CUST02351,Inversionista,Colombia,Bogotá
+CUST02352,Alto patrimonio,Mexico,Ciudad de México
+CUST02353,Inversionista,Mexico,Ciudad de México
+CUST02354,Alto patrimonio,Mexico,Ciudad de México
+CUST02355,Inversionista,Colombia,Bogotá
+CUST02356,Primera vez,Mexico,Ciudad de México
+CUST02357,Alto patrimonio,Colombia,Bogotá
+CUST02358,Primera vez,Colombia,Bogotá
+CUST02359,Primera vez,Colombia,Bogotá
+CUST02360,Primera vez,Mexico,Ciudad de México
+CUST02361,Primera vez,Colombia,Bogotá
+CUST02362,Primera vez,Colombia,Bogotá
+CUST02363,Primera vez,Colombia,Bogotá
+CUST02364,Primera vez,Colombia,Bogotá
+CUST02365,Inversionista,Mexico,Ciudad de México
+CUST02366,Primera vez,Colombia,Bogotá
+CUST02367,Primera vez,Mexico,Ciudad de México
+CUST02368,Inversionista,Colombia,Bogotá
+CUST02369,Primera vez,Mexico,Ciudad de México
+CUST02370,Inversionista,Mexico,Ciudad de México
+CUST02371,Inversionista,Colombia,Bogotá
+CUST02372,Inversionista,Colombia,Bogotá
+CUST02373,Inversionista,Mexico,Ciudad de México
+CUST02374,Primera vez,Mexico,Ciudad de México
+CUST02375,Inversionista,Colombia,Bogotá
+CUST02376,Primera vez,Colombia,Bogotá
+CUST02377,Primera vez,Mexico,Ciudad de México
+CUST02378,Inversionista,Mexico,Ciudad de México
+CUST02379,Primera vez,Colombia,Bogotá
+CUST02380,Inversionista,Colombia,Bogotá
+CUST02381,Inversionista,Colombia,Bogotá
+CUST02382,Alto patrimonio,Mexico,Ciudad de México
+CUST02383,Alto patrimonio,Colombia,Bogotá
+CUST02384,Primera vez,Mexico,Ciudad de México
+CUST02385,Primera vez,Colombia,Bogotá
+CUST02386,Inversionista,Colombia,Bogotá
+CUST02387,Primera vez,Mexico,Ciudad de México
+CUST02388,Inversionista,Mexico,Ciudad de México
+CUST02389,Inversionista,Mexico,Ciudad de México
+CUST02390,Inversionista,Colombia,Bogotá
+CUST02391,Primera vez,Mexico,Ciudad de México
+CUST02392,Primera vez,Mexico,Ciudad de México
+CUST02393,Primera vez,Colombia,Bogotá
+CUST02394,Primera vez,Colombia,Bogotá
+CUST02395,Alto patrimonio,Colombia,Bogotá
+CUST02396,Primera vez,Colombia,Bogotá
+CUST02397,Primera vez,Mexico,Ciudad de México
+CUST02398,Primera vez,Colombia,Bogotá
+CUST02399,Inversionista,Mexico,Ciudad de México
+CUST02400,Inversionista,Mexico,Ciudad de México
+CUST02401,Primera vez,Mexico,Ciudad de México
+CUST02402,Primera vez,Mexico,Ciudad de México
+CUST02403,Primera vez,Colombia,Bogotá
+CUST02404,Primera vez,Colombia,Bogotá
+CUST02405,Inversionista,Colombia,Bogotá
+CUST02406,Inversionista,Mexico,Ciudad de México
+CUST02407,Primera vez,Colombia,Bogotá
+CUST02408,Primera vez,Mexico,Ciudad de México
+CUST02409,Alto patrimonio,Colombia,Bogotá
+CUST02410,Primera vez,Colombia,Bogotá
+CUST02411,Inversionista,Colombia,Bogotá
+CUST02412,Primera vez,Mexico,Ciudad de México
+CUST02413,Primera vez,Mexico,Ciudad de México
+CUST02414,Primera vez,Colombia,Bogotá
+CUST02415,Primera vez,Colombia,Bogotá
+CUST02416,Alto patrimonio,Colombia,Bogotá
+CUST02417,Primera vez,Mexico,Ciudad de México
+CUST02418,Primera vez,Mexico,Ciudad de México
+CUST02419,Primera vez,Colombia,Bogotá
+CUST02420,Primera vez,Mexico,Ciudad de México
+CUST02421,Primera vez,Colombia,Bogotá
+CUST02422,Primera vez,Mexico,Ciudad de México
+CUST02423,Inversionista,Colombia,Bogotá
+CUST02424,Primera vez,Mexico,Ciudad de México
+CUST02425,Primera vez,Colombia,Bogotá
+CUST02426,Alto patrimonio,Mexico,Ciudad de México
+CUST02427,Primera vez,Mexico,Ciudad de México
+CUST02428,Alto patrimonio,Mexico,Ciudad de México
+CUST02429,Primera vez,Mexico,Ciudad de México
+CUST02430,Alto patrimonio,Mexico,Ciudad de México
+CUST02431,Inversionista,Colombia,Bogotá
+CUST02432,Inversionista,Colombia,Bogotá
+CUST02433,Alto patrimonio,Colombia,Bogotá
+CUST02434,Primera vez,Mexico,Ciudad de México
+CUST02435,Alto patrimonio,Colombia,Bogotá
+CUST02436,Primera vez,Mexico,Ciudad de México
+CUST02437,Primera vez,Mexico,Ciudad de México
+CUST02438,Primera vez,Colombia,Bogotá
+CUST02439,Primera vez,Colombia,Bogotá
+CUST02440,Primera vez,Colombia,Bogotá
+CUST02441,Inversionista,Colombia,Bogotá
+CUST02442,Primera vez,Colombia,Bogotá
+CUST02443,Inversionista,Colombia,Bogotá
+CUST02444,Inversionista,Mexico,Ciudad de México
+CUST02445,Primera vez,Mexico,Ciudad de México
+CUST02446,Primera vez,Colombia,Bogotá
+CUST02447,Primera vez,Colombia,Bogotá
+CUST02448,Primera vez,Colombia,Bogotá
+CUST02449,Primera vez,Mexico,Ciudad de México
+CUST02450,Primera vez,Mexico,Ciudad de México
+CUST02451,Primera vez,Colombia,Bogotá
+CUST02452,Alto patrimonio,Colombia,Bogotá
+CUST02453,Inversionista,Mexico,Ciudad de México
+CUST02454,Primera vez,Mexico,Ciudad de México
+CUST02455,Inversionista,Colombia,Bogotá
+CUST02456,Primera vez,Mexico,Ciudad de México
+CUST02457,Primera vez,Colombia,Bogotá
+CUST02458,Inversionista,Colombia,Bogotá
+CUST02459,Primera vez,Mexico,Ciudad de México
+CUST02460,Primera vez,Mexico,Ciudad de México
+CUST02461,Alto patrimonio,Colombia,Bogotá
+CUST02462,Alto patrimonio,Mexico,Ciudad de México
+CUST02463,Inversionista,Colombia,Bogotá
+CUST02464,Inversionista,Mexico,Ciudad de México
+CUST02465,Inversionista,Colombia,Bogotá
+CUST02466,Primera vez,Mexico,Ciudad de México
+CUST02467,Primera vez,Mexico,Ciudad de México
+CUST02468,Primera vez,Colombia,Bogotá
+CUST02469,Primera vez,Mexico,Ciudad de México
+CUST02470,Primera vez,Mexico,Ciudad de México
+CUST02471,Primera vez,Mexico,Ciudad de México
+CUST02472,Alto patrimonio,Colombia,Bogotá
+CUST02473,Alto patrimonio,Mexico,Ciudad de México
+CUST02474,Inversionista,Mexico,Ciudad de México
+CUST02475,Primera vez,Colombia,Bogotá
+CUST02476,Alto patrimonio,Mexico,Ciudad de México
+CUST02477,Primera vez,Colombia,Bogotá
+CUST02478,Inversionista,Colombia,Bogotá
+CUST02479,Primera vez,Mexico,Ciudad de México
+CUST02480,Inversionista,Mexico,Ciudad de México
+CUST02481,Primera vez,Mexico,Ciudad de México
+CUST02482,Alto patrimonio,Colombia,Bogotá
+CUST02483,Alto patrimonio,Mexico,Ciudad de México
+CUST02484,Primera vez,Colombia,Bogotá
+CUST02485,Primera vez,Colombia,Bogotá
+CUST02486,Alto patrimonio,Colombia,Bogotá
+CUST02487,Primera vez,Mexico,Ciudad de México
+CUST02488,Alto patrimonio,Mexico,Ciudad de México
+CUST02489,Inversionista,Mexico,Ciudad de México
+CUST02490,Primera vez,Mexico,Ciudad de México
+CUST02491,Primera vez,Colombia,Bogotá
+CUST02492,Primera vez,Mexico,Ciudad de México
+CUST02493,Inversionista,Colombia,Bogotá
+CUST02494,Primera vez,Colombia,Bogotá
+CUST02495,Primera vez,Colombia,Bogotá
+CUST02496,Primera vez,Mexico,Ciudad de México
+CUST02497,Inversionista,Colombia,Bogotá
+CUST02498,Alto patrimonio,Mexico,Ciudad de México
+CUST02499,Alto patrimonio,Colombia,Bogotá
+CUST02500,Primera vez,Colombia,Bogotá
+CUST02501,Inversionista,Mexico,Ciudad de México
+CUST02502,Inversionista,Colombia,Bogotá
+CUST02503,Inversionista,Mexico,Ciudad de México
+CUST02504,Alto patrimonio,Mexico,Ciudad de México
+CUST02505,Primera vez,Colombia,Bogotá
+CUST02506,Primera vez,Mexico,Ciudad de México
+CUST02507,Alto patrimonio,Colombia,Bogotá
+CUST02508,Primera vez,Colombia,Bogotá
+CUST02509,Inversionista,Mexico,Ciudad de México
+CUST02510,Alto patrimonio,Colombia,Bogotá
+CUST02511,Primera vez,Mexico,Ciudad de México
+CUST02512,Alto patrimonio,Mexico,Ciudad de México
+CUST02513,Primera vez,Mexico,Ciudad de México
+CUST02514,Primera vez,Colombia,Bogotá
+CUST02515,Inversionista,Colombia,Bogotá
+CUST02516,Alto patrimonio,Mexico,Ciudad de México
+CUST02517,Primera vez,Colombia,Bogotá
+CUST02518,Primera vez,Mexico,Ciudad de México
+CUST02519,Inversionista,Mexico,Ciudad de México
+CUST02520,Inversionista,Colombia,Bogotá
+CUST02521,Inversionista,Colombia,Bogotá
+CUST02522,Primera vez,Mexico,Ciudad de México
+CUST02523,Primera vez,Mexico,Ciudad de México
+CUST02524,Primera vez,Colombia,Bogotá
+CUST02525,Inversionista,Colombia,Bogotá
+CUST02526,Primera vez,Colombia,Bogotá
+CUST02527,Primera vez,Mexico,Ciudad de México
+CUST02528,Alto patrimonio,Colombia,Bogotá
+CUST02529,Primera vez,Mexico,Ciudad de México
+CUST02530,Alto patrimonio,Colombia,Bogotá
+CUST02531,Inversionista,Mexico,Ciudad de México
+CUST02532,Inversionista,Colombia,Bogotá
+CUST02533,Primera vez,Mexico,Ciudad de México
+CUST02534,Primera vez,Colombia,Bogotá
+CUST02535,Inversionista,Mexico,Ciudad de México
+CUST02536,Inversionista,Colombia,Bogotá
+CUST02537,Inversionista,Mexico,Ciudad de México
+CUST02538,Primera vez,Mexico,Ciudad de México
+CUST02539,Inversionista,Colombia,Bogotá
+CUST02540,Inversionista,Mexico,Ciudad de México
+CUST02541,Inversionista,Mexico,Ciudad de México
+CUST02542,Inversionista,Colombia,Bogotá
+CUST02543,Inversionista,Colombia,Bogotá
+CUST02544,Inversionista,Colombia,Bogotá
+CUST02545,Primera vez,Mexico,Ciudad de México
+CUST02546,Primera vez,Mexico,Ciudad de México
+CUST02547,Primera vez,Colombia,Bogotá
+CUST02548,Primera vez,Colombia,Bogotá
+CUST02549,Primera vez,Mexico,Ciudad de México
+CUST02550,Primera vez,Mexico,Ciudad de México
+CUST02551,Primera vez,Colombia,Bogotá
+CUST02552,Primera vez,Mexico,Ciudad de México
+CUST02553,Inversionista,Mexico,Ciudad de México
+CUST02554,Alto patrimonio,Colombia,Bogotá
+CUST02555,Primera vez,Mexico,Ciudad de México
+CUST02556,Alto patrimonio,Colombia,Bogotá
+CUST02557,Primera vez,Colombia,Bogotá
+CUST02558,Primera vez,Colombia,Bogotá
+CUST02559,Primera vez,Mexico,Ciudad de México
+CUST02560,Primera vez,Mexico,Ciudad de México
+CUST02561,Inversionista,Colombia,Bogotá
+CUST02562,Inversionista,Colombia,Bogotá
+CUST02563,Primera vez,Colombia,Bogotá
+CUST02564,Primera vez,Mexico,Ciudad de México
+CUST02565,Primera vez,Colombia,Bogotá
+CUST02566,Primera vez,Mexico,Ciudad de México
+CUST02567,Primera vez,Colombia,Bogotá
+CUST02568,Primera vez,Colombia,Bogotá
+CUST02569,Inversionista,Colombia,Bogotá
+CUST02570,Alto patrimonio,Colombia,Bogotá
+CUST02571,Primera vez,Mexico,Ciudad de México
+CUST02572,Alto patrimonio,Colombia,Bogotá
+CUST02573,Primera vez,Colombia,Bogotá
+CUST02574,Primera vez,Colombia,Bogotá
+CUST02575,Primera vez,Colombia,Bogotá
+CUST02576,Inversionista,Colombia,Bogotá
+CUST02577,Alto patrimonio,Colombia,Bogotá
+CUST02578,Inversionista,Mexico,Ciudad de México
+CUST02579,Primera vez,Mexico,Ciudad de México
+CUST02580,Inversionista,Colombia,Bogotá
+CUST02581,Primera vez,Colombia,Bogotá
+CUST02582,Alto patrimonio,Mexico,Ciudad de México
+CUST02583,Primera vez,Colombia,Bogotá
+CUST02584,Primera vez,Colombia,Bogotá
+CUST02585,Inversionista,Colombia,Bogotá
+CUST02586,Inversionista,Colombia,Bogotá
+CUST02587,Primera vez,Mexico,Ciudad de México
+CUST02588,Inversionista,Colombia,Bogotá
+CUST02589,Primera vez,Mexico,Ciudad de México
+CUST02590,Inversionista,Colombia,Bogotá
+CUST02591,Inversionista,Colombia,Bogotá
+CUST02592,Inversionista,Mexico,Ciudad de México
+CUST02593,Inversionista,Colombia,Bogotá
+CUST02594,Primera vez,Mexico,Ciudad de México
+CUST02595,Primera vez,Colombia,Bogotá
+CUST02596,Inversionista,Mexico,Ciudad de México
+CUST02597,Primera vez,Colombia,Bogotá
+CUST02598,Primera vez,Mexico,Ciudad de México
+CUST02599,Primera vez,Colombia,Bogotá
+CUST02600,Primera vez,Mexico,Ciudad de México
+CUST02601,Inversionista,Colombia,Bogotá
+CUST02602,Primera vez,Mexico,Ciudad de México
+CUST02603,Inversionista,Colombia,Bogotá
+CUST02604,Primera vez,Mexico,Ciudad de México
+CUST02605,Primera vez,Colombia,Bogotá
+CUST02606,Primera vez,Colombia,Bogotá
+CUST02607,Primera vez,Colombia,Bogotá
+CUST02608,Primera vez,Colombia,Bogotá
+CUST02609,Inversionista,Colombia,Bogotá
+CUST02610,Primera vez,Mexico,Ciudad de México
+CUST02611,Inversionista,Mexico,Ciudad de México
+CUST02612,Primera vez,Colombia,Bogotá
+CUST02613,Primera vez,Mexico,Ciudad de México
+CUST02614,Inversionista,Mexico,Ciudad de México
+CUST02615,Primera vez,Colombia,Bogotá
+CUST02616,Primera vez,Mexico,Ciudad de México
+CUST02617,Primera vez,Mexico,Ciudad de México
+CUST02618,Primera vez,Mexico,Ciudad de México
+CUST02619,Inversionista,Colombia,Bogotá
+CUST02620,Primera vez,Mexico,Ciudad de México
+CUST02621,Inversionista,Colombia,Bogotá
+CUST02622,Alto patrimonio,Colombia,Bogotá
+CUST02623,Primera vez,Colombia,Bogotá
+CUST02624,Alto patrimonio,Mexico,Ciudad de México
+CUST02625,Primera vez,Mexico,Ciudad de México
+CUST02626,Alto patrimonio,Mexico,Ciudad de México
+CUST02627,Primera vez,Colombia,Bogotá
+CUST02628,Inversionista,Colombia,Bogotá
+CUST02629,Primera vez,Colombia,Bogotá
+CUST02630,Primera vez,Colombia,Bogotá
+CUST02631,Inversionista,Colombia,Bogotá
+CUST02632,Inversionista,Mexico,Ciudad de México
+CUST02633,Primera vez,Mexico,Ciudad de México
+CUST02634,Primera vez,Colombia,Bogotá
+CUST02635,Inversionista,Colombia,Bogotá
+CUST02636,Inversionista,Colombia,Bogotá
+CUST02637,Alto patrimonio,Colombia,Bogotá
+CUST02638,Inversionista,Mexico,Ciudad de México
+CUST02639,Alto patrimonio,Mexico,Ciudad de México
+CUST02640,Inversionista,Mexico,Ciudad de México
+CUST02641,Primera vez,Colombia,Bogotá
+CUST02642,Primera vez,Colombia,Bogotá
+CUST02643,Inversionista,Colombia,Bogotá
+CUST02644,Inversionista,Mexico,Ciudad de México
+CUST02645,Primera vez,Mexico,Ciudad de México
+CUST02646,Primera vez,Colombia,Bogotá
+CUST02647,Alto patrimonio,Colombia,Bogotá
+CUST02648,Primera vez,Colombia,Bogotá
+CUST02649,Primera vez,Mexico,Ciudad de México
+CUST02650,Primera vez,Mexico,Ciudad de México
+CUST02651,Primera vez,Mexico,Ciudad de México
+CUST02652,Primera vez,Mexico,Ciudad de México
+CUST02653,Primera vez,Colombia,Bogotá
+CUST02654,Primera vez,Colombia,Bogotá
+CUST02655,Inversionista,Colombia,Bogotá
+CUST02656,Primera vez,Colombia,Bogotá
+CUST02657,Inversionista,Mexico,Ciudad de México
+CUST02658,Alto patrimonio,Mexico,Ciudad de México
+CUST02659,Primera vez,Colombia,Bogotá
+CUST02660,Inversionista,Mexico,Ciudad de México
+CUST02661,Primera vez,Colombia,Bogotá
+CUST02662,Alto patrimonio,Colombia,Bogotá
+CUST02663,Primera vez,Colombia,Bogotá
+CUST02664,Inversionista,Colombia,Bogotá
+CUST02665,Inversionista,Colombia,Bogotá
+CUST02666,Primera vez,Colombia,Bogotá
+CUST02667,Primera vez,Colombia,Bogotá
+CUST02668,Inversionista,Mexico,Ciudad de México
+CUST02669,Inversionista,Colombia,Bogotá
+CUST02670,Primera vez,Colombia,Bogotá
+CUST02671,Inversionista,Colombia,Bogotá
+CUST02672,Primera vez,Mexico,Ciudad de México
+CUST02673,Inversionista,Colombia,Bogotá
+CUST02674,Primera vez,Mexico,Ciudad de México
+CUST02675,Alto patrimonio,Colombia,Bogotá
+CUST02676,Primera vez,Mexico,Ciudad de México
+CUST02677,Primera vez,Mexico,Ciudad de México
+CUST02678,Primera vez,Colombia,Bogotá
+CUST02679,Primera vez,Colombia,Bogotá
+CUST02680,Primera vez,Colombia,Bogotá
+CUST02681,Primera vez,Mexico,Ciudad de México
+CUST02682,Inversionista,Colombia,Bogotá
+CUST02683,Primera vez,Colombia,Bogotá
+CUST02684,Primera vez,Mexico,Ciudad de México
+CUST02685,Primera vez,Colombia,Bogotá
+CUST02686,Primera vez,Mexico,Ciudad de México
+CUST02687,Primera vez,Mexico,Ciudad de México
+CUST02688,Primera vez,Colombia,Bogotá
+CUST02689,Primera vez,Colombia,Bogotá
+CUST02690,Primera vez,Colombia,Bogotá
+CUST02691,Primera vez,Mexico,Ciudad de México
+CUST02692,Inversionista,Mexico,Ciudad de México
+CUST02693,Primera vez,Mexico,Ciudad de México
+CUST02694,Primera vez,Mexico,Ciudad de México
+CUST02695,Alto patrimonio,Mexico,Ciudad de México
+CUST02696,Primera vez,Colombia,Bogotá
+CUST02697,Inversionista,Colombia,Bogotá
+CUST02698,Primera vez,Mexico,Ciudad de México
+CUST02699,Inversionista,Colombia,Bogotá
+CUST02700,Inversionista,Colombia,Bogotá
+CUST02701,Primera vez,Mexico,Ciudad de México
+CUST02702,Alto patrimonio,Colombia,Bogotá
+CUST02703,Primera vez,Mexico,Ciudad de México
+CUST02704,Primera vez,Mexico,Ciudad de México
+CUST02705,Inversionista,Colombia,Bogotá
+CUST02706,Inversionista,Mexico,Ciudad de México
+CUST02707,Primera vez,Colombia,Bogotá
+CUST02708,Primera vez,Colombia,Bogotá
+CUST02709,Primera vez,Colombia,Bogotá
+CUST02710,Primera vez,Colombia,Bogotá
+CUST02711,Inversionista,Colombia,Bogotá
+CUST02712,Primera vez,Colombia,Bogotá
+CUST02713,Primera vez,Colombia,Bogotá
+CUST02714,Primera vez,Colombia,Bogotá
+CUST02715,Primera vez,Mexico,Ciudad de México
+CUST02716,Primera vez,Mexico,Ciudad de México
+CUST02717,Inversionista,Colombia,Bogotá
+CUST02718,Alto patrimonio,Colombia,Bogotá
+CUST02719,Inversionista,Colombia,Bogotá
+CUST02720,Primera vez,Colombia,Bogotá
+CUST02721,Alto patrimonio,Mexico,Ciudad de México
+CUST02722,Inversionista,Mexico,Ciudad de México
+CUST02723,Inversionista,Colombia,Bogotá
+CUST02724,Primera vez,Colombia,Bogotá
+CUST02725,Primera vez,Colombia,Bogotá
+CUST02726,Primera vez,Mexico,Ciudad de México
+CUST02727,Primera vez,Colombia,Bogotá
+CUST02728,Primera vez,Mexico,Ciudad de México
+CUST02729,Primera vez,Mexico,Ciudad de México
+CUST02730,Primera vez,Colombia,Bogotá
+CUST02731,Inversionista,Mexico,Ciudad de México
+CUST02732,Primera vez,Mexico,Ciudad de México
+CUST02733,Primera vez,Mexico,Ciudad de México
+CUST02734,Alto patrimonio,Colombia,Bogotá
+CUST02735,Alto patrimonio,Colombia,Bogotá
+CUST02736,Inversionista,Mexico,Ciudad de México
+CUST02737,Alto patrimonio,Mexico,Ciudad de México
+CUST02738,Primera vez,Mexico,Ciudad de México
+CUST02739,Alto patrimonio,Mexico,Ciudad de México
+CUST02740,Primera vez,Mexico,Ciudad de México
+CUST02741,Primera vez,Mexico,Ciudad de México
+CUST02742,Primera vez,Colombia,Bogotá
+CUST02743,Primera vez,Mexico,Ciudad de México
+CUST02744,Primera vez,Mexico,Ciudad de México
+CUST02745,Inversionista,Mexico,Ciudad de México
+CUST02746,Inversionista,Mexico,Ciudad de México
+CUST02747,Inversionista,Colombia,Bogotá
+CUST02748,Primera vez,Mexico,Ciudad de México
+CUST02749,Inversionista,Mexico,Ciudad de México
+CUST02750,Inversionista,Colombia,Bogotá
+CUST02751,Primera vez,Colombia,Bogotá
+CUST02752,Inversionista,Colombia,Bogotá
+CUST02753,Primera vez,Colombia,Bogotá
+CUST02754,Primera vez,Colombia,Bogotá
+CUST02755,Alto patrimonio,Colombia,Bogotá
+CUST02756,Primera vez,Mexico,Ciudad de México
+CUST02757,Primera vez,Mexico,Ciudad de México
+CUST02758,Alto patrimonio,Mexico,Ciudad de México
+CUST02759,Inversionista,Mexico,Ciudad de México
+CUST02760,Primera vez,Colombia,Bogotá
+CUST02761,Primera vez,Colombia,Bogotá
+CUST02762,Primera vez,Mexico,Ciudad de México
+CUST02763,Inversionista,Colombia,Bogotá
+CUST02764,Primera vez,Mexico,Ciudad de México
+CUST02765,Primera vez,Mexico,Ciudad de México
+CUST02766,Alto patrimonio,Colombia,Bogotá
+CUST02767,Primera vez,Mexico,Ciudad de México
+CUST02768,Primera vez,Colombia,Bogotá
+CUST02769,Primera vez,Colombia,Bogotá
+CUST02770,Inversionista,Mexico,Ciudad de México
+CUST02771,Primera vez,Colombia,Bogotá
+CUST02772,Primera vez,Mexico,Ciudad de México
+CUST02773,Inversionista,Colombia,Bogotá
+CUST02774,Primera vez,Mexico,Ciudad de México
+CUST02775,Primera vez,Mexico,Ciudad de México
+CUST02776,Primera vez,Mexico,Ciudad de México
+CUST02777,Primera vez,Colombia,Bogotá
+CUST02778,Primera vez,Colombia,Bogotá
+CUST02779,Primera vez,Mexico,Ciudad de México
+CUST02780,Primera vez,Colombia,Bogotá
+CUST02781,Primera vez,Mexico,Ciudad de México
+CUST02782,Inversionista,Mexico,Ciudad de México
+CUST02783,Alto patrimonio,Mexico,Ciudad de México
+CUST02784,Inversionista,Mexico,Ciudad de México
+CUST02785,Alto patrimonio,Colombia,Bogotá
+CUST02786,Primera vez,Mexico,Ciudad de México
+CUST02787,Alto patrimonio,Mexico,Ciudad de México
+CUST02788,Primera vez,Colombia,Bogotá
+CUST02789,Alto patrimonio,Mexico,Ciudad de México
+CUST02790,Alto patrimonio,Colombia,Bogotá
+CUST02791,Inversionista,Colombia,Bogotá
+CUST02792,Alto patrimonio,Colombia,Bogotá
+CUST02793,Inversionista,Mexico,Ciudad de México
+CUST02794,Primera vez,Colombia,Bogotá
+CUST02795,Primera vez,Mexico,Ciudad de México
+CUST02796,Inversionista,Mexico,Ciudad de México
+CUST02797,Primera vez,Colombia,Bogotá
+CUST02798,Inversionista,Colombia,Bogotá
+CUST02799,Alto patrimonio,Mexico,Ciudad de México
+CUST02800,Primera vez,Colombia,Bogotá
+CUST02801,Inversionista,Mexico,Ciudad de México
+CUST02802,Alto patrimonio,Colombia,Bogotá
+CUST02803,Alto patrimonio,Colombia,Bogotá
+CUST02804,Alto patrimonio,Mexico,Ciudad de México
+CUST02805,Primera vez,Colombia,Bogotá
+CUST02806,Alto patrimonio,Colombia,Bogotá
+CUST02807,Inversionista,Colombia,Bogotá
+CUST02808,Primera vez,Colombia,Bogotá
+CUST02809,Primera vez,Mexico,Ciudad de México
+CUST02810,Inversionista,Mexico,Ciudad de México
+CUST02811,Primera vez,Colombia,Bogotá
+CUST02812,Inversionista,Mexico,Ciudad de México
+CUST02813,Inversionista,Mexico,Ciudad de México
+CUST02814,Primera vez,Colombia,Bogotá
+CUST02815,Inversionista,Colombia,Bogotá
+CUST02816,Inversionista,Mexico,Ciudad de México
+CUST02817,Primera vez,Mexico,Ciudad de México
+CUST02818,Primera vez,Mexico,Ciudad de México
+CUST02819,Primera vez,Mexico,Ciudad de México
+CUST02820,Primera vez,Colombia,Bogotá
+CUST02821,Alto patrimonio,Mexico,Ciudad de México
+CUST02822,Primera vez,Colombia,Bogotá
+CUST02823,Inversionista,Mexico,Ciudad de México
+CUST02824,Primera vez,Colombia,Bogotá
+CUST02825,Primera vez,Colombia,Bogotá
+CUST02826,Inversionista,Colombia,Bogotá
+CUST02827,Inversionista,Mexico,Ciudad de México
+CUST02828,Primera vez,Colombia,Bogotá
+CUST02829,Primera vez,Colombia,Bogotá
+CUST02830,Primera vez,Colombia,Bogotá
+CUST02831,Primera vez,Colombia,Bogotá
+CUST02832,Inversionista,Mexico,Ciudad de México
+CUST02833,Primera vez,Mexico,Ciudad de México
+CUST02834,Primera vez,Colombia,Bogotá
+CUST02835,Primera vez,Colombia,Bogotá
+CUST02836,Alto patrimonio,Mexico,Ciudad de México
+CUST02837,Alto patrimonio,Colombia,Bogotá
+CUST02838,Primera vez,Colombia,Bogotá
+CUST02839,Inversionista,Colombia,Bogotá
+CUST02840,Primera vez,Colombia,Bogotá
+CUST02841,Primera vez,Colombia,Bogotá
+CUST02842,Inversionista,Mexico,Ciudad de México
+CUST02843,Alto patrimonio,Mexico,Ciudad de México
+CUST02844,Alto patrimonio,Mexico,Ciudad de México
+CUST02845,Inversionista,Colombia,Bogotá
+CUST02846,Primera vez,Colombia,Bogotá
+CUST02847,Inversionista,Colombia,Bogotá
+CUST02848,Primera vez,Mexico,Ciudad de México
+CUST02849,Inversionista,Mexico,Ciudad de México
+CUST02850,Primera vez,Mexico,Ciudad de México
+CUST02851,Inversionista,Colombia,Bogotá
+CUST02852,Primera vez,Colombia,Bogotá
+CUST02853,Primera vez,Colombia,Bogotá
+CUST02854,Alto patrimonio,Mexico,Ciudad de México
+CUST02855,Primera vez,Mexico,Ciudad de México
+CUST02856,Primera vez,Mexico,Ciudad de México
+CUST02857,Primera vez,Mexico,Ciudad de México
+CUST02858,Primera vez,Colombia,Bogotá
+CUST02859,Primera vez,Mexico,Ciudad de México
+CUST02860,Primera vez,Mexico,Ciudad de México
+CUST02861,Alto patrimonio,Colombia,Bogotá
+CUST02862,Primera vez,Colombia,Bogotá
+CUST02863,Alto patrimonio,Colombia,Bogotá
+CUST02864,Inversionista,Colombia,Bogotá
+CUST02865,Primera vez,Colombia,Bogotá
+CUST02866,Inversionista,Mexico,Ciudad de México
+CUST02867,Primera vez,Colombia,Bogotá
+CUST02868,Inversionista,Colombia,Bogotá
+CUST02869,Primera vez,Colombia,Bogotá
+CUST02870,Primera vez,Mexico,Ciudad de México
+CUST02871,Alto patrimonio,Mexico,Ciudad de México
+CUST02872,Alto patrimonio,Colombia,Bogotá
+CUST02873,Alto patrimonio,Mexico,Ciudad de México
+CUST02874,Primera vez,Mexico,Ciudad de México
+CUST02875,Inversionista,Colombia,Bogotá
+CUST02876,Primera vez,Colombia,Bogotá
+CUST02877,Primera vez,Mexico,Ciudad de México
+CUST02878,Primera vez,Mexico,Ciudad de México
+CUST02879,Inversionista,Mexico,Ciudad de México
+CUST02880,Primera vez,Mexico,Ciudad de México
+CUST02881,Primera vez,Mexico,Ciudad de México
+CUST02882,Alto patrimonio,Mexico,Ciudad de México
+CUST02883,Primera vez,Colombia,Bogotá
+CUST02884,Primera vez,Colombia,Bogotá
+CUST02885,Primera vez,Colombia,Bogotá
+CUST02886,Alto patrimonio,Mexico,Ciudad de México
+CUST02887,Primera vez,Mexico,Ciudad de México
+CUST02888,Primera vez,Mexico,Ciudad de México
+CUST02889,Inversionista,Colombia,Bogotá
+CUST02890,Inversionista,Mexico,Ciudad de México
+CUST02891,Primera vez,Colombia,Bogotá
+CUST02892,Inversionista,Colombia,Bogotá
+CUST02893,Inversionista,Mexico,Ciudad de México
+CUST02894,Inversionista,Mexico,Ciudad de México
+CUST02895,Primera vez,Mexico,Ciudad de México
+CUST02896,Alto patrimonio,Colombia,Bogotá
+CUST02897,Primera vez,Colombia,Bogotá
+CUST02898,Primera vez,Colombia,Bogotá
+CUST02899,Primera vez,Colombia,Bogotá
+CUST02900,Primera vez,Mexico,Ciudad de México
+CUST02901,Primera vez,Mexico,Ciudad de México
+CUST02902,Inversionista,Mexico,Ciudad de México
+CUST02903,Primera vez,Colombia,Bogotá
+CUST02904,Primera vez,Mexico,Ciudad de México
+CUST02905,Primera vez,Colombia,Bogotá
+CUST02906,Primera vez,Mexico,Ciudad de México
+CUST02907,Alto patrimonio,Colombia,Bogotá
+CUST02908,Primera vez,Colombia,Bogotá
+CUST02909,Primera vez,Colombia,Bogotá
+CUST02910,Primera vez,Mexico,Ciudad de México
+CUST02911,Primera vez,Colombia,Bogotá
+CUST02912,Primera vez,Colombia,Bogotá
+CUST02913,Inversionista,Mexico,Ciudad de México
+CUST02914,Alto patrimonio,Colombia,Bogotá
+CUST02915,Primera vez,Colombia,Bogotá
+CUST02916,Inversionista,Colombia,Bogotá
+CUST02917,Inversionista,Colombia,Bogotá
+CUST02918,Inversionista,Mexico,Ciudad de México
+CUST02919,Primera vez,Mexico,Ciudad de México
+CUST02920,Primera vez,Colombia,Bogotá
+CUST02921,Primera vez,Mexico,Ciudad de México
+CUST02922,Inversionista,Colombia,Bogotá
+CUST02923,Inversionista,Colombia,Bogotá
+CUST02924,Primera vez,Colombia,Bogotá
+CUST02925,Primera vez,Colombia,Bogotá
+CUST02926,Alto patrimonio,Colombia,Bogotá
+CUST02927,Inversionista,Mexico,Ciudad de México
+CUST02928,Alto patrimonio,Mexico,Ciudad de México
+CUST02929,Inversionista,Colombia,Bogotá
+CUST02930,Primera vez,Mexico,Ciudad de México
+CUST02931,Inversionista,Mexico,Ciudad de México
+CUST02932,Inversionista,Mexico,Ciudad de México
+CUST02933,Primera vez,Mexico,Ciudad de México
+CUST02934,Primera vez,Colombia,Bogotá
+CUST02935,Inversionista,Mexico,Ciudad de México
+CUST02936,Primera vez,Mexico,Ciudad de México
+CUST02937,Inversionista,Mexico,Ciudad de México
+CUST02938,Inversionista,Colombia,Bogotá
+CUST02939,Alto patrimonio,Colombia,Bogotá
+CUST02940,Primera vez,Mexico,Ciudad de México
+CUST02941,Primera vez,Colombia,Bogotá
+CUST02942,Inversionista,Colombia,Bogotá
+CUST02943,Primera vez,Mexico,Ciudad de México
+CUST02944,Inversionista,Colombia,Bogotá
+CUST02945,Inversionista,Mexico,Ciudad de México
+CUST02946,Primera vez,Mexico,Ciudad de México
+CUST02947,Primera vez,Mexico,Ciudad de México
+CUST02948,Primera vez,Colombia,Bogotá
+CUST02949,Primera vez,Colombia,Bogotá
+CUST02950,Alto patrimonio,Mexico,Ciudad de México
+CUST02951,Inversionista,Mexico,Ciudad de México
+CUST02952,Inversionista,Mexico,Ciudad de México
+CUST02953,Inversionista,Colombia,Bogotá
+CUST02954,Primera vez,Colombia,Bogotá
+CUST02955,Alto patrimonio,Mexico,Ciudad de México
+CUST02956,Inversionista,Colombia,Bogotá
+CUST02957,Inversionista,Mexico,Ciudad de México
+CUST02958,Alto patrimonio,Colombia,Bogotá
+CUST02959,Primera vez,Colombia,Bogotá
+CUST02960,Inversionista,Colombia,Bogotá
+CUST02961,Primera vez,Colombia,Bogotá
+CUST02962,Primera vez,Mexico,Ciudad de México
+CUST02963,Primera vez,Mexico,Ciudad de México
+CUST02964,Alto patrimonio,Colombia,Bogotá
+CUST02965,Alto patrimonio,Mexico,Ciudad de México
+CUST02966,Inversionista,Colombia,Bogotá
+CUST02967,Inversionista,Mexico,Ciudad de México
+CUST02968,Inversionista,Colombia,Bogotá
+CUST02969,Alto patrimonio,Mexico,Ciudad de México
+CUST02970,Primera vez,Mexico,Ciudad de México
+CUST02971,Primera vez,Mexico,Ciudad de México
+CUST02972,Primera vez,Mexico,Ciudad de México
+CUST02973,Inversionista,Mexico,Ciudad de México
+CUST02974,Inversionista,Mexico,Ciudad de México
+CUST02975,Primera vez,Mexico,Ciudad de México
+CUST02976,Primera vez,Mexico,Ciudad de México
+CUST02977,Inversionista,Colombia,Bogotá
+CUST02978,Primera vez,Colombia,Bogotá
+CUST02979,Inversionista,Mexico,Ciudad de México
+CUST02980,Alto patrimonio,Colombia,Bogotá
+CUST02981,Primera vez,Mexico,Ciudad de México
+CUST02982,Primera vez,Colombia,Bogotá
+CUST02983,Inversionista,Mexico,Ciudad de México
+CUST02984,Inversionista,Colombia,Bogotá
+CUST02985,Primera vez,Colombia,Bogotá
+CUST02986,Alto patrimonio,Colombia,Bogotá
+CUST02987,Primera vez,Mexico,Ciudad de México
+CUST02988,Primera vez,Colombia,Bogotá
+CUST02989,Inversionista,Colombia,Bogotá
+CUST02990,Alto patrimonio,Mexico,Ciudad de México
+CUST02991,Primera vez,Mexico,Ciudad de México
+CUST02992,Inversionista,Colombia,Bogotá
+CUST02993,Inversionista,Colombia,Bogotá
+CUST02994,Primera vez,Colombia,Bogotá
+CUST02995,Primera vez,Mexico,Ciudad de México
+CUST02996,Alto patrimonio,Colombia,Bogotá
+CUST02997,Primera vez,Colombia,Bogotá
+CUST02998,Primera vez,Colombia,Bogotá
+CUST02999,Primera vez,Colombia,Bogotá
+CUST03000,Alto patrimonio,Mexico,Ciudad de México
+CUST03001,Inversionista,Colombia,Bogotá
+CUST03002,Inversionista,Colombia,Bogotá
+CUST03003,Primera vez,Colombia,Bogotá
+CUST03004,Inversionista,Colombia,Bogotá
+CUST03005,Inversionista,Colombia,Bogotá
+CUST03006,Inversionista,Mexico,Ciudad de México
+CUST03007,Alto patrimonio,Mexico,Ciudad de México
+CUST03008,Primera vez,Mexico,Ciudad de México
+CUST03009,Inversionista,Mexico,Ciudad de México
+CUST03010,Primera vez,Mexico,Ciudad de México
+CUST03011,Primera vez,Colombia,Bogotá
+CUST03012,Primera vez,Mexico,Ciudad de México
+CUST03013,Primera vez,Mexico,Ciudad de México
+CUST03014,Primera vez,Mexico,Ciudad de México
+CUST03015,Inversionista,Colombia,Bogotá
+CUST03016,Primera vez,Colombia,Bogotá
+CUST03017,Inversionista,Mexico,Ciudad de México
+CUST03018,Primera vez,Mexico,Ciudad de México
+CUST03019,Primera vez,Mexico,Ciudad de México
+CUST03020,Inversionista,Colombia,Bogotá
+CUST03021,Primera vez,Colombia,Bogotá
+CUST03022,Primera vez,Colombia,Bogotá
+CUST03023,Inversionista,Mexico,Ciudad de México
+CUST03024,Primera vez,Colombia,Bogotá
+CUST03025,Primera vez,Colombia,Bogotá
+CUST03026,Primera vez,Mexico,Ciudad de México
+CUST03027,Alto patrimonio,Colombia,Bogotá
+CUST03028,Inversionista,Mexico,Ciudad de México
+CUST03029,Inversionista,Colombia,Bogotá
+CUST03030,Inversionista,Mexico,Ciudad de México
+CUST03031,Primera vez,Mexico,Ciudad de México
+CUST03032,Primera vez,Mexico,Ciudad de México
+CUST03033,Inversionista,Mexico,Ciudad de México
+CUST03034,Primera vez,Colombia,Bogotá
+CUST03035,Primera vez,Colombia,Bogotá
+CUST03036,Primera vez,Colombia,Bogotá
+CUST03037,Primera vez,Mexico,Ciudad de México
+CUST03038,Alto patrimonio,Mexico,Ciudad de México
+CUST03039,Primera vez,Colombia,Bogotá
+CUST03040,Primera vez,Mexico,Ciudad de México
+CUST03041,Primera vez,Colombia,Bogotá
+CUST03042,Alto patrimonio,Mexico,Ciudad de México
+CUST03043,Primera vez,Mexico,Ciudad de México
+CUST03044,Primera vez,Colombia,Bogotá
+CUST03045,Inversionista,Colombia,Bogotá
+CUST03046,Inversionista,Colombia,Bogotá
+CUST03047,Primera vez,Mexico,Ciudad de México
+CUST03048,Primera vez,Colombia,Bogotá
+CUST03049,Primera vez,Colombia,Bogotá
+CUST03050,Primera vez,Colombia,Bogotá
+CUST03051,Primera vez,Colombia,Bogotá
+CUST03052,Primera vez,Mexico,Ciudad de México
+CUST03053,Primera vez,Mexico,Ciudad de México
+CUST03054,Primera vez,Colombia,Bogotá
+CUST03055,Inversionista,Mexico,Ciudad de México
+CUST03056,Alto patrimonio,Mexico,Ciudad de México
+CUST03057,Inversionista,Colombia,Bogotá
+CUST03058,Primera vez,Colombia,Bogotá
+CUST03059,Primera vez,Mexico,Ciudad de México
+CUST03060,Alto patrimonio,Mexico,Ciudad de México
+CUST03061,Primera vez,Colombia,Bogotá
+CUST03062,Primera vez,Colombia,Bogotá
+CUST03063,Inversionista,Colombia,Bogotá
+CUST03064,Inversionista,Mexico,Ciudad de México
+CUST03065,Inversionista,Colombia,Bogotá
+CUST03066,Primera vez,Colombia,Bogotá
+CUST03067,Primera vez,Mexico,Ciudad de México
+CUST03068,Alto patrimonio,Mexico,Ciudad de México
+CUST03069,Primera vez,Colombia,Bogotá
+CUST03070,Inversionista,Colombia,Bogotá
+CUST03071,Inversionista,Mexico,Ciudad de México
+CUST03072,Inversionista,Colombia,Bogotá
+CUST03073,Primera vez,Colombia,Bogotá
+CUST03074,Primera vez,Mexico,Ciudad de México
+CUST03075,Inversionista,Colombia,Bogotá
+CUST03076,Alto patrimonio,Mexico,Ciudad de México
+CUST03077,Alto patrimonio,Mexico,Ciudad de México
+CUST03078,Primera vez,Colombia,Bogotá
+CUST03079,Primera vez,Colombia,Bogotá
+CUST03080,Alto patrimonio,Mexico,Ciudad de México
+CUST03081,Inversionista,Mexico,Ciudad de México
+CUST03082,Alto patrimonio,Mexico,Ciudad de México
+CUST03083,Primera vez,Mexico,Ciudad de México
+CUST03084,Inversionista,Colombia,Bogotá
+CUST03085,Inversionista,Mexico,Ciudad de México
+CUST03086,Inversionista,Colombia,Bogotá
+CUST03087,Primera vez,Colombia,Bogotá
+CUST03088,Primera vez,Colombia,Bogotá
+CUST03089,Inversionista,Colombia,Bogotá
+CUST03090,Primera vez,Mexico,Ciudad de México
+CUST03091,Primera vez,Colombia,Bogotá
+CUST03092,Alto patrimonio,Colombia,Bogotá
+CUST03093,Primera vez,Colombia,Bogotá
+CUST03094,Inversionista,Mexico,Ciudad de México
+CUST03095,Primera vez,Mexico,Ciudad de México
+CUST03096,Inversionista,Colombia,Bogotá
+CUST03097,Alto patrimonio,Colombia,Bogotá
+CUST03098,Primera vez,Colombia,Bogotá
+CUST03099,Primera vez,Mexico,Ciudad de México
+CUST03100,Primera vez,Mexico,Ciudad de México
+CUST03101,Primera vez,Mexico,Ciudad de México
+CUST03102,Inversionista,Mexico,Ciudad de México
+CUST03103,Alto patrimonio,Colombia,Bogotá
+CUST03104,Primera vez,Mexico,Ciudad de México
+CUST03105,Primera vez,Mexico,Ciudad de México
+CUST03106,Primera vez,Colombia,Bogotá
+CUST03107,Inversionista,Colombia,Bogotá
+CUST03108,Primera vez,Mexico,Ciudad de México
+CUST03109,Inversionista,Mexico,Ciudad de México
+CUST03110,Inversionista,Colombia,Bogotá
+CUST03111,Inversionista,Mexico,Ciudad de México
+CUST03112,Primera vez,Mexico,Ciudad de México
+CUST03113,Inversionista,Colombia,Bogotá
+CUST03114,Primera vez,Colombia,Bogotá
+CUST03115,Primera vez,Colombia,Bogotá
+CUST03116,Alto patrimonio,Mexico,Ciudad de México
+CUST03117,Inversionista,Colombia,Bogotá
+CUST03118,Primera vez,Colombia,Bogotá
+CUST03119,Primera vez,Colombia,Bogotá
+CUST03120,Primera vez,Mexico,Ciudad de México
+CUST03121,Primera vez,Colombia,Bogotá
+CUST03122,Primera vez,Colombia,Bogotá
+CUST03123,Primera vez,Colombia,Bogotá
+CUST03124,Primera vez,Mexico,Ciudad de México
+CUST03125,Inversionista,Mexico,Ciudad de México
+CUST03126,Inversionista,Colombia,Bogotá
+CUST03127,Inversionista,Mexico,Ciudad de México
+CUST03128,Primera vez,Mexico,Ciudad de México
+CUST03129,Alto patrimonio,Mexico,Ciudad de México
+CUST03130,Inversionista,Mexico,Ciudad de México
+CUST03131,Inversionista,Colombia,Bogotá
+CUST03132,Inversionista,Colombia,Bogotá
+CUST03133,Alto patrimonio,Mexico,Ciudad de México
+CUST03134,Primera vez,Mexico,Ciudad de México
+CUST03135,Primera vez,Mexico,Ciudad de México
+CUST03136,Inversionista,Colombia,Bogotá
+CUST03137,Inversionista,Mexico,Ciudad de México
+CUST03138,Inversionista,Mexico,Ciudad de México
+CUST03139,Primera vez,Colombia,Bogotá
+CUST03140,Primera vez,Colombia,Bogotá
+CUST03141,Primera vez,Mexico,Ciudad de México
+CUST03142,Alto patrimonio,Mexico,Ciudad de México
+CUST03143,Inversionista,Colombia,Bogotá
+CUST03144,Primera vez,Mexico,Ciudad de México
+CUST03145,Primera vez,Colombia,Bogotá
+CUST03146,Primera vez,Colombia,Bogotá
+CUST03147,Alto patrimonio,Mexico,Ciudad de México
+CUST03148,Inversionista,Mexico,Ciudad de México
+CUST03149,Inversionista,Mexico,Ciudad de México
+CUST03150,Primera vez,Mexico,Ciudad de México
+CUST03151,Inversionista,Colombia,Bogotá
+CUST03152,Primera vez,Mexico,Ciudad de México
+CUST03153,Inversionista,Colombia,Bogotá
+CUST03154,Primera vez,Colombia,Bogotá
+CUST03155,Primera vez,Colombia,Bogotá
+CUST03156,Inversionista,Colombia,Bogotá
+CUST03157,Alto patrimonio,Colombia,Bogotá
+CUST03158,Primera vez,Colombia,Bogotá
+CUST03159,Inversionista,Colombia,Bogotá
+CUST03160,Primera vez,Colombia,Bogotá
+CUST03161,Primera vez,Mexico,Ciudad de México
+CUST03162,Primera vez,Colombia,Bogotá
+CUST03163,Primera vez,Colombia,Bogotá
+CUST03164,Primera vez,Mexico,Ciudad de México
+CUST03165,Primera vez,Mexico,Ciudad de México
+CUST03166,Primera vez,Mexico,Ciudad de México
+CUST03167,Alto patrimonio,Colombia,Bogotá
+CUST03168,Primera vez,Mexico,Ciudad de México
+CUST03169,Inversionista,Colombia,Bogotá
+CUST03170,Primera vez,Colombia,Bogotá
+CUST03171,Inversionista,Colombia,Bogotá
+CUST03172,Primera vez,Mexico,Ciudad de México
+CUST03173,Primera vez,Colombia,Bogotá
+CUST03174,Primera vez,Colombia,Bogotá
+CUST03175,Primera vez,Colombia,Bogotá
+CUST03176,Primera vez,Mexico,Ciudad de México
+CUST03177,Inversionista,Mexico,Ciudad de México
+CUST03178,Alto patrimonio,Colombia,Bogotá
+CUST03179,Inversionista,Mexico,Ciudad de México
+CUST03180,Inversionista,Mexico,Ciudad de México
+CUST03181,Primera vez,Mexico,Ciudad de México
+CUST03182,Primera vez,Colombia,Bogotá
+CUST03183,Primera vez,Mexico,Ciudad de México
+CUST03184,Primera vez,Colombia,Bogotá
+CUST03185,Primera vez,Mexico,Ciudad de México
+CUST03186,Primera vez,Colombia,Bogotá
+CUST03187,Primera vez,Colombia,Bogotá
+CUST03188,Primera vez,Colombia,Bogotá
+CUST03189,Inversionista,Mexico,Ciudad de México
+CUST03190,Inversionista,Colombia,Bogotá
+CUST03191,Primera vez,Mexico,Ciudad de México
+CUST03192,Alto patrimonio,Colombia,Bogotá
+CUST03193,Alto patrimonio,Mexico,Ciudad de México
+CUST03194,Primera vez,Mexico,Ciudad de México
+CUST03195,Primera vez,Mexico,Ciudad de México
+CUST03196,Primera vez,Mexico,Ciudad de México
+CUST03197,Alto patrimonio,Mexico,Ciudad de México
+CUST03198,Alto patrimonio,Colombia,Bogotá
+CUST03199,Primera vez,Mexico,Ciudad de México
+CUST03200,Primera vez,Colombia,Bogotá
+CUST03201,Inversionista,Mexico,Ciudad de México
+CUST03202,Primera vez,Mexico,Ciudad de México
+CUST03203,Primera vez,Colombia,Bogotá
+CUST03204,Alto patrimonio,Colombia,Bogotá
+CUST03205,Inversionista,Colombia,Bogotá
+CUST03206,Inversionista,Mexico,Ciudad de México
+CUST03207,Alto patrimonio,Mexico,Ciudad de México
+CUST03208,Inversionista,Mexico,Ciudad de México
+CUST03209,Primera vez,Mexico,Ciudad de México
+CUST03210,Inversionista,Mexico,Ciudad de México
+CUST03211,Primera vez,Colombia,Bogotá
+CUST03212,Inversionista,Colombia,Bogotá
+CUST03213,Primera vez,Mexico,Ciudad de México
+CUST03214,Inversionista,Mexico,Ciudad de México
+CUST03215,Primera vez,Mexico,Ciudad de México
+CUST03216,Primera vez,Colombia,Bogotá
+CUST03217,Primera vez,Colombia,Bogotá
+CUST03218,Primera vez,Colombia,Bogotá
+CUST03219,Inversionista,Colombia,Bogotá
+CUST03220,Inversionista,Colombia,Bogotá
+CUST03221,Primera vez,Mexico,Ciudad de México
+CUST03222,Primera vez,Colombia,Bogotá
+CUST03223,Primera vez,Mexico,Ciudad de México
+CUST03224,Primera vez,Colombia,Bogotá
+CUST03225,Primera vez,Mexico,Ciudad de México
+CUST03226,Alto patrimonio,Colombia,Bogotá
+CUST03227,Primera vez,Colombia,Bogotá
+CUST03228,Primera vez,Colombia,Bogotá
+CUST03229,Primera vez,Mexico,Ciudad de México
+CUST03230,Primera vez,Mexico,Ciudad de México
+CUST03231,Primera vez,Colombia,Bogotá
+CUST03232,Inversionista,Colombia,Bogotá
+CUST03233,Primera vez,Mexico,Ciudad de México
+CUST03234,Primera vez,Colombia,Bogotá
+CUST03235,Primera vez,Colombia,Bogotá
+CUST03236,Primera vez,Mexico,Ciudad de México
+CUST03237,Primera vez,Mexico,Ciudad de México
+CUST03238,Alto patrimonio,Colombia,Bogotá
+CUST03239,Inversionista,Colombia,Bogotá
+CUST03240,Inversionista,Mexico,Ciudad de México
+CUST03241,Primera vez,Colombia,Bogotá
+CUST03242,Primera vez,Colombia,Bogotá
+CUST03243,Primera vez,Mexico,Ciudad de México
+CUST03244,Inversionista,Mexico,Ciudad de México
+CUST03245,Inversionista,Colombia,Bogotá
+CUST03246,Primera vez,Mexico,Ciudad de México
+CUST03247,Primera vez,Mexico,Ciudad de México
+CUST03248,Primera vez,Colombia,Bogotá
+CUST03249,Alto patrimonio,Mexico,Ciudad de México
+CUST03250,Inversionista,Colombia,Bogotá
+CUST03251,Primera vez,Colombia,Bogotá
+CUST03252,Primera vez,Mexico,Ciudad de México
+CUST03253,Inversionista,Colombia,Bogotá
+CUST03254,Primera vez,Colombia,Bogotá
+CUST03255,Primera vez,Colombia,Bogotá
+CUST03256,Primera vez,Colombia,Bogotá
+CUST03257,Inversionista,Mexico,Ciudad de México
+CUST03258,Primera vez,Mexico,Ciudad de México
+CUST03259,Primera vez,Mexico,Ciudad de México
+CUST03260,Alto patrimonio,Colombia,Bogotá
+CUST03261,Primera vez,Colombia,Bogotá
+CUST03262,Primera vez,Colombia,Bogotá
+CUST03263,Primera vez,Colombia,Bogotá
+CUST03264,Primera vez,Colombia,Bogotá
+CUST03265,Inversionista,Mexico,Ciudad de México
+CUST03266,Primera vez,Mexico,Ciudad de México
+CUST03267,Primera vez,Mexico,Ciudad de México
+CUST03268,Inversionista,Colombia,Bogotá
+CUST03269,Inversionista,Mexico,Ciudad de México
+CUST03270,Inversionista,Colombia,Bogotá
+CUST03271,Primera vez,Colombia,Bogotá
+CUST03272,Primera vez,Mexico,Ciudad de México
+CUST03273,Inversionista,Mexico,Ciudad de México
+CUST03274,Primera vez,Colombia,Bogotá
+CUST03275,Inversionista,Colombia,Bogotá
+CUST03276,Inversionista,Colombia,Bogotá
+CUST03277,Inversionista,Mexico,Ciudad de México
+CUST03278,Primera vez,Colombia,Bogotá
+CUST03279,Primera vez,Mexico,Ciudad de México
+CUST03280,Inversionista,Colombia,Bogotá
+CUST03281,Primera vez,Colombia,Bogotá
+CUST03282,Primera vez,Colombia,Bogotá
+CUST03283,Alto patrimonio,Colombia,Bogotá
+CUST03284,Alto patrimonio,Colombia,Bogotá
+CUST03285,Primera vez,Mexico,Ciudad de México
+CUST03286,Primera vez,Mexico,Ciudad de México
+CUST03287,Primera vez,Mexico,Ciudad de México
+CUST03288,Inversionista,Mexico,Ciudad de México
+CUST03289,Alto patrimonio,Mexico,Ciudad de México
+CUST03290,Primera vez,Mexico,Ciudad de México
+CUST03291,Primera vez,Mexico,Ciudad de México
+CUST03292,Alto patrimonio,Colombia,Bogotá
+CUST03293,Primera vez,Colombia,Bogotá
+CUST03294,Primera vez,Colombia,Bogotá
+CUST03295,Alto patrimonio,Colombia,Bogotá
+CUST03296,Primera vez,Colombia,Bogotá
+CUST03297,Inversionista,Mexico,Ciudad de México
+CUST03298,Primera vez,Colombia,Bogotá
+CUST03299,Primera vez,Colombia,Bogotá
+CUST03300,Inversionista,Mexico,Ciudad de México
+CUST03301,Primera vez,Colombia,Bogotá
+CUST03302,Alto patrimonio,Colombia,Bogotá
+CUST03303,Inversionista,Colombia,Bogotá
+CUST03304,Primera vez,Colombia,Bogotá
+CUST03305,Primera vez,Colombia,Bogotá
+CUST03306,Primera vez,Mexico,Ciudad de México
+CUST03307,Primera vez,Mexico,Ciudad de México
+CUST03308,Primera vez,Colombia,Bogotá
+CUST03309,Primera vez,Colombia,Bogotá
+CUST03310,Primera vez,Colombia,Bogotá
+CUST03311,Inversionista,Mexico,Ciudad de México
+CUST03312,Inversionista,Colombia,Bogotá
+CUST03313,Inversionista,Colombia,Bogotá
+CUST03314,Primera vez,Mexico,Ciudad de México
+CUST03315,Primera vez,Colombia,Bogotá
+CUST03316,Inversionista,Colombia,Bogotá
+CUST03317,Primera vez,Colombia,Bogotá
+CUST03318,Primera vez,Mexico,Ciudad de México
+CUST03319,Inversionista,Mexico,Ciudad de México
+CUST03320,Inversionista,Mexico,Ciudad de México
+CUST03321,Primera vez,Colombia,Bogotá
+CUST03322,Primera vez,Mexico,Ciudad de México
+CUST03323,Inversionista,Mexico,Ciudad de México
+CUST03324,Inversionista,Mexico,Ciudad de México
+CUST03325,Inversionista,Colombia,Bogotá
+CUST03326,Inversionista,Mexico,Ciudad de México
+CUST03327,Inversionista,Colombia,Bogotá
+CUST03328,Primera vez,Colombia,Bogotá
+CUST03329,Primera vez,Mexico,Ciudad de México
+CUST03330,Inversionista,Colombia,Bogotá
+CUST03331,Inversionista,Mexico,Ciudad de México
+CUST03332,Inversionista,Colombia,Bogotá
+CUST03333,Primera vez,Colombia,Bogotá
+CUST03334,Primera vez,Mexico,Ciudad de México
+CUST03335,Alto patrimonio,Mexico,Ciudad de México
+CUST03336,Inversionista,Colombia,Bogotá
+CUST03337,Alto patrimonio,Colombia,Bogotá
+CUST03338,Inversionista,Mexico,Ciudad de México
+CUST03339,Inversionista,Colombia,Bogotá
+CUST03340,Inversionista,Mexico,Ciudad de México
+CUST03341,Alto patrimonio,Mexico,Ciudad de México
+CUST03342,Inversionista,Colombia,Bogotá
+CUST03343,Inversionista,Colombia,Bogotá
+CUST03344,Primera vez,Colombia,Bogotá
+CUST03345,Primera vez,Mexico,Ciudad de México
+CUST03346,Inversionista,Colombia,Bogotá
+CUST03347,Primera vez,Colombia,Bogotá
+CUST03348,Primera vez,Colombia,Bogotá
+CUST03349,Primera vez,Mexico,Ciudad de México
+CUST03350,Primera vez,Colombia,Bogotá
+CUST03351,Primera vez,Colombia,Bogotá
+CUST03352,Primera vez,Mexico,Ciudad de México
+CUST03353,Alto patrimonio,Mexico,Ciudad de México
+CUST03354,Primera vez,Mexico,Ciudad de México
+CUST03355,Primera vez,Colombia,Bogotá
+CUST03356,Primera vez,Colombia,Bogotá
+CUST03357,Inversionista,Mexico,Ciudad de México
+CUST03358,Primera vez,Colombia,Bogotá
+CUST03359,Inversionista,Mexico,Ciudad de México
+CUST03360,Inversionista,Mexico,Ciudad de México
+CUST03361,Inversionista,Colombia,Bogotá
+CUST03362,Primera vez,Mexico,Ciudad de México
+CUST03363,Inversionista,Mexico,Ciudad de México
+CUST03364,Primera vez,Colombia,Bogotá
+CUST03365,Alto patrimonio,Mexico,Ciudad de México
+CUST03366,Inversionista,Colombia,Bogotá
+CUST03367,Primera vez,Colombia,Bogotá
+CUST03368,Primera vez,Colombia,Bogotá
+CUST03369,Primera vez,Mexico,Ciudad de México
+CUST03370,Inversionista,Mexico,Ciudad de México
+CUST03371,Primera vez,Colombia,Bogotá
+CUST03372,Inversionista,Colombia,Bogotá
+CUST03373,Primera vez,Mexico,Ciudad de México
+CUST03374,Inversionista,Colombia,Bogotá
+CUST03375,Inversionista,Mexico,Ciudad de México
+CUST03376,Inversionista,Colombia,Bogotá
+CUST03377,Inversionista,Colombia,Bogotá
+CUST03378,Primera vez,Colombia,Bogotá
+CUST03379,Primera vez,Mexico,Ciudad de México
+CUST03380,Inversionista,Colombia,Bogotá
+CUST03381,Primera vez,Mexico,Ciudad de México
+CUST03382,Primera vez,Colombia,Bogotá
+CUST03383,Primera vez,Colombia,Bogotá
+CUST03384,Primera vez,Colombia,Bogotá
+CUST03385,Primera vez,Mexico,Ciudad de México
+CUST03386,Alto patrimonio,Mexico,Ciudad de México
+CUST03387,Primera vez,Colombia,Bogotá
+CUST03388,Inversionista,Colombia,Bogotá
+CUST03389,Primera vez,Colombia,Bogotá
+CUST03390,Inversionista,Colombia,Bogotá
+CUST03391,Primera vez,Colombia,Bogotá
+CUST03392,Alto patrimonio,Mexico,Ciudad de México
+CUST03393,Alto patrimonio,Mexico,Ciudad de México
+CUST03394,Primera vez,Colombia,Bogotá
+CUST03395,Alto patrimonio,Colombia,Bogotá
+CUST03396,Alto patrimonio,Mexico,Ciudad de México
+CUST03397,Inversionista,Mexico,Ciudad de México
+CUST03398,Inversionista,Colombia,Bogotá
+CUST03399,Primera vez,Colombia,Bogotá
+CUST03400,Inversionista,Colombia,Bogotá
+CUST03401,Primera vez,Colombia,Bogotá
+CUST03402,Primera vez,Colombia,Bogotá
+CUST03403,Alto patrimonio,Colombia,Bogotá
+CUST03404,Primera vez,Mexico,Ciudad de México
+CUST03405,Inversionista,Colombia,Bogotá
+CUST03406,Inversionista,Colombia,Bogotá
+CUST03407,Alto patrimonio,Colombia,Bogotá
+CUST03408,Alto patrimonio,Mexico,Ciudad de México
+CUST03409,Primera vez,Mexico,Ciudad de México
+CUST03410,Primera vez,Colombia,Bogotá
+CUST03411,Primera vez,Colombia,Bogotá
+CUST03412,Primera vez,Mexico,Ciudad de México
+CUST03413,Primera vez,Colombia,Bogotá
+CUST03414,Primera vez,Colombia,Bogotá
+CUST03415,Inversionista,Colombia,Bogotá
+CUST03416,Inversionista,Colombia,Bogotá
+CUST03417,Primera vez,Colombia,Bogotá
+CUST03418,Inversionista,Mexico,Ciudad de México
+CUST03419,Primera vez,Mexico,Ciudad de México
+CUST03420,Primera vez,Colombia,Bogotá
+CUST03421,Inversionista,Mexico,Ciudad de México
+CUST03422,Inversionista,Colombia,Bogotá
+CUST03423,Inversionista,Colombia,Bogotá
+CUST03424,Primera vez,Mexico,Ciudad de México
+CUST03425,Inversionista,Mexico,Ciudad de México
+CUST03426,Inversionista,Colombia,Bogotá
+CUST03427,Inversionista,Colombia,Bogotá
+CUST03428,Inversionista,Mexico,Ciudad de México
+CUST03429,Alto patrimonio,Mexico,Ciudad de México
+CUST03430,Inversionista,Mexico,Ciudad de México
+CUST03431,Inversionista,Colombia,Bogotá
+CUST03432,Alto patrimonio,Colombia,Bogotá
+CUST03433,Inversionista,Colombia,Bogotá
+CUST03434,Primera vez,Colombia,Bogotá
+CUST03435,Inversionista,Mexico,Ciudad de México
+CUST03436,Primera vez,Colombia,Bogotá
+CUST03437,Primera vez,Colombia,Bogotá
+CUST03438,Inversionista,Mexico,Ciudad de México
+CUST03439,Alto patrimonio,Colombia,Bogotá
+CUST03440,Alto patrimonio,Colombia,Bogotá
+CUST03441,Primera vez,Mexico,Ciudad de México
+CUST03442,Primera vez,Mexico,Ciudad de México
+CUST03443,Primera vez,Mexico,Ciudad de México
+CUST03444,Alto patrimonio,Colombia,Bogotá
+CUST03445,Alto patrimonio,Mexico,Ciudad de México
+CUST03446,Inversionista,Mexico,Ciudad de México
+CUST03447,Inversionista,Colombia,Bogotá
+CUST03448,Inversionista,Colombia,Bogotá
+CUST03449,Inversionista,Mexico,Ciudad de México
+CUST03450,Primera vez,Colombia,Bogotá
+CUST03451,Primera vez,Mexico,Ciudad de México
+CUST03452,Inversionista,Colombia,Bogotá
+CUST03453,Inversionista,Colombia,Bogotá
+CUST03454,Primera vez,Colombia,Bogotá
+CUST03455,Alto patrimonio,Mexico,Ciudad de México
+CUST03456,Primera vez,Colombia,Bogotá
+CUST03457,Primera vez,Mexico,Ciudad de México
+CUST03458,Inversionista,Mexico,Ciudad de México
+CUST03459,Inversionista,Mexico,Ciudad de México
+CUST03460,Inversionista,Mexico,Ciudad de México
+CUST03461,Primera vez,Mexico,Ciudad de México
+CUST03462,Primera vez,Colombia,Bogotá
+CUST03463,Inversionista,Mexico,Ciudad de México
+CUST03464,Inversionista,Mexico,Ciudad de México
+CUST03465,Primera vez,Colombia,Bogotá
+CUST03466,Inversionista,Colombia,Bogotá
+CUST03467,Primera vez,Mexico,Ciudad de México
+CUST03468,Inversionista,Colombia,Bogotá
+CUST03469,Inversionista,Mexico,Ciudad de México
+CUST03470,Primera vez,Colombia,Bogotá
+CUST03471,Primera vez,Colombia,Bogotá
+CUST03472,Inversionista,Mexico,Ciudad de México
+CUST03473,Inversionista,Colombia,Bogotá
+CUST03474,Inversionista,Colombia,Bogotá
+CUST03475,Inversionista,Mexico,Ciudad de México
+CUST03476,Inversionista,Colombia,Bogotá
+CUST03477,Alto patrimonio,Mexico,Ciudad de México
+CUST03478,Primera vez,Mexico,Ciudad de México
+CUST03479,Primera vez,Mexico,Ciudad de México
+CUST03480,Primera vez,Colombia,Bogotá
+CUST03481,Primera vez,Colombia,Bogotá
+CUST03482,Inversionista,Mexico,Ciudad de México
+CUST03483,Primera vez,Mexico,Ciudad de México
+CUST03484,Alto patrimonio,Mexico,Ciudad de México
+CUST03485,Inversionista,Mexico,Ciudad de México
+CUST03486,Inversionista,Colombia,Bogotá
+CUST03487,Primera vez,Colombia,Bogotá
+CUST03488,Primera vez,Colombia,Bogotá
+CUST03489,Primera vez,Colombia,Bogotá
+CUST03490,Primera vez,Colombia,Bogotá
+CUST03491,Primera vez,Mexico,Ciudad de México
+CUST03492,Inversionista,Colombia,Bogotá
+CUST03493,Alto patrimonio,Colombia,Bogotá
+CUST03494,Alto patrimonio,Colombia,Bogotá
+CUST03495,Inversionista,Mexico,Ciudad de México
+CUST03496,Primera vez,Mexico,Ciudad de México
+CUST03497,Alto patrimonio,Mexico,Ciudad de México
+CUST03498,Alto patrimonio,Mexico,Ciudad de México
+CUST03499,Primera vez,Colombia,Bogotá
+CUST03500,Inversionista,Mexico,Ciudad de México
